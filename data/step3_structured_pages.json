@@ -1,0 +1,1156 @@
+[
+  {
+    "page_num": 1,
+    "clean_text": "Folger Shakespeare Library\nhttps://shakespeare.folger.edu/\nGet even more from the Folger\nYou can get your own copy of this text to keep. Purchase a full copy\nto get the text, plus explanatory notes, illustrations, and more.\nBuy a copy",
+    "act": null,
+    "scene": null,
+    "heading_lines_top": [],
+    "is_front_matter": true
+  },
+  {
+    "page_num": 2,
+    "clean_text": "Contents\nFrom the Director of the Folger Shakespeare\nLibrary\nFront\nTextual Introduction\nMatter\nSynopsis\nCharacters in the Play\nScene 1\nACT 1 Scene 2\nScene 3\nScene 1\nScene 2\nACT 2\nScene 3\nScene 4\nScene 1\nACT 3 Scene 2\nScene 3\nScene 1\nACT 4 Scene 2\nScene 3\nScene 1\nScene 2\nACT 5 Scene 3\nScene 4\nScene 5",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [
+      "Scene 1",
+      "ACT 1 Scene 2",
+      "ACT 1 Scene 2",
+      "Scene 3",
+      "Scene 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 3,
+    "clean_text": "From the Director of the Folger Shakespeare\nLibrary\nIt is hard to imagine a world without Shakespeare. Since their\ncomposition four hundred years ago, Shakespeare’s plays and poems\nhave traveled the globe, inviting those who see and read his works to\nmake them their own.\nReaders of the New Folger Editions are part of this ongoing process\nof “taking up Shakespeare,” finding our own thoughts and feelings\nin language that strikes us as old or unusual and, for that very reason,\nnew. We still struggle to keep up with a writer who could think a\nmile a minute, whose words paint pictures that shift like clouds.\nThese expertly edited texts are presented to the public as a resource\nfor study, artistic adaptation, and enjoyment. By making the classic\ntexts of the New Folger Editions available in electronic form as The\nFolger Shakespeare (formerly Folger Digital Texts), we place a\ntrusted resource in the hands of anyone who wants them.\nThe New Folger Editions of Shakespeare’s plays, which are the basis\nfor the texts realized here in digital form, are special because of their\norigin. The Folger Shakespeare Library in Washington, DC, is the\nsingle greatest documentary source of Shakespeare’s works. An\nunparalleled collection of early modern books, manuscripts, and\nartwork connected to Shakespeare, the Folger’s holdings have been\nconsulted extensively in the preparation of these texts. The Editions\nalso reflect the expertise gained through the regular performance of\nShakespeare’s works in the Folger’s Elizabethan Theatre.\nI want to express my deep thanks to editors Barbara Mowat and Paul\nWerstine for creating these indispensable editions of Shakespeare’s\nworks, which incorporate the best of textual scholarship with a\nrichness of commentary that is both inspired and engaging. Readers\nwho want to know more about Shakespeare and his plays can follow\nthe paths these distinguished scholars have tread by visiting the\nFolger either in-person or online, where a range of physical and\ndigital resources exists to supplement the material in these texts. I\ncommend to you these words, and hope that they inspire.\nMichael Witmore\nDirector, Folger Shakespeare Library",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 4,
+    "clean_text": "Textual Introduction\nBy Barbara Mowat and Paul Werstine\nUntil now, with the release of The Folger Shakespeare (formerly\nFolger Digital Texts), readers in search of a free online text of\nShakespeare’s plays had to be content primarily with using the\nMoby™ Text, which reproduces a late-nineteenth century version of\nthe plays. What is the difference? Many ordinary readers assume that\nthere is a single text for the plays: what Shakespeare wrote. But\nShakespeare’s plays were not published the way modern novels or\nplays are published today: as a single, authoritative text. In some\ncases, the plays have come down to us in multiple published\nversions, represented by various Quartos (Qq) and by the great\ncollection put together by his colleagues in 1623, called the First\nFolio (F). There are, for example, three very different versions of\nHamlet, two of King Lear, Henry V, Romeo and Juliet, and others.\nEditors choose which version to use as their base text, and then\namend that text with words, lines or speech prefixes from the other\nversions that, in their judgment, make for a better or more accurate\ntext.\nOther editorial decisions involve choices about whether an\nunfamiliar word could be understood in light of other writings of the\nperiod or whether it should be changed; decisions about words that\nmade it into Shakespeare’s text by accident through four hundred\nyears of printings and misprinting; and even decisions based on\ncultural preference and taste. When the Moby™ Text was created,\nfor example, it was deemed “improper” and “indecent” for Miranda\nto chastise Caliban for having attempted to rape her. (See The\nTempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not\ntake,/Being capable of all ill! I pitied thee…”). All Shakespeare\neditors at the time took the speech away from her and gave it to her\nfather, Prospero.\nThe editors of the Moby™ Shakespeare produced their text long\nbefore scholars fully understood the proper grounds on which to\nmake the thousands of decisions that Shakespeare editors face. The\nFolger Library Shakespeare Editions, on which the Folger\nShakespeare texts depend, make this editorial process as nearly\ntransparent as is possible, in contrast to older texts, like the Moby™,\nwhich hide editorial interventions. The reader of the Folger\nShakespeare knows where the text has been altered because editorial\ninterventions are signaled by square brackets (for example, from\nOthello: “ If she in chains of magic were not bound, ”), half-square\nbrackets (for example, from Henry V: “With blood and sword and\nfire to win your right,”), or angle brackets (for example, from",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 5,
+    "clean_text": "Hamlet: “O farewell, honest soldier. Who hath relieved/you?”). At\nany point in the text, you can hover your cursor over a bracket for\nmore information.\nBecause the Folger Shakespeare texts are edited in accord with\ntwenty-first century knowledge about Shakespeare’s texts, the Folger\nhere provides them to readers, scholars, teachers, actors, directors,\nand students, free of charge, confident of their quality as texts of the\nplays and pleased to be able to make this contribution to the study\nand enjoyment of Shakespeare.",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 6,
+    "clean_text": "Synopsis\nCaesar’s assassination is just the halfway point of Julius Caesar. The\nfirst part of the play leads to his death; the second portrays the\nconsequences. As the action begins, Rome prepares for Caesar’s\ntriumphal entrance. Brutus, Caesar’s friend and ally, fears that\nCaesar will become king, destroying the republic. Cassius and others\nconvince Brutus to join a conspiracy to kill Caesar.\nOn the day of the assassination, Caesar plans to stay home at the\nurging of his wife, Calphurnia. A conspirator, Decius Brutus,\npersuades him to go to the Senate with the other conspirators and his\nfriend, Mark Antony. At the Senate, the conspirators stab Caesar to\ndeath. Antony uses a funeral oration to turn the citizens of Rome\nagainst them. Brutus and Cassius escape as Antony joins forces with\nOctavius Caesar.\nEncamped with their armies, Brutus and Cassius quarrel, then agree\nto march on Antony and Octavius. In the battle which follows,\nCassius, misled by erroneous reports of loss, persuades a slave to kill\nhim; Brutus’s army is defeated. Brutus commits suicide, praised by\nAntony as “the noblest Roman of them all.”",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 7,
+    "clean_text": "Characters in the Play\nJULIUS CAESAR\n, his wife\nCALPHURNIA\nServant to them\nMARCUS BRUTUS\n, his wife\nPORTIA\n, their servant\nLUCIUS\nCAIUS CASSIUS\nCASCA\nCINNA\npatricians who, with Brutus,\nDECIUS BRUTUS\nconspire against Caesar\nCAIUS LIGARIUS\nMETELLUS CIMBER\nTREBONIUS\nCICERO\nsenators\nPUBLIUS\nPOPILIUS LENA\nFLAVIUS\ntribunes\nMARULLUS\nMARK ANTONY\nrulers of Rome in Acts 4 and 5\nLEPIDUS\nOCTAVIUS\nServant to Antony\nServant to Octavius\nLUCILIUS\nTITINIUS\nMESSALA\nVARRO\nCLAUDIUS\nofficers and soldiers in the\nYOUNG CATO\narmies of Brutus and Cassius\nSTRATO\nVOLUMNIUS\n(nonspeaking)\nLABEO\n(nonspeaking)\nFLAVIUS\nDARDANUS\nCLITUS\nA Carpenter\nA Cobbler\nA Soothsayer\nARTEMIDORUS",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 8,
+    "clean_text": "First, Second, Third, and Fourth Plebeians\nthe poet\nCINNA\n, slave to Cassius, freed upon Cassius’s death\nPINDARUS\nFirst, Second, Third, and Fourth Soldiers in Brutus’s army\nAnother Poet\nA Messenger\nFirst and Second Soldiers in Antony’s army\nCitizens, Senators, Petitioners, Plebeians, Soldiers",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 9,
+    "clean_text": "ACT 1\nScene 1\nEnter Flavius, Marullus, and certain Commoners,\nincluding a Carpenter and a Cobbler, over the stage.\nFLAVIUS\nHence! Home, you idle creatures, get you home!\nFTLN 0001\nIs this a holiday? What, know you not,\nFTLN 0002\nBeing mechanical, you ought not walk\nFTLN 0003\nUpon a laboring day without the sign\nFTLN 0004\nFTLN 0005 Of your profession?—Speak, what trade art thou? 5\nFTLN 0006 CARPENTER Why, sir, a carpenter.\nMARULLUS\nWhere is thy leather apron and thy rule?\nFTLN 0007\nWhat dost thou with thy best apparel on?—\nFTLN 0008\nYou, sir, what trade are you?\nFTLN 0009\nFTLN 0010 COBBLER Truly, sir, in respect of a fine workman, I am 10\nbut, as you would say, a cobbler.\nFTLN 0011\nMARULLUS\nBut what trade art thou? Answer me directly.\nFTLN 0012\nFTLN 0013 COBBLER A trade, sir, that I hope I may use with a safe\nconscience, which is indeed, sir, a mender of bad\nFTLN 0014\nFTLN 0015 soles. 15\nFLAVIUS\nWhat trade, thou knave? Thou naughty knave, what\nFTLN 0016\ntrade?\nFTLN 0017\n7",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [
+      "ACT 1",
+      "Scene 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 10,
+    "clean_text": "9 Julius Caesar ACT 1. SC. 1\nFTLN 0018 COBBLER Nay, I beseech you, sir, be not out with me.\nYet if you be out, sir, I can mend you.\nFTLN 0019\nMARULLUS\nFTLN 0020 What mean’st thou by that? Mend me, thou saucy 20\nfellow?\nFTLN 0021\nFTLN 0022 COBBLER Why, sir, cobble you.\nFTLN 0023 FLAVIUS Thou art a cobbler, art thou?\nFTLN 0024 COBBLER Truly, sir, all that I live by is with the\nFTLN 0025 awl. I meddle with no tradesman’s matters nor 25\nwomen’s matters, but withal I am indeed, sir, a\nFTLN 0026\nsurgeon to old shoes: when they are in great danger,\nFTLN 0027\nI recover them. As proper men as ever trod upon\nFTLN 0028\nneat’s leather have gone upon my handiwork.\nFTLN 0029\nFLAVIUS\nFTLN 0030 But wherefore art not in thy shop today? 30\nWhy dost thou lead these men about the streets?\nFTLN 0031\nFTLN 0032 COBBLER Truly, sir, to wear out their shoes, to\nget myself into more work. But indeed, sir, we\nFTLN 0033\nmake holiday to see Caesar and to rejoice in his\nFTLN 0034\nFTLN 0035 triumph. 35\nMARULLUS\nWherefore rejoice? What conquest brings he home?\nFTLN 0036\nWhat tributaries follow him to Rome\nFTLN 0037\nTo grace in captive bonds his chariot wheels?\nFTLN 0038\nYou blocks, you stones, you worse than senseless\nFTLN 0039\nFTLN 0040 things! 40\nO you hard hearts, you cruel men of Rome,\nFTLN 0041\nKnew you not Pompey? Many a time and oft\nFTLN 0042\nHave you climbed up to walls and battlements,\nFTLN 0043\nTo towers and windows, yea, to chimney tops,\nFTLN 0044\nFTLN 0045 Your infants in your arms, and there have sat 45\nThe livelong day, with patient expectation,\nFTLN 0046\nTo see great Pompey pass the streets of Rome.\nFTLN 0047\nAnd when you saw his chariot but appear,\nFTLN 0048\nHave you not made an universal shout,\nFTLN 0049\nFTLN 0050 That Tiber trembled underneath her banks 50",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [
+      "9 Julius Caesar ACT 1. SC. 1",
+      "9 Julius Caesar ACT 1. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 11,
+    "clean_text": "11 Julius Caesar ACT 1. SC. 1\nTo hear the replication of your sounds\nFTLN 0051\nMade in her concave shores?\nFTLN 0052\nAnd do you now put on your best attire?\nFTLN 0053\nAnd do you now cull out a holiday?\nFTLN 0054\nFTLN 0055 And do you now strew flowers in his way 55\nThat comes in triumph over Pompey’s blood?\nFTLN 0056\nBe gone!\nFTLN 0057\nRun to your houses, fall upon your knees,\nFTLN 0058\nPray to the gods to intermit the plague\nFTLN 0059\nFTLN 0060 That needs must light on this ingratitude. 60\nFLAVIUS\nGo, go, good countrymen, and for this fault\nFTLN 0061\nAssemble all the poor men of your sort,\nFTLN 0062\nDraw them to Tiber banks, and weep your tears\nFTLN 0063\nInto the channel, till the lowest stream\nFTLN 0064\nFTLN 0065 Do kiss the most exalted shores of all. 65\nAll the Commoners exit.\nSee whe’er their basest mettle be not moved.\nFTLN 0066\nThey vanish tongue-tied in their guiltiness.\nFTLN 0067\nGo you down that way towards the Capitol.\nFTLN 0068\nThis way will I. Disrobe the images\nFTLN 0069\nFTLN 0070 If you do find them decked with ceremonies. 70\nFTLN 0071 MARULLUS May we do so?\nYou know it is the feast of Lupercal.\nFTLN 0072\nFLAVIUS\nIt is no matter. Let no images\nFTLN 0073\nBe hung with Caesar’s trophies. I’ll about\nFTLN 0074\nFTLN 0075 And drive away the vulgar from the streets; 75\nSo do you too, where you perceive them thick.\nFTLN 0076\nThese growing feathers plucked from Caesar’s wing\nFTLN 0077\nWill make him fly an ordinary pitch,\nFTLN 0078\nWho else would soar above the view of men\nFTLN 0079\nFTLN 0080 And keep us all in servile fearfulness. 80\nThey exit in different directions.",
+    "act": "1",
+    "scene": "1",
+    "heading_lines_top": [
+      "11 Julius Caesar ACT 1. SC. 1",
+      "11 Julius Caesar ACT 1. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 12,
+    "clean_text": "13 Julius Caesar ACT 1. SC. 2\nScene 2\nEnter Caesar, Antony for the course, Calphurnia, Portia,\nDecius, Cicero, Brutus, Cassius, Casca, a Soothsayer;\nafter them Marullus and Flavius and Commoners.\nCAESAR\nCalphurnia.\nFTLN 0081\nFTLN 0082 CASCA Peace, ho! Caesar speaks.\nFTLN 0083 CAESAR Calphurnia.\nFTLN 0084 CALPHURNIA Here, my lord.\nCAESAR\nFTLN 0085 Stand you directly in Antonius’ way 5\nWhen he doth run his course.—Antonius.\nFTLN 0086\nFTLN 0087 ANTONY Caesar, my lord.\nCAESAR\nForget not in your speed, Antonius,\nFTLN 0088\nTo touch Calphurnia, for our elders say\nFTLN 0089\nFTLN 0090 The barren, touchèd in this holy chase, 10\nShake off their sterile curse.\nFTLN 0091\nFTLN 0092 ANTONY I shall remember.\nWhen Caesar says “Do this,” it is performed.\nFTLN 0093\nCAESAR\nFTLN 0094 Set on and leave no ceremony out. Sennet.\nFTLN 0095 SOOTHSAYER Caesar. 15\nFTLN 0096 CAESAR Ha! Who calls?\nCASCA\nBid every noise be still. Peace, yet again!\nFTLN 0097\nCAESAR\nWho is it in the press that calls on me?\nFTLN 0098\nI hear a tongue shriller than all the music\nFTLN 0099\nFTLN 0100 Cry “Caesar.” Speak. Caesar is turned to hear. 20\nSOOTHSAYER\nBeware the ides of March.\nFTLN 0101\nFTLN 0102 CAESAR What man is that?\nBRUTUS\nA soothsayer bids you beware the ides of March.\nFTLN 0103",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "13 Julius Caesar ACT 1. SC. 2",
+      "13 Julius Caesar ACT 1. SC. 2",
+      "Scene 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 13,
+    "clean_text": "15 Julius Caesar ACT 1. SC. 2\nCAESAR\nSet him before me. Let me see his face.\nFTLN 0104\nCASSIUS\nFTLN 0105 Fellow, come from the throng. 25\nThe Soothsayer comes forward.\nLook upon Caesar.\nFTLN 0106\nCAESAR\nWhat sayst thou to me now? Speak once again.\nFTLN 0107\nFTLN 0108 SOOTHSAYER Beware the ides of March.\nCAESAR\nHe is a dreamer. Let us leave him. Pass.\nFTLN 0109\nSennet. All but Brutus and Cassius exit.\nCASSIUS\nFTLN 0110 Will you go see the order of the course? 30\nFTLN 0111 BRUTUS Not I.\nFTLN 0112 CASSIUS I pray you, do.\nBRUTUS\nI am not gamesome. I do lack some part\nFTLN 0113\nOf that quick spirit that is in Antony.\nFTLN 0114\nFTLN 0115 Let me not hinder, Cassius, your desires. 35\nI’ll leave you.\nFTLN 0116\nCASSIUS\nBrutus, I do observe you now of late.\nFTLN 0117\nI have not from your eyes that gentleness\nFTLN 0118\nAnd show of love as I was wont to have.\nFTLN 0119\nFTLN 0120 You bear too stubborn and too strange a hand 40\nOver your friend that loves you.\nFTLN 0121\nFTLN 0122 BRUTUS Cassius,\nBe not deceived. If I have veiled my look,\nFTLN 0123\nI turn the trouble of my countenance\nFTLN 0124\nFTLN 0125 Merely upon myself. Vexèd I am 45\nOf late with passions of some difference,\nFTLN 0126\nConceptions only proper to myself,\nFTLN 0127\nWhich give some soil, perhaps, to my behaviors.\nFTLN 0128\nBut let not therefore my good friends be grieved\nFTLN 0129\nFTLN 0130 (Among which number, Cassius, be you one) 50",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "15 Julius Caesar ACT 1. SC. 2",
+      "15 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 14,
+    "clean_text": "17 Julius Caesar ACT 1. SC. 2\nNor construe any further my neglect\nFTLN 0131\nThan that poor Brutus, with himself at war,\nFTLN 0132\nForgets the shows of love to other men.\nFTLN 0133\nCASSIUS\nThen, Brutus, I have much mistook your passion,\nFTLN 0134\nFTLN 0135 By means whereof this breast of mine hath buried 55\nThoughts of great value, worthy cogitations.\nFTLN 0136\nTell me, good Brutus, can you see your face?\nFTLN 0137\nBRUTUS\nNo, Cassius, for the eye sees not itself\nFTLN 0138\nBut by reflection, by some other things.\nFTLN 0139\nFTLN 0140 CASSIUS ’Tis just. 60\nAnd it is very much lamented, Brutus,\nFTLN 0141\nThat you have no such mirrors as will turn\nFTLN 0142\nYour hidden worthiness into your eye,\nFTLN 0143\nThat you might see your shadow. I have heard\nFTLN 0144\nFTLN 0145 Where many of the best respect in Rome, 65\nExcept immortal Caesar, speaking of Brutus\nFTLN 0146\nAnd groaning underneath this age’s yoke,\nFTLN 0147\nHave wished that noble Brutus had his eyes.\nFTLN 0148\nBRUTUS\nInto what dangers would you lead me, Cassius,\nFTLN 0149\nFTLN 0150 That you would have me seek into myself 70\nFor that which is not in me?\nFTLN 0151\nCASSIUS\nTherefore, good Brutus, be prepared to hear.\nFTLN 0152\nAnd since you know you cannot see yourself\nFTLN 0153\nSo well as by reflection, I, your glass,\nFTLN 0154\nFTLN 0155 Will modestly discover to yourself 75\nThat of yourself which you yet know not of.\nFTLN 0156\nAnd be not jealous on me, gentle Brutus.\nFTLN 0157\nWere I a common laughter, or did use\nFTLN 0158\nTo stale with ordinary oaths my love\nFTLN 0159\nFTLN 0160 To every new protester; if you know 80\nThat I do fawn on men and hug them hard\nFTLN 0161\nAnd after scandal them, or if you know\nFTLN 0162",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "17 Julius Caesar ACT 1. SC. 2",
+      "17 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 15,
+    "clean_text": "19 Julius Caesar ACT 1. SC. 2\nThat I profess myself in banqueting\nFTLN 0163\nTo all the rout, then hold me dangerous.\nFTLN 0164\nFlourish and shout.\nBRUTUS\nFTLN 0165 What means this shouting? I do fear the people 85\nChoose Caesar for their king.\nFTLN 0166\nFTLN 0167 CASSIUS Ay, do you fear it?\nThen must I think you would not have it so.\nFTLN 0168\nBRUTUS\nI would not, Cassius, yet I love him well.\nFTLN 0169\nFTLN 0170 But wherefore do you hold me here so long? 90\nWhat is it that you would impart to me?\nFTLN 0171\nIf it be aught toward the general good,\nFTLN 0172\nSet honor in one eye and death i’ th’ other\nFTLN 0173\nAnd I will look on both indifferently;\nFTLN 0174\nFTLN 0175 For let the gods so speed me as I love 95\nThe name of honor more than I fear death.\nFTLN 0176\nCASSIUS\nI know that virtue to be in you, Brutus,\nFTLN 0177\nAs well as I do know your outward favor.\nFTLN 0178\nWell, honor is the subject of my story.\nFTLN 0179\nFTLN 0180 I cannot tell what you and other men 100\nThink of this life; but, for my single self,\nFTLN 0181\nI had as lief not be as live to be\nFTLN 0182\nIn awe of such a thing as I myself.\nFTLN 0183\nI was born free as Caesar; so were you;\nFTLN 0184\nFTLN 0185 We both have fed as well, and we can both 105\nEndure the winter’s cold as well as he.\nFTLN 0186\nFor once, upon a raw and gusty day,\nFTLN 0187\nThe troubled Tiber chafing with her shores,\nFTLN 0188\nCaesar said to me “Dar’st thou, Cassius, now\nFTLN 0189\nFTLN 0190 Leap in with me into this angry flood 110\nAnd swim to yonder point?” Upon the word,\nFTLN 0191\nAccoutered as I was, I plungèd in\nFTLN 0192\nAnd bade him follow; so indeed he did.\nFTLN 0193\nThe torrent roared, and we did buffet it\nFTLN 0194",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "19 Julius Caesar ACT 1. SC. 2",
+      "19 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 16,
+    "clean_text": "21 Julius Caesar ACT 1. SC. 2\nFTLN 0195 With lusty sinews, throwing it aside 115\nAnd stemming it with hearts of controversy.\nFTLN 0196\nBut ere we could arrive the point proposed,\nFTLN 0197\nCaesar cried “Help me, Cassius, or I sink!”\nFTLN 0198\nI, as Aeneas, our great ancestor,\nFTLN 0199\nFTLN 0200 Did from the flames of Troy upon his shoulder 120\nThe old Anchises bear, so from the waves of Tiber\nFTLN 0201\nDid I the tired Caesar. And this man\nFTLN 0202\nIs now become a god, and Cassius is\nFTLN 0203\nA wretched creature and must bend his body\nFTLN 0204\nFTLN 0205 If Caesar carelessly but nod on him. 125\nHe had a fever when he was in Spain,\nFTLN 0206\nAnd when the fit was on him, I did mark\nFTLN 0207\nHow he did shake. ’Tis true, this god did shake.\nFTLN 0208\nHis coward lips did from their color fly,\nFTLN 0209\nFTLN 0210 And that same eye whose bend doth awe the world 130\nDid lose his luster. I did hear him groan.\nFTLN 0211\nAy, and that tongue of his that bade the Romans\nFTLN 0212\nMark him and write his speeches in their books,\nFTLN 0213\n“Alas,” it cried “Give me some drink, Titinius”\nFTLN 0214\nFTLN 0215 As a sick girl. You gods, it doth amaze me 135\nA man of such a feeble temper should\nFTLN 0216\nSo get the start of the majestic world\nFTLN 0217\nAnd bear the palm alone.\nFTLN 0218\nShout. Flourish.\nFTLN 0219 BRUTUS Another general shout!\nFTLN 0220 I do believe that these applauses are 140\nFor some new honors that are heaped on Caesar.\nFTLN 0221\nCASSIUS\nWhy, man, he doth bestride the narrow world\nFTLN 0222\nLike a Colossus, and we petty men\nFTLN 0223\nWalk under his huge legs and peep about\nFTLN 0224\nFTLN 0225 To find ourselves dishonorable graves. 145\nMen at some time are masters of their fates.\nFTLN 0226\nThe fault, dear Brutus, is not in our stars,\nFTLN 0227\nBut in ourselves, that we are underlings.\nFTLN 0228",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "21 Julius Caesar ACT 1. SC. 2",
+      "21 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 17,
+    "clean_text": "23 Julius Caesar ACT 1. SC. 2\n“Brutus” and “Caesar”—what should be in that\nFTLN 0229\nFTLN 0230 “Caesar”? 150\nWhy should that name be sounded more than\nFTLN 0231\nyours?\nFTLN 0232\nWrite them together, yours is as fair a name;\nFTLN 0233\nSound them, it doth become the mouth as well;\nFTLN 0234\nFTLN 0235 Weigh them, it is as heavy; conjure with ’em, 155\n“Brutus” will start a spirit as soon as “Caesar.”\nFTLN 0236\nNow, in the names of all the gods at once,\nFTLN 0237\nUpon what meat doth this our Caesar feed\nFTLN 0238\nThat he is grown so great? Age, thou art shamed!\nFTLN 0239\nFTLN 0240 Rome, thou hast lost the breed of noble bloods! 160\nWhen went there by an age, since the great flood,\nFTLN 0241\nBut it was famed with more than with one man?\nFTLN 0242\nWhen could they say, till now, that talked of Rome,\nFTLN 0243\nThat her wide walks encompassed but one man?\nFTLN 0244\nFTLN 0245 Now is it Rome indeed, and room enough 165\nWhen there is in it but one only man.\nFTLN 0246\nO, you and I have heard our fathers say\nFTLN 0247\nThere was a Brutus once that would have brooked\nFTLN 0248\nTh’ eternal devil to keep his state in Rome\nFTLN 0249\nFTLN 0250 As easily as a king. 170\nBRUTUS\nThat you do love me, I am nothing jealous.\nFTLN 0251\nWhat you would work me to, I have some aim.\nFTLN 0252\nHow I have thought of this, and of these times,\nFTLN 0253\nI shall recount hereafter. For this present,\nFTLN 0254\nFTLN 0255 I would not, so with love I might entreat you, 175\nBe any further moved. What you have said\nFTLN 0256\nI will consider; what you have to say\nFTLN 0257\nI will with patience hear, and find a time\nFTLN 0258\nBoth meet to hear and answer such high things.\nFTLN 0259\nFTLN 0260 Till then, my noble friend, chew upon this: 180\nBrutus had rather be a villager\nFTLN 0261\nThan to repute himself a son of Rome\nFTLN 0262",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "23 Julius Caesar ACT 1. SC. 2",
+      "23 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 18,
+    "clean_text": "25 Julius Caesar ACT 1. SC. 2\nUnder these hard conditions as this time\nFTLN 0263\nIs like to lay upon us.\nFTLN 0264\nFTLN 0265 CASSIUS I am glad that my weak words 185\nHave struck but thus much show of fire from\nFTLN 0266\nBrutus.\nFTLN 0267\nEnter Caesar and his train.\nBRUTUS\nThe games are done, and Caesar is returning.\nFTLN 0268\nCASSIUS\nAs they pass by, pluck Casca by the sleeve,\nFTLN 0269\nFTLN 0270 And he will, after his sour fashion, tell you 190\nWhat hath proceeded worthy note today.\nFTLN 0271\nBRUTUS\nI will do so. But look you, Cassius,\nFTLN 0272\nThe angry spot doth glow on Caesar’s brow,\nFTLN 0273\nAnd all the rest look like a chidden train.\nFTLN 0274\nFTLN 0275 Calphurnia’s cheek is pale, and Cicero 195\nLooks with such ferret and such fiery eyes\nFTLN 0276\nAs we have seen him in the Capitol,\nFTLN 0277\nBeing crossed in conference by some senators.\nFTLN 0278\nCASSIUS\nCasca will tell us what the matter is.\nFTLN 0279\nFTLN 0280 CAESAR Antonius. 200\nFTLN 0281 ANTONY Caesar.\nCAESAR\nLet me have men about me that are fat,\nFTLN 0282\nSleek-headed men, and such as sleep a-nights.\nFTLN 0283\nYond Cassius has a lean and hungry look.\nFTLN 0284\nFTLN 0285 He thinks too much. Such men are dangerous. 205\nANTONY\nFear him not, Caesar; he’s not dangerous.\nFTLN 0286\nHe is a noble Roman, and well given.\nFTLN 0287\nCAESAR\nWould he were fatter! But I fear him not.\nFTLN 0288\nYet if my name were liable to fear,\nFTLN 0289",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "25 Julius Caesar ACT 1. SC. 2",
+      "25 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 19,
+    "clean_text": "27 Julius Caesar ACT 1. SC. 2\nFTLN 0290 I do not know the man I should avoid 210\nSo soon as that spare Cassius. He reads much,\nFTLN 0291\nHe is a great observer, and he looks\nFTLN 0292\nQuite through the deeds of men. He loves no plays,\nFTLN 0293\nAs thou dost, Antony; he hears no music;\nFTLN 0294\nFTLN 0295 Seldom he smiles, and smiles in such a sort 215\nAs if he mocked himself and scorned his spirit\nFTLN 0296\nThat could be moved to smile at anything.\nFTLN 0297\nSuch men as he be never at heart’s ease\nFTLN 0298\nWhiles they behold a greater than themselves,\nFTLN 0299\nFTLN 0300 And therefore are they very dangerous. 220\nI rather tell thee what is to be feared\nFTLN 0301\nThan what I fear; for always I am Caesar.\nFTLN 0302\nCome on my right hand, for this ear is deaf,\nFTLN 0303\nAnd tell me truly what thou think’st of him.\nFTLN 0304\nSennet. Caesar and his train exit\nbut Casca remains behind.\nFTLN 0305 CASCA You pulled me by the cloak. Would you speak 225\nwith me?\nFTLN 0306\nBRUTUS\nAy, Casca. Tell us what hath chanced today\nFTLN 0307\nThat Caesar looks so sad.\nFTLN 0308\nFTLN 0309 CASCA Why, you were with him, were you not?\nBRUTUS\nFTLN 0310 I should not then ask Casca what had chanced. 230\nFTLN 0311 CASCA Why, there was a crown offered him; and, being\noffered him, he put it by with the back of his hand,\nFTLN 0312\nthus, and then the people fell a-shouting.\nFTLN 0313\nFTLN 0314 BRUTUS What was the second noise for?\nFTLN 0315 CASCA Why, for that too. 235\nCASSIUS\nThey shouted thrice. What was the last cry for?\nFTLN 0316\nFTLN 0317 CASCA Why, for that too.\nFTLN 0318 BRUTUS Was the crown offered him thrice?\nFTLN 0319 CASCA Ay, marry, was ’t, and he put it by thrice, every\nFTLN 0320 time gentler than other; and at every putting-by, 240\nmine honest neighbors shouted.\nFTLN 0321",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "27 Julius Caesar ACT 1. SC. 2",
+      "27 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 20,
+    "clean_text": "29 Julius Caesar ACT 1. SC. 2\nFTLN 0322 CASSIUS Who offered him the crown?\nFTLN 0323 CASCA Why, Antony.\nBRUTUS\nTell us the manner of it, gentle Casca.\nFTLN 0324\nFTLN 0325 CASCA I can as well be hanged as tell the manner of it. 245\nIt was mere foolery; I did not mark it. I saw Mark\nFTLN 0326\nAntony offer him a crown (yet ’twas not a crown\nFTLN 0327\nneither; ’twas one of these coronets), and, as I told\nFTLN 0328\nyou, he put it by once; but for all that, to my\nFTLN 0329\nFTLN 0330 thinking, he would fain have had it. Then he offered 250\nit to him again; then he put it by again; but to my\nFTLN 0331\nthinking, he was very loath to lay his fingers off it.\nFTLN 0332\nAnd then he offered it the third time. He put it the\nFTLN 0333\nthird time by, and still as he refused it the rabblement\nFTLN 0334\nFTLN 0335 hooted and clapped their chopped hands and 255\nthrew up their sweaty nightcaps and uttered such a\nFTLN 0336\ndeal of stinking breath because Caesar refused the\nFTLN 0337\ncrown that it had almost choked Caesar, for he\nFTLN 0338\nswooned and fell down at it. And for mine own part,\nFTLN 0339\nFTLN 0340 I durst not laugh for fear of opening my lips and 260\nreceiving the bad air.\nFTLN 0341\nCASSIUS\nBut soft, I pray you. What, did Caesar swoon?\nFTLN 0342\nFTLN 0343 CASCA He fell down in the marketplace and foamed at\nmouth and was speechless.\nFTLN 0344\nBRUTUS\nFTLN 0345 ’Tis very like; he hath the falling sickness. 265\nCASSIUS\nNo, Caesar hath it not; but you and I\nFTLN 0346\nAnd honest Casca, we have the falling sickness.\nFTLN 0347\nFTLN 0348 CASCA I know not what you mean by that, but I am\nsure Caesar fell down. If the tag-rag people did not\nFTLN 0349\nFTLN 0350 clap him and hiss him, according as he pleased and 270\ndispleased them, as they use to do the players in the\nFTLN 0351\ntheater, I am no true man.\nFTLN 0352",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "29 Julius Caesar ACT 1. SC. 2",
+      "29 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 21,
+    "clean_text": "31 Julius Caesar ACT 1. SC. 2\nBRUTUS\nWhat said he when he came unto himself?\nFTLN 0353\nFTLN 0354 CASCA Marry, before he fell down, when he perceived\nFTLN 0355 the common herd was glad he refused the crown, 275\nhe plucked me ope his doublet and offered them his\nFTLN 0356\nthroat to cut. An I had been a man of any occupation,\nFTLN 0357\nif I would not have taken him at a word, I\nFTLN 0358\nwould I might go to hell among the rogues. And so\nFTLN 0359\nFTLN 0360 he fell. When he came to himself again, he said if he 280\nhad done or said anything amiss, he desired their\nFTLN 0361\nWorships to think it was his infirmity. Three or four\nFTLN 0362\nwenches where I stood cried “Alas, good soul!” and\nFTLN 0363\nforgave him with all their hearts. But there’s no\nFTLN 0364\nFTLN 0365 heed to be taken of them; if Caesar had stabbed 285\ntheir mothers, they would have done no less.\nFTLN 0366\nBRUTUS\nAnd, after that, he came thus sad away?\nFTLN 0367\nFTLN 0368 CASCA Ay.\nFTLN 0369 CASSIUS Did Cicero say anything?\nFTLN 0370 CASCA Ay, he spoke Greek. 290\nFTLN 0371 CASSIUS To what effect?\nFTLN 0372 CASCA Nay, an I tell you that, I’ll ne’er look you i’ th’\nface again. But those that understood him smiled at\nFTLN 0373\none another and shook their heads. But for mine\nFTLN 0374\nFTLN 0375 own part, it was Greek to me. I could tell you more 295\nnews too: Marullus and Flavius, for pulling scarves\nFTLN 0376\noff Caesar’s images, are put to silence. Fare you\nFTLN 0377\nwell. There was more foolery yet, if I could remember\nFTLN 0378\nit.\nFTLN 0379\nFTLN 0380 CASSIUS Will you sup with me tonight, Casca? 300\nFTLN 0381 CASCA No, I am promised forth.\nFTLN 0382 CASSIUS Will you dine with me tomorrow?\nFTLN 0383 CASCA Ay, if I be alive, and your mind hold, and your\ndinner worth the eating.\nFTLN 0384\nFTLN 0385 CASSIUS Good. I will expect you. 305\nFTLN 0386 CASCA Do so. Farewell both. He exits.",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "31 Julius Caesar ACT 1. SC. 2",
+      "31 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 22,
+    "clean_text": "33 Julius Caesar ACT 1. SC. 2\nBRUTUS\nWhat a blunt fellow is this grown to be!\nFTLN 0387\nHe was quick mettle when he went to school.\nFTLN 0388\nCASSIUS\nSo is he now in execution\nFTLN 0389\nFTLN 0390 Of any bold or noble enterprise, 310\nHowever he puts on this tardy form.\nFTLN 0391\nThis rudeness is a sauce to his good wit,\nFTLN 0392\nWhich gives men stomach to digest his words\nFTLN 0393\nWith better appetite.\nFTLN 0394\nBRUTUS\nFTLN 0395 And so it is. For this time I will leave you. 315\nTomorrow, if you please to speak with me,\nFTLN 0396\nI will come home to you; or, if you will,\nFTLN 0397\nCome home to me, and I will wait for you.\nFTLN 0398\nCASSIUS\nI will do so. Till then, think of the world.\nFTLN 0399\nBrutus exits.\nFTLN 0400 Well, Brutus, thou art noble. Yet I see 320\nThy honorable mettle may be wrought\nFTLN 0401\nFrom that it is disposed. Therefore it is meet\nFTLN 0402\nThat noble minds keep ever with their likes;\nFTLN 0403\nFor who so firm that cannot be seduced?\nFTLN 0404\nFTLN 0405 Caesar doth bear me hard, but he loves Brutus. 325\nIf I were Brutus now, and he were Cassius,\nFTLN 0406\nHe should not humor me. I will this night\nFTLN 0407\nIn several hands in at his windows throw,\nFTLN 0408\nAs if they came from several citizens,\nFTLN 0409\nFTLN 0410 Writings, all tending to the great opinion 330\nThat Rome holds of his name, wherein obscurely\nFTLN 0411\nCaesar’s ambition shall be glancèd at\nFTLN 0412\nAnd after this, let Caesar seat him sure,\nFTLN 0413\nFor we will shake him, or worse days endure.\nFTLN 0414\nHe exits.",
+    "act": "1",
+    "scene": "2",
+    "heading_lines_top": [
+      "33 Julius Caesar ACT 1. SC. 2",
+      "33 Julius Caesar ACT 1. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 23,
+    "clean_text": "35 Julius Caesar ACT 1. SC. 3\nScene 3\nThunder and lightning. Enter Casca and Cicero.\nCICERO\nGood even, Casca. Brought you Caesar home?\nFTLN 0415\nWhy are you breathless? And why stare you so?\nFTLN 0416\nCASCA\nAre not you moved, when all the sway of earth\nFTLN 0417\nShakes like a thing unfirm? O Cicero,\nFTLN 0418\nFTLN 0419 I have seen tempests when the scolding winds 5\nHave rived the knotty oaks, and I have seen\nFTLN 0420\nTh’ ambitious ocean swell and rage and foam\nFTLN 0421\nTo be exalted with the threat’ning clouds;\nFTLN 0422\nBut never till tonight, never till now,\nFTLN 0423\nFTLN 0424 Did I go through a tempest dropping fire. 10\nEither there is a civil strife in heaven,\nFTLN 0425\nOr else the world, too saucy with the gods,\nFTLN 0426\nIncenses them to send destruction.\nFTLN 0427\nCICERO\nWhy, saw you anything more wonderful?\nFTLN 0428\nCASCA\nFTLN 0429 A common slave (you know him well by sight) 15\nHeld up his left hand, which did flame and burn\nFTLN 0430\nLike twenty torches joined; and yet his hand,\nFTLN 0431\nNot sensible of fire, remained unscorched.\nFTLN 0432\nBesides (I ha’ not since put up my sword),\nFTLN 0433\nFTLN 0434 Against the Capitol I met a lion, 20\nWho glazed upon me and went surly by\nFTLN 0435\nWithout annoying me. And there were drawn\nFTLN 0436\nUpon a heap a hundred ghastly women,\nFTLN 0437\nTransformèd with their fear, who swore they saw\nFTLN 0438\nFTLN 0439 Men all in fire walk up and down the streets. 25\nAnd yesterday the bird of night did sit\nFTLN 0440\nEven at noonday upon the marketplace,\nFTLN 0441\nHooting and shrieking. When these prodigies\nFTLN 0442\nDo so conjointly meet, let not men say\nFTLN 0443",
+    "act": "1",
+    "scene": "3",
+    "heading_lines_top": [
+      "35 Julius Caesar ACT 1. SC. 3",
+      "35 Julius Caesar ACT 1. SC. 3",
+      "Scene 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 24,
+    "clean_text": "37 Julius Caesar ACT 1. SC. 3\nFTLN 0444 “These are their reasons, they are natural,” 30\nFor I believe they are portentous things\nFTLN 0445\nUnto the climate that they point upon.\nFTLN 0446\nCICERO\nIndeed, it is a strange-disposèd time.\nFTLN 0447\nBut men may construe things after their fashion,\nFTLN 0448\nFTLN 0449 Clean from the purpose of the things themselves. 35\nComes Caesar to the Capitol tomorrow?\nFTLN 0450\nCASCA\nHe doth, for he did bid Antonius\nFTLN 0451\nSend word to you he would be there tomorrow.\nFTLN 0452\nCICERO\nGood night then, Casca. This disturbèd sky\nFTLN 0453\nFTLN 0454 Is not to walk in. 40\nFTLN 0455 CASCA Farewell, Cicero Cicero exits.\nEnter Cassius.\nCASSIUS\nWho’s there?\nFTLN 0456\nFTLN 0457 CASCA A Roman.\nFTLN 0458 CASSIUS Casca, by your voice.\nCASCA\nFTLN 0459 Your ear is good. Cassius, what night is this! 45\nCASSIUS\nA very pleasing night to honest men.\nFTLN 0460\nCASCA\nWho ever knew the heavens menace so?\nFTLN 0461\nCASSIUS\nThose that have known the Earth so full of faults.\nFTLN 0462\nFor my part, I have walked about the streets,\nFTLN 0463\nFTLN 0464 Submitting me unto the perilous night, 50\nAnd thus unbracèd, Casca, as you see,\nFTLN 0465\nHave bared my bosom to the thunder-stone;\nFTLN 0466\nAnd when the cross blue lightning seemed to open\nFTLN 0467\nThe breast of heaven, I did present myself\nFTLN 0468\nFTLN 0469 Even in the aim and very flash of it. 55",
+    "act": "1",
+    "scene": "3",
+    "heading_lines_top": [
+      "37 Julius Caesar ACT 1. SC. 3",
+      "37 Julius Caesar ACT 1. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 25,
+    "clean_text": "39 Julius Caesar ACT 1. SC. 3\nCASCA\nBut wherefore did you so much tempt the heavens?\nFTLN 0470\nIt is the part of men to fear and tremble\nFTLN 0471\nWhen the most mighty gods by tokens send\nFTLN 0472\nSuch dreadful heralds to astonish us.\nFTLN 0473\nCASSIUS\nFTLN 0474 You are dull, Casca, and those sparks of life 60\nThat should be in a Roman you do want,\nFTLN 0475\nOr else you use not. You look pale, and gaze,\nFTLN 0476\nAnd put on fear, and cast yourself in wonder,\nFTLN 0477\nTo see the strange impatience of the heavens.\nFTLN 0478\nFTLN 0479 But if you would consider the true cause 65\nWhy all these fires, why all these gliding ghosts,\nFTLN 0480\nWhy birds and beasts from quality and kind,\nFTLN 0481\nWhy old men, fools, and children calculate,\nFTLN 0482\nWhy all these things change from their ordinance,\nFTLN 0483\nFTLN 0484 Their natures, and preformèd faculties, 70\nTo monstrous quality—why, you shall find\nFTLN 0485\nThat heaven hath infused them with these spirits\nFTLN 0486\nTo make them instruments of fear and warning\nFTLN 0487\nUnto some monstrous state.\nFTLN 0488\nFTLN 0489 Now could I, Casca, name to thee a man 75\nMost like this dreadful night,\nFTLN 0490\nThat thunders, lightens, opens graves, and roars\nFTLN 0491\nAs doth the lion in the Capitol;\nFTLN 0492\nA man no mightier than thyself or me\nFTLN 0493\nFTLN 0494 In personal action, yet prodigious grown, 80\nAnd fearful, as these strange eruptions are.\nFTLN 0495\nCASCA\n’Tis Caesar that you mean, is it not, Cassius?\nFTLN 0496\nCASSIUS\nLet it be who it is. For Romans now\nFTLN 0497\nHave thews and limbs like to their ancestors.\nFTLN 0498\nFTLN 0499 But, woe the while, our fathers’ minds are dead, 85\nAnd we are governed with our mothers’ spirits.\nFTLN 0500\nOur yoke and sufferance show us womanish.\nFTLN 0501",
+    "act": "1",
+    "scene": "3",
+    "heading_lines_top": [
+      "39 Julius Caesar ACT 1. SC. 3",
+      "39 Julius Caesar ACT 1. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 26,
+    "clean_text": "41 Julius Caesar ACT 1. SC. 3\nCASCA\nIndeed, they say the Senators tomorrow\nFTLN 0502\nMean to establish Caesar as a king,\nFTLN 0503\nFTLN 0504 And he shall wear his crown by sea and land 90\nIn every place save here in Italy.\nFTLN 0505\nCASSIUS\nI know where I will wear this dagger then;\nFTLN 0506\nCassius from bondage will deliver Cassius.\nFTLN 0507\nTherein, you gods, you make the weak most strong;\nFTLN 0508\nFTLN 0509 Therein, you gods, you tyrants do defeat. 95\nNor stony tower, nor walls of beaten brass,\nFTLN 0510\nNor airless dungeon, nor strong links of iron,\nFTLN 0511\nCan be retentive to the strength of spirit;\nFTLN 0512\nBut life, being weary of these worldly bars,\nFTLN 0513\nFTLN 0514 Never lacks power to dismiss itself. 100\nIf I know this, know all the world besides,\nFTLN 0515\nThat part of tyranny that I do bear\nFTLN 0516\nI can shake off at pleasure. Thunder still.\nFTLN 0517\nFTLN 0518 CASCA So can I.\nFTLN 0519 So every bondman in his own hand bears 105\nThe power to cancel his captivity.\nFTLN 0520\nCASSIUS\nAnd why should Caesar be a tyrant, then?\nFTLN 0521\nPoor man, I know he would not be a wolf\nFTLN 0522\nBut that he sees the Romans are but sheep;\nFTLN 0523\nFTLN 0524 He were no lion, were not Romans hinds. 110\nThose that with haste will make a mighty fire\nFTLN 0525\nBegin it with weak straws. What trash is Rome,\nFTLN 0526\nWhat rubbish, and what offal when it serves\nFTLN 0527\nFor the base matter to illuminate\nFTLN 0528\nFTLN 0529 So vile a thing as Caesar! But, O grief, 115\nWhere hast thou led me? I perhaps speak this\nFTLN 0530\nBefore a willing bondman; then, I know\nFTLN 0531\nMy answer must be made. But I am armed,\nFTLN 0532\nAnd dangers are to me indifferent.\nFTLN 0533",
+    "act": "1",
+    "scene": "3",
+    "heading_lines_top": [
+      "41 Julius Caesar ACT 1. SC. 3",
+      "41 Julius Caesar ACT 1. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 27,
+    "clean_text": "43 Julius Caesar ACT 1. SC. 3\nCASCA\nFTLN 0534 You speak to Casca, and to such a man 120\nThat is no fleering telltale. Hold. My hand.\nFTLN 0535\nThey shake hands.\nBe factious for redress of all these griefs,\nFTLN 0536\nAnd I will set this foot of mine as far\nFTLN 0537\nAs who goes farthest.\nFTLN 0538\nFTLN 0539 CASSIUS There’s a bargain made. 125\nNow know you, Casca, I have moved already\nFTLN 0540\nSome certain of the noblest-minded Romans\nFTLN 0541\nTo undergo with me an enterprise\nFTLN 0542\nOf honorable-dangerous consequence.\nFTLN 0543\nFTLN 0544 And I do know by this they stay for me 130\nIn Pompey’s Porch. For now, this fearful night,\nFTLN 0545\nThere is no stir or walking in the streets;\nFTLN 0546\nAnd the complexion of the element\nFTLN 0547\nFTLN 0548 In favor ’s like the work we have in hand,\nFTLN 0549 Most bloody, fiery, and most terrible. 135\nEnter Cinna.\nCASCA\nStand close awhile, for here comes one in haste.\nFTLN 0550\nCASSIUS\n’Tis Cinna; I do know him by his gait.\nFTLN 0551\nHe is a friend.—Cinna, where haste you so?\nFTLN 0552\nCINNA\nTo find out you. Who’s that? Metellus Cimber?\nFTLN 0553\nCASSIUS\nFTLN 0554 No, it is Casca, one incorporate 140\nTo our attempts. Am I not stayed for, Cinna?\nFTLN 0555\nCINNA\nI am glad on ’t. What a fearful night is this!\nFTLN 0556\nThere’s two or three of us have seen strange sights.\nFTLN 0557\nFTLN 0558 CASSIUS Am I not stayed for? Tell me.\nCINNA\nFTLN 0559 Yes, you are. O Cassius, if you could 145\nBut win the noble Brutus to our party—\nFTLN 0560",
+    "act": "1",
+    "scene": "3",
+    "heading_lines_top": [
+      "43 Julius Caesar ACT 1. SC. 3",
+      "43 Julius Caesar ACT 1. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 28,
+    "clean_text": "45 Julius Caesar ACT 1. SC. 3\nCASSIUS, handing him papers\nBe you content. Good Cinna, take this paper,\nFTLN 0561\nAnd look you lay it in the Praetor’s chair,\nFTLN 0562\nWhere Brutus may but find it; and throw this\nFTLN 0563\nFTLN 0564 In at his window; set this up with wax 150\nUpon old Brutus’ statue. All this done,\nFTLN 0565\nRepair to Pompey’s Porch, where you shall find us.\nFTLN 0566\nIs Decius Brutus and Trebonius there?\nFTLN 0567\nCINNA\nAll but Metellus Cimber, and he’s gone\nFTLN 0568\nFTLN 0569 To seek you at your house. Well, I will hie 155\nAnd so bestow these papers as you bade me.\nFTLN 0570\nCASSIUS\nThat done, repair to Pompey’s Theater.\nFTLN 0571\nCinna exits.\nCome, Casca, you and I will yet ere day\nFTLN 0572\nSee Brutus at his house. Three parts of him\nFTLN 0573\nFTLN 0574 Is ours already, and the man entire 160\nUpon the next encounter yields him ours.\nFTLN 0575\nCASCA\nO, he sits high in all the people’s hearts,\nFTLN 0576\nAnd that which would appear offense in us\nFTLN 0577\nHis countenance, like richest alchemy,\nFTLN 0578\nFTLN 0579 Will change to virtue and to worthiness. 165\nCASSIUS\nHim and his worth and our great need of him\nFTLN 0580\nYou have right well conceited. Let us go,\nFTLN 0581\nFor it is after midnight, and ere day\nFTLN 0582\nWe will awake him and be sure of him.\nFTLN 0583\nThey exit.",
+    "act": "1",
+    "scene": "3",
+    "heading_lines_top": [
+      "45 Julius Caesar ACT 1. SC. 3",
+      "45 Julius Caesar ACT 1. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 29,
+    "clean_text": "ACT 2\nScene 1\nEnter Brutus in his orchard.\nFTLN 0584 BRUTUS What, Lucius, ho!—\nI cannot by the progress of the stars\nFTLN 0585\nGive guess how near to day.—Lucius, I say!—\nFTLN 0586\nI would it were my fault to sleep so soundly.—\nFTLN 0587\nFTLN 0588 When, Lucius, when? Awake, I say! What, Lucius! 5\nEnter Lucius.\nFTLN 0589 LUCIUS Called you, my lord?\nBRUTUS\nGet me a taper in my study, Lucius.\nFTLN 0590\nWhen it is lighted, come and call me here.\nFTLN 0591\nFTLN 0592 LUCIUS I will, my lord. He exits.\nBRUTUS\nFTLN 0593 It must be by his death. And for my part 10\nI know no personal cause to spurn at him,\nFTLN 0594\nBut for the general. He would be crowned:\nFTLN 0595\nHow that might change his nature, there’s the\nFTLN 0596\nquestion.\nFTLN 0597\nFTLN 0598 It is the bright day that brings forth the adder, 15\nAnd that craves wary walking. Crown him that,\nFTLN 0599\nAnd then I grant we put a sting in him\nFTLN 0600\nThat at his will he may do danger with.\nFTLN 0601\nTh’ abuse of greatness is when it disjoins\nFTLN 0602\n49",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "ACT 2",
+      "Scene 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 30,
+    "clean_text": "51 Julius Caesar ACT 2. SC. 1\nFTLN 0603 Remorse from power. And, to speak truth of Caesar, 20\nI have not known when his affections swayed\nFTLN 0604\nMore than his reason. But ’tis a common proof\nFTLN 0605\nThat lowliness is young ambition’s ladder,\nFTLN 0606\nFTLN 0607 Whereto the climber-upward turns his face;\nFTLN 0608 But, when he once attains the upmost round, 25\nHe then unto the ladder turns his back,\nFTLN 0609\nLooks in the clouds, scorning the base degrees\nFTLN 0610\nBy which he did ascend. So Caesar may.\nFTLN 0611\nThen, lest he may, prevent. And since the quarrel\nFTLN 0612\nFTLN 0613 Will bear no color for the thing he is, 30\nFashion it thus: that what he is, augmented,\nFTLN 0614\nWould run to these and these extremities.\nFTLN 0615\nAnd therefore think him as a serpent’s egg,\nFTLN 0616\nWhich, hatched, would, as his kind, grow\nFTLN 0617\nFTLN 0618 mischievous, 35\nAnd kill him in the shell.\nFTLN 0619\nEnter Lucius.\nLUCIUS\nThe taper burneth in your closet, sir.\nFTLN 0620\nSearching the window for a flint, I found\nFTLN 0621\nThis paper, thus sealed up, and I am sure\nFTLN 0622\nFTLN 0623 It did not lie there when I went to bed. 40\nGives him the letter.\nBRUTUS\nGet you to bed again. It is not day.\nFTLN 0624\nFTLN 0625 Is not tomorrow, boy, the ides of March?\nFTLN 0626 LUCIUS I know not, sir.\nBRUTUS\nLook in the calendar, and bring me word.\nFTLN 0627\nFTLN 0628 LUCIUS I will, sir. He exits. 45\nBRUTUS\nThe exhalations, whizzing in the air,\nFTLN 0629\nGive so much light that I may read by them.\nFTLN 0630\nOpens the letter and reads.",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "51 Julius Caesar ACT 2. SC. 1",
+      "51 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 31,
+    "clean_text": "53 Julius Caesar ACT 2. SC. 1\nBrutus, thou sleep’st. Awake, and see thyself!\nFTLN 0631\nShall Rome, etc. Speak, strike, redress!\nFTLN 0632\nFTLN 0633 “Brutus, thou sleep’st. Awake.” 50\nSuch instigations have been often dropped\nFTLN 0634\nWhere I have took them up.\nFTLN 0635\n“Shall Rome, etc.” Thus must I piece it out:\nFTLN 0636\nShall Rome stand under one man’s awe? What,\nFTLN 0637\nFTLN 0638 Rome? 55\nMy ancestors did from the streets of Rome\nFTLN 0639\nThe Tarquin drive when he was called a king.\nFTLN 0640\n“Speak, strike, redress!” Am I entreated\nFTLN 0641\nTo speak and strike? O Rome, I make thee promise,\nFTLN 0642\nFTLN 0643 If the redress will follow, thou receivest 60\nThy full petition at the hand of Brutus.\nFTLN 0644\nEnter Lucius.\nFTLN 0645 LUCIUS Sir, March is wasted fifteen days.\nKnock within.\nBRUTUS\n’Tis good. Go to the gate; somebody knocks.\nFTLN 0646\nLucius exits.\nSince Cassius first did whet me against Caesar,\nFTLN 0647\nFTLN 0648 I have not slept. 65\nBetween the acting of a dreadful thing\nFTLN 0649\nAnd the first motion, all the interim is\nFTLN 0650\nLike a phantasma or a hideous dream.\nFTLN 0651\nThe genius and the mortal instruments\nFTLN 0652\nFTLN 0653 Are then in council, and the state of man, 70\nLike to a little kingdom, suffers then\nFTLN 0654\nThe nature of an insurrection.\nFTLN 0655\nEnter Lucius.\nLUCIUS\nSir, ’tis your brother Cassius at the door,\nFTLN 0656\nWho doth desire to see you.\nFTLN 0657",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "53 Julius Caesar ACT 2. SC. 1",
+      "53 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 32,
+    "clean_text": "55 Julius Caesar ACT 2. SC. 1\nFTLN 0658 BRUTUS Is he alone? 75\nLUCIUS\nNo, sir. There are more with him.\nFTLN 0659\nFTLN 0660 BRUTUS Do you know\nthem?\nFTLN 0661\nLUCIUS\nNo, sir. Their hats are plucked about their ears,\nFTLN 0662\nFTLN 0663 And half their faces buried in their cloaks, 80\nThat by no means I may discover them\nFTLN 0664\nBy any mark of favor.\nFTLN 0665\nFTLN 0666 BRUTUS Let ’em enter. Lucius exits.\nThey are the faction. O conspiracy,\nFTLN 0667\nFTLN 0668 Sham’st thou to show thy dang’rous brow by night, 85\nWhen evils are most free? O, then, by day\nFTLN 0669\nWhere wilt thou find a cavern dark enough\nFTLN 0670\nTo mask thy monstrous visage? Seek none,\nFTLN 0671\nconspiracy.\nFTLN 0672\nFTLN 0673 Hide it in smiles and affability; 90\nFor if thou path, thy native semblance on,\nFTLN 0674\nNot Erebus itself were dim enough\nFTLN 0675\nTo hide thee from prevention.\nFTLN 0676\nEnter the conspirators, Cassius, Casca, Decius, Cinna,\nMetellus, and Trebonius.\nCASSIUS\nI think we are too bold upon your rest.\nFTLN 0677\nFTLN 0678 Good morrow, Brutus. Do we trouble you? 95\nBRUTUS\nI have been up this hour, awake all night.\nFTLN 0679\nKnow I these men that come along with you?\nFTLN 0680\nCASSIUS\nYes, every man of them; and no man here\nFTLN 0681\nBut honors you, and every one doth wish\nFTLN 0682\nFTLN 0683 You had but that opinion of yourself 100\nWhich every noble Roman bears of you.\nFTLN 0684\nThis is Trebonius.\nFTLN 0685",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "55 Julius Caesar ACT 2. SC. 1",
+      "55 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 33,
+    "clean_text": "57 Julius Caesar ACT 2. SC. 1\nFTLN 0686 BRUTUS He is welcome hither.\nCASSIUS\nThis, Decius Brutus.\nFTLN 0687\nFTLN 0688 BRUTUS He is welcome too. 105\nCASSIUS\nThis, Casca; this, Cinna; and this, Metellus Cimber.\nFTLN 0689\nFTLN 0690 BRUTUS They are all welcome.\nWhat watchful cares do interpose themselves\nFTLN 0691\nBetwixt your eyes and night?\nFTLN 0692\nFTLN 0693 CASSIUS Shall I entreat a word? 110\nBrutus and Cassius whisper.\nDECIUS\nHere lies the east; doth not the day break here?\nFTLN 0694\nFTLN 0695 CASCA No.\nCINNA\nO pardon, sir, it doth; and yon gray lines\nFTLN 0696\nThat fret the clouds are messengers of day.\nFTLN 0697\nCASCA\nFTLN 0698 You shall confess that you are both deceived. 115\nHere, as I point my sword, the sun arises,\nFTLN 0699\nWhich is a great way growing on the south,\nFTLN 0700\nWeighing the youthful season of the year.\nFTLN 0701\nSome two months hence, up higher toward the\nFTLN 0702\nFTLN 0703 north 120\nHe first presents his fire, and the high east\nFTLN 0704\nStands, as the Capitol, directly here.\nFTLN 0705\nBRUTUS, coming forward with Cassius\nGive me your hands all over, one by one.\nFTLN 0706\nCASSIUS\nAnd let us swear our resolution.\nFTLN 0707\nBRUTUS\nFTLN 0708 No, not an oath. If not the face of men, 125\nThe sufferance of our souls, the time’s abuse—\nFTLN 0709\nIf these be motives weak, break off betimes,\nFTLN 0710\nAnd every man hence to his idle bed.\nFTLN 0711\nSo let high-sighted tyranny range on\nFTLN 0712",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "57 Julius Caesar ACT 2. SC. 1",
+      "57 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 34,
+    "clean_text": "59 Julius Caesar ACT 2. SC. 1\nFTLN 0713 Till each man drop by lottery. But if these— 130\nAs I am sure they do—bear fire enough\nFTLN 0714\nTo kindle cowards and to steel with valor\nFTLN 0715\nThe melting spirits of women, then, countrymen,\nFTLN 0716\nWhat need we any spur but our own cause\nFTLN 0717\nFTLN 0718 To prick us to redress? What other bond 135\nThan secret Romans that have spoke the word\nFTLN 0719\nAnd will not palter? And what other oath\nFTLN 0720\nThan honesty to honesty engaged\nFTLN 0721\nThat this shall be or we will fall for it?\nFTLN 0722\nFTLN 0723 Swear priests and cowards and men cautelous, 140\nOld feeble carrions, and such suffering souls\nFTLN 0724\nThat welcome wrongs; unto bad causes swear\nFTLN 0725\nSuch creatures as men doubt; but do not stain\nFTLN 0726\nThe even virtue of our enterprise,\nFTLN 0727\nFTLN 0728 Nor th’ insuppressive mettle of our spirits, 145\nTo think that or our cause or our performance\nFTLN 0729\nDid need an oath, when every drop of blood\nFTLN 0730\nThat every Roman bears, and nobly bears,\nFTLN 0731\nIs guilty of a several bastardy\nFTLN 0732\nFTLN 0733 If he do break the smallest particle 150\nOf any promise that hath passed from him.\nFTLN 0734\nCASSIUS\nBut what of Cicero? Shall we sound him?\nFTLN 0735\nI think he will stand very strong with us.\nFTLN 0736\nCASCA\nLet us not leave him out.\nFTLN 0737\nFTLN 0738 CINNA No, by no means. 155\nMETELLUS\nO, let us have him, for his silver hairs\nFTLN 0739\nWill purchase us a good opinion\nFTLN 0740\nAnd buy men’s voices to commend our deeds.\nFTLN 0741\nIt shall be said his judgment ruled our hands.\nFTLN 0742\nFTLN 0743 Our youths and wildness shall no whit appear, 160\nBut all be buried in his gravity.\nFTLN 0744",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "59 Julius Caesar ACT 2. SC. 1",
+      "59 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 35,
+    "clean_text": "61 Julius Caesar ACT 2. SC. 1\nBRUTUS\nO, name him not! Let us not break with him,\nFTLN 0745\nFor he will never follow anything\nFTLN 0746\nThat other men begin.\nFTLN 0747\nFTLN 0748 CASSIUS Then leave him out. 165\nFTLN 0749 CASCA Indeed, he is not fit.\nDECIUS\nShall no man else be touched, but only Caesar?\nFTLN 0750\nCASSIUS\nDecius, well urged. I think it is not meet\nFTLN 0751\nMark Antony, so well beloved of Caesar,\nFTLN 0752\nFTLN 0753 Should outlive Caesar. We shall find of him 170\nA shrewd contriver; and, you know, his means,\nFTLN 0754\nIf he improve them, may well stretch so far\nFTLN 0755\nAs to annoy us all; which to prevent,\nFTLN 0756\nLet Antony and Caesar fall together.\nFTLN 0757\nBRUTUS\nFTLN 0758 Our course will seem too bloody, Caius Cassius, 175\nTo cut the head off and then hack the limbs,\nFTLN 0759\nLike wrath in death and envy afterwards;\nFTLN 0760\nFor Antony is but a limb of Caesar.\nFTLN 0761\nLet’s be sacrificers, but not butchers, Caius.\nFTLN 0762\nFTLN 0763 We all stand up against the spirit of Caesar, 180\nAnd in the spirit of men there is no blood.\nFTLN 0764\nO, that we then could come by Caesar’s spirit\nFTLN 0765\nAnd not dismember Caesar! But, alas,\nFTLN 0766\nCaesar must bleed for it. And, gentle friends,\nFTLN 0767\nFTLN 0768 Let’s kill him boldly, but not wrathfully. 185\nLet’s carve him as a dish fit for the gods,\nFTLN 0769\nNot hew him as a carcass fit for hounds.\nFTLN 0770\nAnd let our hearts, as subtle masters do,\nFTLN 0771\nStir up their servants to an act of rage\nFTLN 0772\nFTLN 0773 And after seem to chide ’em. This shall make 190\nOur purpose necessary and not envious;\nFTLN 0774\nWhich so appearing to the common eyes,\nFTLN 0775\nWe shall be called purgers, not murderers.\nFTLN 0776",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "61 Julius Caesar ACT 2. SC. 1",
+      "61 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 36,
+    "clean_text": "63 Julius Caesar ACT 2. SC. 1\nAnd for Mark Antony, think not of him,\nFTLN 0777\nFTLN 0778 For he can do no more than Caesar’s arm 195\nWhen Caesar’s head is off.\nFTLN 0779\nFTLN 0780 CASSIUS Yet I fear him,\nFor in the engrafted love he bears to Caesar—\nFTLN 0781\nBRUTUS\nAlas, good Cassius, do not think of him.\nFTLN 0782\nFTLN 0783 If he love Caesar, all that he can do 200\nIs to himself: take thought and die for Caesar.\nFTLN 0784\nAnd that were much he should, for he is given\nFTLN 0785\nTo sports, to wildness, and much company.\nFTLN 0786\nTREBONIUS\nThere is no fear in him. Let him not die,\nFTLN 0787\nFTLN 0788 For he will live and laugh at this hereafter. 205\nClock strikes.\nBRUTUS\nPeace, count the clock.\nFTLN 0789\nFTLN 0790 CASSIUS The clock hath stricken\nthree.\nFTLN 0791\nTREBONIUS\n’Tis time to part.\nFTLN 0792\nFTLN 0793 CASSIUS But it is doubtful yet 210\nWhether Caesar will come forth today or no,\nFTLN 0794\nFor he is superstitious grown of late,\nFTLN 0795\nQuite from the main opinion he held once\nFTLN 0796\nOf fantasy, of dreams, and ceremonies.\nFTLN 0797\nFTLN 0798 It may be these apparent prodigies, 215\nThe unaccustomed terror of this night,\nFTLN 0799\nAnd the persuasion of his augurers\nFTLN 0800\nMay hold him from the Capitol today.\nFTLN 0801\nDECIUS\nNever fear that. If he be so resolved,\nFTLN 0802\nFTLN 0803 I can o’ersway him, for he loves to hear 220\nThat unicorns may be betrayed with trees,\nFTLN 0804\nAnd bears with glasses, elephants with holes,\nFTLN 0805\nLions with toils, and men with flatterers.\nFTLN 0806",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "63 Julius Caesar ACT 2. SC. 1",
+      "63 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 37,
+    "clean_text": "65 Julius Caesar ACT 2. SC. 1\nBut when I tell him he hates flatterers,\nFTLN 0807\nFTLN 0808 He says he does, being then most flatterèd. 225\nLet me work,\nFTLN 0809\nFor I can give his humor the true bent,\nFTLN 0810\nAnd I will bring him to the Capitol.\nFTLN 0811\nCASSIUS\nNay, we will all of us be there to fetch him.\nFTLN 0812\nBRUTUS\nFTLN 0813 By the eighth hour, is that the uttermost? 230\nCINNA\nBe that the uttermost, and fail not then.\nFTLN 0814\nMETELLUS\nCaius Ligarius doth bear Caesar hard,\nFTLN 0815\nWho rated him for speaking well of Pompey.\nFTLN 0816\nI wonder none of you have thought of him.\nFTLN 0817\nBRUTUS\nFTLN 0818 Now, good Metellus, go along by him. 235\nHe loves me well, and I have given him reasons.\nFTLN 0819\nSend him but hither, and I’ll fashion him.\nFTLN 0820\nCASSIUS\nThe morning comes upon ’s. We’ll leave you,\nFTLN 0821\nBrutus.\nFTLN 0822\nFTLN 0823 And, friends, disperse yourselves, but all remember 240\nWhat you have said, and show yourselves true\nFTLN 0824\nRomans.\nFTLN 0825\nBRUTUS\nGood gentlemen, look fresh and merrily.\nFTLN 0826\nLet not our looks put on our purposes,\nFTLN 0827\nFTLN 0828 But bear it, as our Roman actors do, 245\nWith untired spirits and formal constancy.\nFTLN 0829\nAnd so good morrow to you every one.\nFTLN 0830\nAll but Brutus exit.\nBoy! Lucius!—Fast asleep? It is no matter.\nFTLN 0831\nEnjoy the honey-heavy dew of slumber.\nFTLN 0832\nFTLN 0833 Thou hast no figures nor no fantasies 250",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "65 Julius Caesar ACT 2. SC. 1",
+      "65 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 38,
+    "clean_text": "67 Julius Caesar ACT 2. SC. 1\nWhich busy care draws in the brains of men.\nFTLN 0834\nTherefore thou sleep’st so sound.\nFTLN 0835\nEnter Portia.\nFTLN 0836 PORTIA Brutus, my lord.\nBRUTUS\nPortia! What mean you? Wherefore rise you now?\nFTLN 0837\nFTLN 0838 It is not for your health thus to commit 255\nYour weak condition to the raw cold morning.\nFTLN 0839\nPORTIA\nNor for yours neither. You’ve ungently, Brutus,\nFTLN 0840\nStole from my bed. And yesternight at supper\nFTLN 0841\nYou suddenly arose and walked about,\nFTLN 0842\nFTLN 0843 Musing and sighing, with your arms across, 260\nAnd when I asked you what the matter was,\nFTLN 0844\nYou stared upon me with ungentle looks.\nFTLN 0845\nI urged you further; then you scratched your head\nFTLN 0846\nAnd too impatiently stamped with your foot.\nFTLN 0847\nFTLN 0848 Yet I insisted; yet you answered not, 265\nBut with an angry wafture of your hand\nFTLN 0849\nGave sign for me to leave you. So I did,\nFTLN 0850\nFearing to strengthen that impatience\nFTLN 0851\nWhich seemed too much enkindled, and withal\nFTLN 0852\nFTLN 0853 Hoping it was but an effect of humor, 270\nWhich sometime hath his hour with every man.\nFTLN 0854\nIt will not let you eat nor talk nor sleep,\nFTLN 0855\nAnd could it work so much upon your shape\nFTLN 0856\nAs it hath much prevailed on your condition,\nFTLN 0857\nFTLN 0858 I should not know you Brutus. Dear my lord, 275\nMake me acquainted with your cause of grief.\nFTLN 0859\nBRUTUS\nI am not well in health, and that is all.\nFTLN 0860\nPORTIA\nBrutus is wise and, were he not in health,\nFTLN 0861\nHe would embrace the means to come by it.\nFTLN 0862",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "67 Julius Caesar ACT 2. SC. 1",
+      "67 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 39,
+    "clean_text": "69 Julius Caesar ACT 2. SC. 1\nBRUTUS\nFTLN 0863 Why so I do. Good Portia, go to bed. 280\nPORTIA\nIs Brutus sick? And is it physical\nFTLN 0864\nTo walk unbracèd and suck up the humors\nFTLN 0865\nOf the dank morning? What, is Brutus sick,\nFTLN 0866\nAnd will he steal out of his wholesome bed\nFTLN 0867\nFTLN 0868 To dare the vile contagion of the night 285\nAnd tempt the rheumy and unpurgèd air\nFTLN 0869\nFTLN 0870 To add unto his sickness? No, my Brutus,\nYou have some sick offense within your mind,\nFTLN 0871\nWhich by the right and virtue of my place\nFTLN 0872\nFTLN 0873 I ought to know of. She kneels. And upon my 290\nknees\nFTLN 0874\nI charm you, by my once commended beauty,\nFTLN 0875\nBy all your vows of love, and that great vow\nFTLN 0876\nWhich did incorporate and make us one,\nFTLN 0877\nFTLN 0878 That you unfold to me, your self, your half, 295\nWhy you are heavy, and what men tonight\nFTLN 0879\nHave had resort to you; for here have been\nFTLN 0880\nSome six or seven who did hide their faces\nFTLN 0881\nEven from darkness.\nFTLN 0882\nFTLN 0883 BRUTUS Kneel not, gentle Portia. 300\nHe lifts her up.\nPORTIA\nI should not need, if you were gentle Brutus.\nFTLN 0884\nWithin the bond of marriage, tell me, Brutus,\nFTLN 0885\nIs it excepted I should know no secrets\nFTLN 0886\nThat appertain to you? Am I your self\nFTLN 0887\nFTLN 0888 But, as it were, in sort or limitation, 305\nTo keep with you at meals, comfort your bed,\nFTLN 0889\nAnd talk to you sometimes? Dwell I but in the\nFTLN 0890\nsuburbs\nFTLN 0891\nOf your good pleasure? If it be no more,\nFTLN 0892\nFTLN 0893 Portia is Brutus’ harlot, not his wife. 310",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "69 Julius Caesar ACT 2. SC. 1",
+      "69 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 40,
+    "clean_text": "71 Julius Caesar ACT 2. SC. 1\nBRUTUS\nYou are my true and honorable wife,\nFTLN 0894\nAs dear to me as are the ruddy drops\nFTLN 0895\nThat visit my sad heart.\nFTLN 0896\nPORTIA\nIf this were true, then should I know this secret.\nFTLN 0897\nFTLN 0898 I grant I am a woman, but withal 315\nA woman that Lord Brutus took to wife.\nFTLN 0899\nI grant I am a woman, but withal\nFTLN 0900\nA woman well-reputed, Cato’s daughter.\nFTLN 0901\nThink you I am no stronger than my sex,\nFTLN 0902\nFTLN 0903 Being so fathered and so husbanded? 320\nTell me your counsels; I will not disclose ’em.\nFTLN 0904\nI have made strong proof of my constancy,\nFTLN 0905\nGiving myself a voluntary wound\nFTLN 0906\nHere, in the thigh. Can I bear that with patience,\nFTLN 0907\nFTLN 0908 And not my husband’s secrets? 325\nFTLN 0909 BRUTUS O you gods,\nRender me worthy of this noble wife! Knock.\nFTLN 0910\nHark, hark, one knocks. Portia, go in awhile,\nFTLN 0911\nAnd by and by thy bosom shall partake\nFTLN 0912\nFTLN 0913 The secrets of my heart. 330\nAll my engagements I will construe to thee,\nFTLN 0914\nAll the charactery of my sad brows.\nFTLN 0915\nLeave me with haste. Portia exits.\nFTLN 0916\nLucius, who ’s that knocks?\nFTLN 0917\nEnter Lucius and Ligarius.\nLUCIUS\nFTLN 0918 Here is a sick man that would speak with you. 335\nBRUTUS\nCaius Ligarius, that Metellus spoke of.—\nFTLN 0919\nFTLN 0920 Boy, stand aside. Lucius exits.\nCaius Ligarius, how?\nFTLN 0921\nLIGARIUS\nVouchsafe good morrow from a feeble tongue.\nFTLN 0922",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "71 Julius Caesar ACT 2. SC. 1",
+      "71 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 41,
+    "clean_text": "73 Julius Caesar ACT 2. SC. 1\nBRUTUS\nFTLN 0923 O, what a time have you chose out, brave Caius, 340\nTo wear a kerchief! Would you were not sick!\nFTLN 0924\nLIGARIUS\nI am not sick, if Brutus have in hand\nFTLN 0925\nAny exploit worthy the name of honor.\nFTLN 0926\nBRUTUS\nSuch an exploit have I in hand, Ligarius,\nFTLN 0927\nFTLN 0928 Had you a healthful ear to hear of it. 345\nLIGARIUS\nBy all the gods that Romans bow before,\nFTLN 0929\nI here discard my sickness.\nFTLN 0930\nHe takes off his kerchief.\nSoul of Rome,\nFTLN 0931\nBrave son derived from honorable loins,\nFTLN 0932\nFTLN 0933 Thou like an exorcist hast conjured up 350\nMy mortifièd spirit. Now bid me run,\nFTLN 0934\nAnd I will strive with things impossible,\nFTLN 0935\nYea, get the better of them. What’s to do?\nFTLN 0936\nBRUTUS\nA piece of work that will make sick men whole.\nFTLN 0937\nLIGARIUS\nFTLN 0938 But are not some whole that we must make sick? 355\nBRUTUS\nThat must we also. What it is, my Caius,\nFTLN 0939\nI shall unfold to thee as we are going\nFTLN 0940\nTo whom it must be done.\nFTLN 0941\nFTLN 0942 LIGARIUS Set on your foot,\nFTLN 0943 And with a heart new-fired I follow you 360\nTo do I know not what; but it sufficeth\nFTLN 0944\nThat Brutus leads me on. Thunder.\nFTLN 0945\nFTLN 0946 BRUTUS Follow me then.\nThey exit.",
+    "act": "2",
+    "scene": "1",
+    "heading_lines_top": [
+      "73 Julius Caesar ACT 2. SC. 1",
+      "73 Julius Caesar ACT 2. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 42,
+    "clean_text": "75 Julius Caesar ACT 2. SC. 2\nScene 2\nThunder and lightning. Enter Julius Caesar in his\nnightgown.\nCAESAR\nNor heaven nor Earth have been at peace tonight.\nFTLN 0947\nThrice hath Calphurnia in her sleep cried out\nFTLN 0948\n“Help ho, they murder Caesar!”—Who’s within?\nFTLN 0949\nEnter a Servant.\nFTLN 0950 SERVANT My lord.\nCAESAR\nFTLN 0951 Go bid the priests do present sacrifice, 5\nAnd bring me their opinions of success.\nFTLN 0952\nFTLN 0953 SERVANT I will, my lord. He exits.\nEnter Calphurnia.\nCALPHURNIA\nWhat mean you, Caesar? Think you to walk forth?\nFTLN 0954\nYou shall not stir out of your house today.\nFTLN 0955\nCAESAR\nFTLN 0956 Caesar shall forth. The things that threatened me 10\nNe’er looked but on my back. When they shall see\nFTLN 0957\nThe face of Caesar, they are vanishèd.\nFTLN 0958\nCALPHURNIA\nCaesar, I never stood on ceremonies,\nFTLN 0959\nYet now they fright me. There is one within,\nFTLN 0960\nFTLN 0961 Besides the things that we have heard and seen, 15\nRecounts most horrid sights seen by the watch.\nFTLN 0962\nA lioness hath whelpèd in the streets,\nFTLN 0963\nAnd graves have yawned and yielded up their dead.\nFTLN 0964\nFTLN 0965 Fierce fiery warriors fought upon the clouds\nFTLN 0966 In ranks and squadrons and right form of war, 20\nWhich drizzled blood upon the Capitol.\nFTLN 0967\nThe noise of battle hurtled in the air,\nFTLN 0968\nFTLN 0969 Horses did neigh, and dying men did groan,",
+    "act": "2",
+    "scene": "2",
+    "heading_lines_top": [
+      "75 Julius Caesar ACT 2. SC. 2",
+      "75 Julius Caesar ACT 2. SC. 2",
+      "Scene 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 43,
+    "clean_text": "77 Julius Caesar ACT 2. SC. 2\nAnd ghosts did shriek and squeal about the streets.\nFTLN 0970\nFTLN 0971 O Caesar, these things are beyond all use, 25\nAnd I do fear them.\nFTLN 0972\nFTLN 0973 CAESAR What can be avoided\nWhose end is purposed by the mighty gods?\nFTLN 0974\nYet Caesar shall go forth, for these predictions\nFTLN 0975\nFTLN 0976 Are to the world in general as to Caesar. 30\nCALPHURNIA\nWhen beggars die there are no comets seen;\nFTLN 0977\nThe heavens themselves blaze forth the death of\nFTLN 0978\nprinces.\nFTLN 0979\nCAESAR\nCowards die many times before their deaths;\nFTLN 0980\nFTLN 0981 The valiant never taste of death but once. 35\nOf all the wonders that I yet have heard,\nFTLN 0982\nIt seems to me most strange that men should fear,\nFTLN 0983\nSeeing that death, a necessary end,\nFTLN 0984\nWill come when it will come.\nFTLN 0985\nEnter a Servant.\nFTLN 0986 What say the augurers? 40\nSERVANT\nThey would not have you to stir forth today.\nFTLN 0987\nPlucking the entrails of an offering forth,\nFTLN 0988\nThey could not find a heart within the beast.\nFTLN 0989\nCAESAR\nThe gods do this in shame of cowardice.\nFTLN 0990\nFTLN 0991 Caesar should be a beast without a heart 45\nIf he should stay at home today for fear.\nFTLN 0992\nNo, Caesar shall not. Danger knows full well\nFTLN 0993\nThat Caesar is more dangerous than he.\nFTLN 0994\nFTLN 0995 We are two lions littered in one day,\nFTLN 0996 And I the elder and more terrible. 50\nAnd Caesar shall go forth.\nFTLN 0997\nFTLN 0998 CALPHURNIA Alas, my lord,\nYour wisdom is consumed in confidence.\nFTLN 0999",
+    "act": "2",
+    "scene": "2",
+    "heading_lines_top": [
+      "77 Julius Caesar ACT 2. SC. 2",
+      "77 Julius Caesar ACT 2. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 44,
+    "clean_text": "79 Julius Caesar ACT 2. SC. 2\nDo not go forth today. Call it my fear\nFTLN 1000\nFTLN 1001 That keeps you in the house, and not your own. 55\nWe’ll send Mark Antony to the Senate House,\nFTLN 1002\nAnd he shall say you are not well today.\nFTLN 1003\nFTLN 1004 Let me, upon my knee, prevail in this. She kneels.\nCAESAR\nMark Antony shall say I am not well,\nFTLN 1005\nFTLN 1006 And for thy humor I will stay at home. 60\nHe lifts her up.\nEnter Decius.\nHere’s Decius Brutus; he shall tell them so.\nFTLN 1007\nDECIUS\nCaesar, all hail! Good morrow, worthy Caesar.\nFTLN 1008\nI come to fetch you to the Senate House.\nFTLN 1009\nCAESAR\nAnd you are come in very happy time\nFTLN 1010\nFTLN 1011 To bear my greeting to the Senators 65\nAnd tell them that I will not come today.\nFTLN 1012\nCannot is false, and that I dare not, falser.\nFTLN 1013\nI will not come today. Tell them so, Decius.\nFTLN 1014\nCALPHURNIA\nSay he is sick.\nFTLN 1015\nFTLN 1016 CAESAR Shall Caesar send a lie? 70\nHave I in conquest stretched mine arm so far,\nFTLN 1017\nTo be afeard to tell graybeards the truth?\nFTLN 1018\nDecius, go tell them Caesar will not come.\nFTLN 1019\nDECIUS\nMost mighty Caesar, let me know some cause,\nFTLN 1020\nFTLN 1021 Lest I be laughed at when I tell them so. 75\nCAESAR\nThe cause is in my will. I will not come.\nFTLN 1022\nThat is enough to satisfy the Senate.\nFTLN 1023\nBut for your private satisfaction,\nFTLN 1024\nBecause I love you, I will let you know.\nFTLN 1025\nFTLN 1026 Calphurnia here, my wife, stays me at home. 80",
+    "act": "2",
+    "scene": "2",
+    "heading_lines_top": [
+      "79 Julius Caesar ACT 2. SC. 2",
+      "79 Julius Caesar ACT 2. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 45,
+    "clean_text": "81 Julius Caesar ACT 2. SC. 2\nShe dreamt tonight she saw my statue,\nFTLN 1027\nWhich, like a fountain with an hundred spouts,\nFTLN 1028\nDid run pure blood; and many lusty Romans\nFTLN 1029\nCame smiling and did bathe their hands in it.\nFTLN 1030\nFTLN 1031 And these does she apply for warnings and portents 85\nAnd evils imminent, and on her knee\nFTLN 1032\nHath begged that I will stay at home today.\nFTLN 1033\nDECIUS\nThis dream is all amiss interpreted.\nFTLN 1034\nIt was a vision fair and fortunate.\nFTLN 1035\nFTLN 1036 Your statue spouting blood in many pipes, 90\nIn which so many smiling Romans bathed,\nFTLN 1037\nSignifies that from you great Rome shall suck\nFTLN 1038\nReviving blood, and that great men shall press\nFTLN 1039\nFor tinctures, stains, relics, and cognizance.\nFTLN 1040\nFTLN 1041 This by Calphurnia’s dream is signified. 95\nCAESAR\nAnd this way have you well expounded it.\nFTLN 1042\nDECIUS\nI have, when you have heard what I can say.\nFTLN 1043\nAnd know it now: the Senate have concluded\nFTLN 1044\nTo give this day a crown to mighty Caesar.\nFTLN 1045\nFTLN 1046 If you shall send them word you will not come, 100\nTheir minds may change. Besides, it were a mock\nFTLN 1047\nApt to be rendered, for someone to say\nFTLN 1048\n“Break up the Senate till another time,\nFTLN 1049\nWhen Caesar’s wife shall meet with better dreams.”\nFTLN 1050\nFTLN 1051 If Caesar hide himself, shall they not whisper 105\n“Lo, Caesar is afraid”?\nFTLN 1052\nPardon me, Caesar, for my dear dear love\nFTLN 1053\nTo your proceeding bids me tell you this,\nFTLN 1054\nAnd reason to my love is liable.\nFTLN 1055\nCAESAR\nFTLN 1056 How foolish do your fears seem now, Calphurnia! 110\nI am ashamèd I did yield to them.\nFTLN 1057\nGive me my robe, for I will go.\nFTLN 1058",
+    "act": "2",
+    "scene": "2",
+    "heading_lines_top": [
+      "81 Julius Caesar ACT 2. SC. 2",
+      "81 Julius Caesar ACT 2. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 46,
+    "clean_text": "83 Julius Caesar ACT 2. SC. 2\nEnter Brutus, Ligarius, Metellus, Casca, Trebonius,\nCinna, and Publius.\nAnd look where Publius is come to fetch me.\nFTLN 1059\nPUBLIUS\nGood morrow, Caesar.\nFTLN 1060\nFTLN 1061 CAESAR Welcome, Publius.— 115\nWhat, Brutus, are you stirred so early too?—\nFTLN 1062\nGood morrow, Casca.—Caius Ligarius,\nFTLN 1063\nCaesar was ne’er so much your enemy\nFTLN 1064\nAs that same ague which hath made you lean.—\nFTLN 1065\nFTLN 1066 What is ’t o’clock? 120\nFTLN 1067 BRUTUS Caesar, ’tis strucken eight.\nCAESAR\nI thank you for your pains and courtesy.\nFTLN 1068\nEnter Antony.\nSee, Antony that revels long a-nights\nFTLN 1069\nIs notwithstanding up.—Good morrow, Antony.\nFTLN 1070\nFTLN 1071 ANTONY So to most noble Caesar. 125\nFTLN 1072 CAESAR, to Servant Bid them prepare within.—\nFTLN 1073 I am to blame to be thus waited for. Servant exits.\nNow, Cinna.—Now, Metellus.—What, Trebonius,\nFTLN 1074\nI have an hour’s talk in store for you.\nFTLN 1075\nFTLN 1076 Remember that you call on me today; 130\nBe near me that I may remember you.\nFTLN 1077\nTREBONIUS\nFTLN 1078 Caesar, I will. Aside. And so near will I be\nThat your best friends shall wish I had been further.\nFTLN 1079\nCAESAR\nGood friends, go in and taste some wine with me,\nFTLN 1080\nFTLN 1081 And we, like friends, will straightway go together. 135\nBRUTUS, aside\nThat every like is not the same, O Caesar,\nFTLN 1082\nThe heart of Brutus earns to think upon.\nFTLN 1083\nThey exit.",
+    "act": "2",
+    "scene": "2",
+    "heading_lines_top": [
+      "83 Julius Caesar ACT 2. SC. 2",
+      "83 Julius Caesar ACT 2. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 47,
+    "clean_text": "85 Julius Caesar ACT 2. SC. 4\nScene 3\nEnter Artemidorus reading a paper.\nFTLN 1084 ARTEMIDORUS Caesar, beware of Brutus, take heed of\nCassius, come not near Casca, have an eye to Cinna,\nFTLN 1085\ntrust not Trebonius, mark well Metellus Cimber.\nFTLN 1086\nDecius Brutus loves thee not. Thou hast wronged\nFTLN 1087\nFTLN 1088 Caius Ligarius. There is but one mind in all these 5\nmen, and it is bent against Caesar. If thou beest not\nFTLN 1089\nimmortal, look about you. Security gives way to\nFTLN 1090\nconspiracy. The mighty gods defend thee!\nFTLN 1091\nThy lover,\nFTLN 1092\nFTLN 1093 Artemidorus 10\nHere will I stand till Caesar pass along,\nFTLN 1094\nAnd as a suitor will I give him this.\nFTLN 1095\nMy heart laments that virtue cannot live\nFTLN 1096\nOut of the teeth of emulation.\nFTLN 1097\nFTLN 1098 If thou read this, O Caesar, thou mayest live; 15\nIf not, the Fates with traitors do contrive.\nFTLN 1099\nHe exits.\nScene 4\nEnter Portia and Lucius.\nPORTIA\nI prithee, boy, run to the Senate House.\nFTLN 1100\nStay not to answer me, but get thee gone.\nFTLN 1101\nWhy dost thou stay?\nFTLN 1102\nFTLN 1103 LUCIUS To know my errand, madam.\nPORTIA\nFTLN 1104 I would have had thee there and here again 5\nEre I can tell thee what thou shouldst do there.\nFTLN 1105\nFTLN 1106 Aside. O constancy, be strong upon my side;\nSet a huge mountain ’tween my heart and tongue.\nFTLN 1107\nI have a man’s mind but a woman’s might.\nFTLN 1108",
+    "act": "2",
+    "scene": "3",
+    "heading_lines_top": [
+      "85 Julius Caesar ACT 2. SC. 4",
+      "85 Julius Caesar ACT 2. SC. 4",
+      "Scene 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 48,
+    "clean_text": "87 Julius Caesar ACT 2. SC. 4\nFTLN 1109 How hard it is for women to keep counsel!— 10\nArt thou here yet?\nFTLN 1110\nFTLN 1111 LUCIUS Madam, what should I do?\nRun to the Capitol, and nothing else?\nFTLN 1112\nAnd so return to you, and nothing else?\nFTLN 1113\nPORTIA\nFTLN 1114 Yes, bring me word, boy, if thy lord look well, 15\nFor he went sickly forth. And take good note\nFTLN 1115\nWhat Caesar doth, what suitors press to him.\nFTLN 1116\nHark, boy, what noise is that?\nFTLN 1117\nFTLN 1118 LUCIUS I hear none, madam.\nFTLN 1119 PORTIA Prithee, listen well. 20\nI heard a bustling rumor like a fray,\nFTLN 1120\nAnd the wind brings it from the Capitol.\nFTLN 1121\nFTLN 1122 LUCIUS Sooth, madam, I hear nothing.\nEnter the Soothsayer.\nPORTIA\nCome hither, fellow. Which way hast thou been?\nFTLN 1123\nFTLN 1124 SOOTHSAYER At mine own house, good lady. 25\nFTLN 1125 PORTIA What is ’t o’clock?\nFTLN 1126 SOOTHSAYER About the ninth hour, lady.\nPORTIA\nIs Caesar yet gone to the Capitol?\nFTLN 1127\nSOOTHSAYER\nMadam, not yet. I go to take my stand\nFTLN 1128\nFTLN 1129 To see him pass on to the Capitol. 30\nPORTIA\nThou hast some suit to Caesar, hast thou not?\nFTLN 1130\nSOOTHSAYER\nThat I have, lady. If it will please Caesar\nFTLN 1131\nTo be so good to Caesar as to hear me,\nFTLN 1132\nI shall beseech him to befriend himself.\nFTLN 1133\nPORTIA\nFTLN 1134 Why, know’st thou any harm’s intended towards 35\nhim?\nFTLN 1135",
+    "act": "2",
+    "scene": "4",
+    "heading_lines_top": [
+      "87 Julius Caesar ACT 2. SC. 4",
+      "87 Julius Caesar ACT 2. SC. 4"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 49,
+    "clean_text": "89 Julius Caesar ACT 2. SC. 4\nSOOTHSAYER\nNone that I know will be, much that I fear may\nFTLN 1136\nchance.\nFTLN 1137\nGood morrow to you.—Here the street is narrow.\nFTLN 1138\nFTLN 1139 The throng that follows Caesar at the heels, 40\nOf senators, of praetors, common suitors,\nFTLN 1140\nWill crowd a feeble man almost to death.\nFTLN 1141\nI’ll get me to a place more void, and there\nFTLN 1142\nSpeak to great Caesar as he comes along. He exits.\nFTLN 1143\nPORTIA\nFTLN 1144 I must go in. Aside. Ay me, how weak a thing 45\nThe heart of woman is! O Brutus,\nFTLN 1145\nThe heavens speed thee in thine enterprise!\nFTLN 1146\nFTLN 1147 Sure the boy heard me. To Lucius. Brutus hath a\nsuit\nFTLN 1148\nFTLN 1149 That Caesar will not grant. Aside. O, I grow 50\nfaint.—\nFTLN 1150\nRun, Lucius, and commend me to my lord.\nFTLN 1151\nSay I am merry. Come to me again\nFTLN 1152\nAnd bring me word what he doth say to thee.\nFTLN 1153\nThey exit separately.",
+    "act": "2",
+    "scene": "4",
+    "heading_lines_top": [
+      "89 Julius Caesar ACT 2. SC. 4",
+      "89 Julius Caesar ACT 2. SC. 4"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 50,
+    "clean_text": "ACT 3\nScene 1\nFlourish. Enter Caesar, Antony, Lepidus; Brutus, Cassius,\nCasca, Decius, Metellus, Trebonius, Cinna; Publius,\nPopilius, Artemidorus, the Soothsayer, and other\nSenators and Petitioners.\nFTLN 1154 CAESAR The ides of March are come.\nFTLN 1155 SOOTHSAYER Ay, Caesar, but not gone.\nFTLN 1156 ARTEMIDORUS Hail, Caesar. Read this schedule.\nDECIUS\nTrebonius doth desire you to o’erread,\nFTLN 1157\nFTLN 1158 At your best leisure, this his humble suit. 5\nARTEMIDORUS\nO Caesar, read mine first, for mine’s a suit\nFTLN 1159\nThat touches Caesar nearer. Read it, great Caesar.\nFTLN 1160\nCAESAR\nWhat touches us ourself shall be last served.\nFTLN 1161\nARTEMIDORUS\nDelay not, Caesar; read it instantly.\nFTLN 1162\nCAESAR\nFTLN 1163 What, is the fellow mad? 10\nFTLN 1164 PUBLIUS Sirrah, give place.\nCASSIUS\nWhat, urge you your petitions in the street?\nFTLN 1165\nCome to the Capitol.\nFTLN 1166\nCaesar goes forward, the rest following.\n93",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "ACT 3",
+      "Scene 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 51,
+    "clean_text": "95 Julius Caesar ACT 3. SC. 1\nPOPILIUS, to Cassius\nI wish your enterprise today may thrive.\nFTLN 1167\nFTLN 1168 CASSIUS What enterprise, Popilius? 15\nFTLN 1169 POPILIUS Fare you well. He walks away.\nFTLN 1170 BRUTUS What said Popilius Lena?\nCASSIUS\nHe wished today our enterprise might thrive.\nFTLN 1171\nI fear our purpose is discoverèd.\nFTLN 1172\nBRUTUS\nFTLN 1173 Look how he makes to Caesar. Mark him. 20\nCASSIUS\nCasca, be sudden, for we fear prevention.—\nFTLN 1174\nBrutus, what shall be done? If this be known,\nFTLN 1175\nCassius or Caesar never shall turn back,\nFTLN 1176\nFor I will slay myself.\nFTLN 1177\nFTLN 1178 BRUTUS Cassius, be constant. 25\nPopilius Lena speaks not of our purposes,\nFTLN 1179\nFor look, he smiles, and Caesar doth not change.\nFTLN 1180\nCASSIUS\nTrebonius knows his time, for look you, Brutus,\nFTLN 1181\nHe draws Mark Antony out of the way.\nFTLN 1182\nTrebonius and Antony exit.\nDECIUS\nFTLN 1183 Where is Metellus Cimber? Let him go 30\nAnd presently prefer his suit to Caesar.\nFTLN 1184\nBRUTUS\nHe is addressed. Press near and second him.\nFTLN 1185\nCINNA\nCasca, you are the first that rears your hand.\nFTLN 1186\nCAESAR\nAre we all ready? What is now amiss\nFTLN 1187\nFTLN 1188 That Caesar and his Senate must redress? 35\nMETELLUS, kneeling\nMost high, most mighty, and most puissant Caesar,\nFTLN 1189\nMetellus Cimber throws before thy seat\nFTLN 1190\nAn humble heart.\nFTLN 1191",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "95 Julius Caesar ACT 3. SC. 1",
+      "95 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 52,
+    "clean_text": "97 Julius Caesar ACT 3. SC. 1\nFTLN 1192 CAESAR I must prevent thee, Cimber.\nFTLN 1193 These couchings and these lowly courtesies 40\nMight fire the blood of ordinary men\nFTLN 1194\nAnd turn preordinance and first decree\nFTLN 1195\nFTLN 1196 Into the law of children. Be not fond\nTo think that Caesar bears such rebel blood\nFTLN 1197\nFTLN 1198 That will be thawed from the true quality 45\nWith that which melteth fools—I mean sweet\nFTLN 1199\nwords,\nFTLN 1200\nLow-crookèd curtsies, and base spaniel fawning.\nFTLN 1201\nThy brother by decree is banishèd.\nFTLN 1202\nFTLN 1203 If thou dost bend and pray and fawn for him, 50\nI spurn thee like a cur out of my way.\nFTLN 1204\nKnow: Caesar doth not wrong, nor without cause\nFTLN 1205\nWill he be satisfied.\nFTLN 1206\nMETELLUS\nIs there no voice more worthy than my own\nFTLN 1207\nFTLN 1208 To sound more sweetly in great Caesar’s ear 55\nFor the repealing of my banished brother?\nFTLN 1209\nBRUTUS, kneeling\nI kiss thy hand, but not in flattery, Caesar,\nFTLN 1210\nDesiring thee that Publius Cimber may\nFTLN 1211\nHave an immediate freedom of repeal.\nFTLN 1212\nCAESAR\nFTLN 1213 What, Brutus? 60\nCASSIUS, kneeling\nPardon, Caesar; Caesar, pardon!\nFTLN 1214\nAs low as to thy foot doth Cassius fall\nFTLN 1215\nTo beg enfranchisement for Publius Cimber.\nFTLN 1216\nCAESAR\nI could be well moved, if I were as you.\nFTLN 1217\nFTLN 1218 If I could pray to move, prayers would move me. 65\nBut I am constant as the Northern Star,\nFTLN 1219\nOf whose true fixed and resting quality\nFTLN 1220\nThere is no fellow in the firmament.\nFTLN 1221\nThe skies are painted with unnumbered sparks;\nFTLN 1222",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "97 Julius Caesar ACT 3. SC. 1",
+      "97 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 53,
+    "clean_text": "99 Julius Caesar ACT 3. SC. 1\nFTLN 1223 They are all fire, and every one doth shine. 70\nBut there’s but one in all doth hold his place.\nFTLN 1224\nSo in the world: ’tis furnished well with men,\nFTLN 1225\nAnd men are flesh and blood, and apprehensive.\nFTLN 1226\nYet in the number I do know but one\nFTLN 1227\nFTLN 1228 That unassailable holds on his rank, 75\nUnshaked of motion; and that I am he\nFTLN 1229\nLet me a little show it, even in this:\nFTLN 1230\nThat I was constant Cimber should be banished\nFTLN 1231\nAnd constant do remain to keep him so.\nFTLN 1232\nCINNA, kneeling\nFTLN 1233 O Caesar— 80\nFTLN 1234 CAESAR Hence. Wilt thou lift up Olympus?\nDECIUS, kneeling\nGreat Caesar—\nFTLN 1235\nFTLN 1236 CAESAR Doth not Brutus bootless kneel?\nFTLN 1237 CASCA Speak, hands, for me!\nAs Casca strikes, the others rise up and stab Caesar.\nFTLN 1238 CAESAR Et tu, Brutè?—Then fall, Caesar. 85\nHe dies.\nCINNA\nLiberty! Freedom! Tyranny is dead!\nFTLN 1239\nRun hence, proclaim, cry it about the streets.\nFTLN 1240\nCASSIUS\nSome to the common pulpits and cry out\nFTLN 1241\n“Liberty, freedom, and enfranchisement.”\nFTLN 1242\nBRUTUS\nFTLN 1243 People and Senators, be not affrighted. 90\nFly not; stand still. Ambition’s debt is paid.\nFTLN 1244\nCASCA\nGo to the pulpit, Brutus.\nFTLN 1245\nFTLN 1246 DECIUS And Cassius too.\nFTLN 1247 BRUTUS Where’s Publius?\nCINNA\nFTLN 1248 Here, quite confounded with this mutiny. 95",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "99 Julius Caesar ACT 3. SC. 1",
+      "99 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 54,
+    "clean_text": "101 Julius Caesar ACT 3. SC. 1\nMETELLUS\nStand fast together, lest some friend of Caesar’s\nFTLN 1249\nShould chance—\nFTLN 1250\nBRUTUS\nTalk not of standing.—Publius, good cheer.\nFTLN 1251\nThere is no harm intended to your person,\nFTLN 1252\nFTLN 1253 Nor to no Roman else. So tell them, Publius. 100\nCASSIUS\nAnd leave us, Publius, lest that the people,\nFTLN 1254\nRushing on us, should do your age some mischief.\nFTLN 1255\nBRUTUS\nDo so, and let no man abide this deed\nFTLN 1256\nBut we the doers.\nFTLN 1257\nAll but the Conspirators exit.\nEnter Trebonius.\nFTLN 1258 CASSIUS Where is Antony? 105\nFTLN 1259 TREBONIUS Fled to his house amazed.\nMen, wives, and children stare, cry out, and run\nFTLN 1260\nAs it were doomsday.\nFTLN 1261\nFTLN 1262 BRUTUS Fates, we will know your\nFTLN 1263 pleasures. 110\nThat we shall die we know; ’tis but the time,\nFTLN 1264\nAnd drawing days out, that men stand upon.\nFTLN 1265\nCASCA\nWhy, he that cuts off twenty years of life\nFTLN 1266\nCuts off so many years of fearing death.\nFTLN 1267\nBRUTUS\nFTLN 1268 Grant that, and then is death a benefit. 115\nSo are we Caesar’s friends, that have abridged\nFTLN 1269\nHis time of fearing death. Stoop, Romans, stoop,\nFTLN 1270\nAnd let us bathe our hands in Caesar’s blood\nFTLN 1271\nUp to the elbows and besmear our swords.\nFTLN 1272\nFTLN 1273 Then walk we forth, even to the marketplace, 120\nAnd, waving our red weapons o’er our heads,\nFTLN 1274\nLet’s all cry “Peace, freedom, and liberty!”\nFTLN 1275",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "101 Julius Caesar ACT 3. SC. 1",
+      "101 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 55,
+    "clean_text": "103 Julius Caesar ACT 3. SC. 1\nCASSIUS\nStoop then, and wash.\nFTLN 1276\nThey smear their hands and swords with Caesar’s blood.\nHow many ages hence\nFTLN 1277\nFTLN 1278 Shall this our lofty scene be acted over 125\nFTLN 1279 In states unborn and accents yet unknown!\nBRUTUS\nHow many times shall Caesar bleed in sport,\nFTLN 1280\nFTLN 1281 That now on Pompey’s basis lies along\nNo worthier than the dust!\nFTLN 1282\nFTLN 1283 CASSIUS So oft as that shall be, 130\nSo often shall the knot of us be called\nFTLN 1284\nThe men that gave their country liberty.\nFTLN 1285\nDECIUS\nWhat, shall we forth?\nFTLN 1286\nFTLN 1287 CASSIUS Ay, every man away.\nFTLN 1288 Brutus shall lead, and we will grace his heels 135\nWith the most boldest and best hearts of Rome.\nFTLN 1289\nEnter a Servant.\nBRUTUS\nSoft, who comes here? A friend of Antony’s.\nFTLN 1290\nSERVANT, kneeling\nThus, Brutus, did my master bid me kneel.\nFTLN 1291\nThus did Mark Antony bid me fall down,\nFTLN 1292\nFTLN 1293 And, being prostrate, thus he bade me say: 140\nBrutus is noble, wise, valiant, and honest;\nFTLN 1294\nCaesar was mighty, bold, royal, and loving.\nFTLN 1295\nSay, I love Brutus, and I honor him;\nFTLN 1296\nSay, I feared Caesar, honored him, and loved him.\nFTLN 1297\nFTLN 1298 If Brutus will vouchsafe that Antony 145\nMay safely come to him and be resolved\nFTLN 1299\nHow Caesar hath deserved to lie in death,\nFTLN 1300\nMark Antony shall not love Caesar dead\nFTLN 1301\nSo well as Brutus living, but will follow\nFTLN 1302\nFTLN 1303 The fortunes and affairs of noble Brutus 150",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "103 Julius Caesar ACT 3. SC. 1",
+      "103 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 56,
+    "clean_text": "105 Julius Caesar ACT 3. SC. 1\nThorough the hazards of this untrod state\nFTLN 1304\nWith all true faith. So says my master Antony.\nFTLN 1305\nBRUTUS\nThy master is a wise and valiant Roman.\nFTLN 1306\nI never thought him worse.\nFTLN 1307\nFTLN 1308 Tell him, so please him come unto this place, 155\nHe shall be satisfied and, by my honor,\nFTLN 1309\nDepart untouched.\nFTLN 1310\nFTLN 1311 SERVANT I’ll fetch him presently.\nServant exits.\nBRUTUS\nI know that we shall have him well to friend.\nFTLN 1312\nCASSIUS\nFTLN 1313 I wish we may; but yet have I a mind 160\nThat fears him much, and my misgiving still\nFTLN 1314\nFalls shrewdly to the purpose.\nFTLN 1315\nEnter Antony.\nBRUTUS\nBut here comes Antony.—Welcome, Mark Antony!\nFTLN 1316\nANTONY\nO mighty Caesar, dost thou lie so low?\nFTLN 1317\nFTLN 1318 Are all thy conquests, glories, triumphs, spoils 165\nShrunk to this little measure? Fare thee well.—\nFTLN 1319\nI know not, gentlemen, what you intend,\nFTLN 1320\nWho else must be let blood, who else is rank.\nFTLN 1321\nIf I myself, there is no hour so fit\nFTLN 1322\nFTLN 1323 As Caesar’s death’s hour, nor no instrument 170\nOf half that worth as those your swords made rich\nFTLN 1324\nWith the most noble blood of all this world.\nFTLN 1325\nI do beseech you, if you bear me hard,\nFTLN 1326\nNow, whilst your purpled hands do reek and smoke,\nFTLN 1327\nFTLN 1328 Fulfill your pleasure. Live a thousand years, 175\nI shall not find myself so apt to die;\nFTLN 1329\nNo place will please me so, no mean of death,\nFTLN 1330",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "105 Julius Caesar ACT 3. SC. 1",
+      "105 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 57,
+    "clean_text": "107 Julius Caesar ACT 3. SC. 1\nAs here by Caesar, and by you cut off,\nFTLN 1331\nThe choice and master spirits of this age.\nFTLN 1332\nBRUTUS\nFTLN 1333 O Antony, beg not your death of us! 180\nThough now we must appear bloody and cruel,\nFTLN 1334\nAs by our hands and this our present act\nFTLN 1335\nYou see we do, yet see you but our hands\nFTLN 1336\nAnd this the bleeding business they have done.\nFTLN 1337\nFTLN 1338 Our hearts you see not; they are pitiful; 185\nAnd pity to the general wrong of Rome\nFTLN 1339\n(As fire drives out fire, so pity pity)\nFTLN 1340\nHath done this deed on Caesar. For your part,\nFTLN 1341\nTo you our swords have leaden points, Mark Antony.\nFTLN 1342\nFTLN 1343 Our arms in strength of malice, and our hearts 190\nOf brothers’ temper, do receive you in\nFTLN 1344\nWith all kind love, good thoughts, and reverence.\nFTLN 1345\nCASSIUS\nYour voice shall be as strong as any man’s\nFTLN 1346\nIn the disposing of new dignities.\nFTLN 1347\nBRUTUS\nFTLN 1348 Only be patient till we have appeased 195\nThe multitude, beside themselves with fear;\nFTLN 1349\nAnd then we will deliver you the cause\nFTLN 1350\nWhy I, that did love Caesar when I struck him,\nFTLN 1351\nHave thus proceeded.\nFTLN 1352\nFTLN 1353 ANTONY I doubt not of your wisdom. 200\nLet each man render me his bloody hand.\nFTLN 1354\nFirst, Marcus Brutus, will I shake with you.—\nFTLN 1355\nNext, Caius Cassius, do I take your hand.—\nFTLN 1356\nNow, Decius Brutus, yours;—now yours,\nFTLN 1357\nFTLN 1358 Metellus;— 205\nYours, Cinna;—and, my valiant Casca, yours;—\nFTLN 1359\nThough last, not least in love, yours, good\nFTLN 1360\nTrebonius.—\nFTLN 1361\nGentlemen all—alas, what shall I say?\nFTLN 1362\nFTLN 1363 My credit now stands on such slippery ground 210\nThat one of two bad ways you must conceit me,\nFTLN 1364",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "107 Julius Caesar ACT 3. SC. 1",
+      "107 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 58,
+    "clean_text": "109 Julius Caesar ACT 3. SC. 1\nEither a coward or a flatterer.—\nFTLN 1365\nThat I did love thee, Caesar, O, ’tis true!\nFTLN 1366\nIf then thy spirit look upon us now,\nFTLN 1367\nFTLN 1368 Shall it not grieve thee dearer than thy death 215\nTo see thy Antony making his peace,\nFTLN 1369\nShaking the bloody fingers of thy foes—\nFTLN 1370\nMost noble!—in the presence of thy corpse?\nFTLN 1371\nHad I as many eyes as thou hast wounds,\nFTLN 1372\nFTLN 1373 Weeping as fast as they stream forth thy blood, 220\nIt would become me better than to close\nFTLN 1374\nIn terms of friendship with thine enemies.\nFTLN 1375\nPardon me, Julius! Here wast thou bayed, brave\nFTLN 1376\nhart,\nFTLN 1377\nFTLN 1378 Here didst thou fall, and here thy hunters stand 225\nSigned in thy spoil and crimsoned in thy Lethe.\nFTLN 1379\nO world, thou wast the forest to this hart,\nFTLN 1380\nAnd this indeed, O world, the heart of thee.\nFTLN 1381\nHow like a deer strucken by many princes\nFTLN 1382\nFTLN 1383 Dost thou here lie! 230\nCASSIUS\nMark Antony—\nFTLN 1384\nFTLN 1385 ANTONY Pardon me, Caius Cassius.\nThe enemies of Caesar shall say this;\nFTLN 1386\nThen, in a friend, it is cold modesty.\nFTLN 1387\nCASSIUS\nFTLN 1388 I blame you not for praising Caesar so. 235\nBut what compact mean you to have with us?\nFTLN 1389\nWill you be pricked in number of our friends,\nFTLN 1390\nOr shall we on and not depend on you?\nFTLN 1391\nANTONY\nTherefore I took your hands, but was indeed\nFTLN 1392\nFTLN 1393 Swayed from the point by looking down on Caesar. 240\nFriends am I with you all and love you all,\nFTLN 1394\nUpon this hope, that you shall give me reasons\nFTLN 1395\nWhy and wherein Caesar was dangerous.\nFTLN 1396\nBRUTUS\nOr else were this a savage spectacle.\nFTLN 1397",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "109 Julius Caesar ACT 3. SC. 1",
+      "109 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 59,
+    "clean_text": "111 Julius Caesar ACT 3. SC. 1\nFTLN 1398 Our reasons are so full of good regard 245\nThat were you, Antony, the son of Caesar,\nFTLN 1399\nYou should be satisfied.\nFTLN 1400\nFTLN 1401 ANTONY That’s all I seek;\nAnd am, moreover, suitor that I may\nFTLN 1402\nFTLN 1403 Produce his body to the marketplace, 250\nAnd in the pulpit, as becomes a friend,\nFTLN 1404\nSpeak in the order of his funeral.\nFTLN 1405\nBRUTUS\nYou shall, Mark Antony.\nFTLN 1406\nFTLN 1407 CASSIUS Brutus, a word with you.\nFTLN 1408 Aside to Brutus. You know not what you do. Do 255\nnot consent\nFTLN 1409\nThat Antony speak in his funeral.\nFTLN 1410\nKnow you how much the people may be moved\nFTLN 1411\nBy that which he will utter?\nFTLN 1412\nFTLN 1413 BRUTUS, aside to Cassius By your pardon, 260\nI will myself into the pulpit first\nFTLN 1414\nAnd show the reason of our Caesar’s death.\nFTLN 1415\nWhat Antony shall speak I will protest\nFTLN 1416\nHe speaks by leave and by permission,\nFTLN 1417\nFTLN 1418 And that we are contented Caesar shall 265\nHave all true rites and lawful ceremonies.\nFTLN 1419\nIt shall advantage more than do us wrong.\nFTLN 1420\nCASSIUS, aside to Brutus\nI know not what may fall. I like it not.\nFTLN 1421\nBRUTUS\nMark Antony, here, take you Caesar’s body.\nFTLN 1422\nFTLN 1423 You shall not in your funeral speech blame us 270\nBut speak all good you can devise of Caesar\nFTLN 1424\nAnd say you do ’t by our permission,\nFTLN 1425\nElse shall you not have any hand at all\nFTLN 1426\nAbout his funeral. And you shall speak\nFTLN 1427\nFTLN 1428 In the same pulpit whereto I am going, 275\nAfter my speech is ended.\nFTLN 1429",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "111 Julius Caesar ACT 3. SC. 1",
+      "111 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 60,
+    "clean_text": "113 Julius Caesar ACT 3. SC. 1\nFTLN 1430 ANTONY Be it so.\nI do desire no more.\nFTLN 1431\nBRUTUS\nPrepare the body, then, and follow us.\nFTLN 1432\nAll but Antony exit.\nANTONY\nFTLN 1433 O pardon me, thou bleeding piece of earth, 280\nThat I am meek and gentle with these butchers.\nFTLN 1434\nThou art the ruins of the noblest man\nFTLN 1435\nThat ever livèd in the tide of times.\nFTLN 1436\nWoe to the hand that shed this costly blood!\nFTLN 1437\nFTLN 1438 Over thy wounds now do I prophesy 285\n(Which like dumb mouths do ope their ruby lips\nFTLN 1439\nTo beg the voice and utterance of my tongue)\nFTLN 1440\nA curse shall light upon the limbs of men;\nFTLN 1441\nDomestic fury and fierce civil strife\nFTLN 1442\nFTLN 1443 Shall cumber all the parts of Italy; 290\nBlood and destruction shall be so in use\nFTLN 1444\nAnd dreadful objects so familiar\nFTLN 1445\nThat mothers shall but smile when they behold\nFTLN 1446\nTheir infants quartered with the hands of war,\nFTLN 1447\nFTLN 1448 All pity choked with custom of fell deeds; 295\nAnd Caesar’s spirit, ranging for revenge,\nFTLN 1449\nWith Ate by his side come hot from hell,\nFTLN 1450\nShall in these confines with a monarch’s voice\nFTLN 1451\nCry “Havoc!” and let slip the dogs of war,\nFTLN 1452\nFTLN 1453 That this foul deed shall smell above the earth 300\nWith carrion men groaning for burial.\nFTLN 1454\nEnter Octavius’ Servant.\nYou serve Octavius Caesar, do you not?\nFTLN 1455\nFTLN 1456 SERVANT I do, Mark Antony.\nANTONY\nCaesar did write for him to come to Rome.\nFTLN 1457\nSERVANT\nFTLN 1458 He did receive his letters and is coming, 305",
+    "act": "3",
+    "scene": "1",
+    "heading_lines_top": [
+      "113 Julius Caesar ACT 3. SC. 1",
+      "113 Julius Caesar ACT 3. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 61,
+    "clean_text": "115 Julius Caesar ACT 3. SC. 2\nAnd bid me say to you by word of mouth—\nFTLN 1459\nO Caesar!\nFTLN 1460\nANTONY\nThy heart is big. Get thee apart and weep.\nFTLN 1461\nFTLN 1462 Passion, I see, is catching, for mine eyes,\nFTLN 1463 Seeing those beads of sorrow stand in thine, 310\nBegan to water. Is thy master coming?\nFTLN 1464\nSERVANT\nHe lies tonight within seven leagues of Rome.\nFTLN 1465\nANTONY\nPost back with speed and tell him what hath\nFTLN 1466\nchanced.\nFTLN 1467\nFTLN 1468 Here is a mourning Rome, a dangerous Rome, 315\nNo Rome of safety for Octavius yet.\nFTLN 1469\nHie hence and tell him so.—Yet stay awhile;\nFTLN 1470\nThou shalt not back till I have borne this corpse\nFTLN 1471\nInto the marketplace. There shall I try,\nFTLN 1472\nFTLN 1473 In my oration, how the people take 320\nThe cruel issue of these bloody men,\nFTLN 1474\nAccording to the which thou shalt discourse\nFTLN 1475\nTo young Octavius of the state of things.\nFTLN 1476\nLend me your hand.\nFTLN 1477\nThey exit with Caesar’s body.\nScene 2\nEnter Brutus and Cassius with the Plebeians.\nPLEBEIANS\nWe will be satisfied! Let us be satisfied!\nFTLN 1478\nBRUTUS\nThen follow me and give me audience, friends.—\nFTLN 1479\nCassius, go you into the other street\nFTLN 1480\nAnd part the numbers.—\nFTLN 1481\nFTLN 1482 Those that will hear me speak, let ’em stay here; 5\nThose that will follow Cassius, go with him;\nFTLN 1483",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "115 Julius Caesar ACT 3. SC. 2",
+      "115 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 62,
+    "clean_text": "117 Julius Caesar ACT 3. SC. 2\nAnd public reasons shall be renderèd\nFTLN 1484\nOf Caesar’s death.\nFTLN 1485\nFTLN 1486 FIRST PLEBEIAN I will hear Brutus speak.\nSECOND PLEBEIAN\nFTLN 1487 I will hear Cassius, and compare their reasons 10\nWhen severally we hear them renderèd.\nFTLN 1488\nCassius exits with some of the Plebeians.\nBrutus goes into the pulpit.\nTHIRD PLEBEIAN\nThe noble Brutus is ascended. Silence.\nFTLN 1489\nFTLN 1490 BRUTUS Be patient till the last.\nRomans, countrymen, and lovers, hear me for my\nFTLN 1491\nFTLN 1492 cause, and be silent that you may hear. Believe me 15\nfor mine honor, and have respect to mine honor\nFTLN 1493\nthat you may believe. Censure me in your wisdom,\nFTLN 1494\nand awake your senses that you may the better\nFTLN 1495\njudge. If there be any in this assembly, any dear\nFTLN 1496\nFTLN 1497 friend of Caesar’s, to him I say that Brutus’ love 20\nto Caesar was no less than his. If then that friend\nFTLN 1498\ndemand why Brutus rose against Caesar, this is my\nFTLN 1499\nanswer: not that I loved Caesar less, but that I loved\nFTLN 1500\nRome more. Had you rather Caesar were living, and\nFTLN 1501\nFTLN 1502 die all slaves, than that Caesar were dead, to live all 25\nfreemen? As Caesar loved me, I weep for him. As he\nFTLN 1503\nwas fortunate, I rejoice at it. As he was valiant, I\nFTLN 1504\nhonor him. But, as he was ambitious, I slew him.\nFTLN 1505\nThere is tears for his love, joy for his fortune, honor\nFTLN 1506\nFTLN 1507 for his valor, and death for his ambition. Who is 30\nhere so base that would be a bondman? If any,\nFTLN 1508\nspeak, for him have I offended. Who is here so rude\nFTLN 1509\nthat would not be a Roman? If any, speak, for him\nFTLN 1510\nhave I offended. Who is here so vile that will not\nFTLN 1511\nFTLN 1512 love his country? If any, speak, for him have I 35\noffended. I pause for a reply.\nFTLN 1513\nFTLN 1514 PLEBEIANS None, Brutus, none.\nFTLN 1515 BRUTUS Then none have I offended. I have done no",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "117 Julius Caesar ACT 3. SC. 2",
+      "117 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 63,
+    "clean_text": "119 Julius Caesar ACT 3. SC. 2\nmore to Caesar than you shall do to Brutus. The\nFTLN 1516\nFTLN 1517 question of his death is enrolled in the Capitol, his 40\nglory not extenuated wherein he was worthy, nor\nFTLN 1518\nhis offenses enforced for which he suffered death.\nFTLN 1519\nEnter Mark Antony and others with Caesar’s body.\nHere comes his body, mourned by Mark Antony,\nFTLN 1520\nwho, though he had no hand in his death, shall\nFTLN 1521\nFTLN 1522 receive the benefit of his dying—a place in the 45\ncommonwealth—as which of you shall not? With\nFTLN 1523\nthis I depart: that, as I slew my best lover for the\nFTLN 1524\ngood of Rome, I have the same dagger for myself\nFTLN 1525\nwhen it shall please my country to need my death.\nFTLN 1526\nFTLN 1527 PLEBEIANS Live, Brutus, live, live! 50\nFIRST PLEBEIAN\nBring him with triumph home unto his house.\nFTLN 1528\nSECOND PLEBEIAN\nGive him a statue with his ancestors.\nFTLN 1529\nTHIRD PLEBEIAN\nLet him be Caesar.\nFTLN 1530\nFTLN 1531 FOURTH PLEBEIAN Caesar’s better parts\nFTLN 1532 Shall be crowned in Brutus. 55\nFIRST PLEBEIAN\nWe’ll bring him to his house with shouts and\nFTLN 1533\nclamors.\nFTLN 1534\nBRUTUS\nMy countrymen—\nFTLN 1535\nFTLN 1536 SECOND PLEBEIAN Peace, silence! Brutus speaks.\nFTLN 1537 FIRST PLEBEIAN Peace, ho! 60\nBRUTUS\nGood countrymen, let me depart alone,\nFTLN 1538\nAnd, for my sake, stay here with Antony.\nFTLN 1539\nDo grace to Caesar’s corpse, and grace his speech\nFTLN 1540\nTending to Caesar’s glories, which Mark Antony\nFTLN 1541\nFTLN 1542 (By our permission) is allowed to make. 65",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "119 Julius Caesar ACT 3. SC. 2",
+      "119 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 64,
+    "clean_text": "121 Julius Caesar ACT 3. SC. 2\nI do entreat you, not a man depart,\nFTLN 1543\nSave I alone, till Antony have spoke.\nFTLN 1544\nHe descends and exits.\nFIRST PLEBEIAN\nStay, ho, and let us hear Mark Antony!\nFTLN 1545\nTHIRD PLEBEIAN\nLet him go up into the public chair.\nFTLN 1546\nPLEBEIANS\nFTLN 1547 We’ll hear him.—Noble Antony, go up. 70\nANTONY\nFor Brutus’ sake, I am beholding to you.\nFTLN 1548\nHe goes into the pulpit.\nFTLN 1549 FOURTH PLEBEIAN What does he say of Brutus?\nFTLN 1550 THIRD PLEBEIAN He says for Brutus’ sake\nHe finds himself beholding to us all.\nFTLN 1551\nFOURTH PLEBEIAN\nFTLN 1552 ’Twere best he speak no harm of Brutus here. 75\nFIRST PLEBEIAN\nThis Caesar was a tyrant.\nFTLN 1553\nFTLN 1554 THIRD PLEBEIAN Nay, that’s certain.\nWe are blest that Rome is rid of him.\nFTLN 1555\nSECOND PLEBEIAN\nPeace, let us hear what Antony can say.\nFTLN 1556\nANTONY\nFTLN 1557 You gentle Romans— 80\nFTLN 1558 PLEBEIANS Peace, ho! Let us hear him.\nANTONY\nFriends, Romans, countrymen, lend me your ears.\nFTLN 1559\nI come to bury Caesar, not to praise him.\nFTLN 1560\nThe evil that men do lives after them;\nFTLN 1561\nFTLN 1562 The good is oft interrèd with their bones. 85\nSo let it be with Caesar. The noble Brutus\nFTLN 1563\nHath told you Caesar was ambitious.\nFTLN 1564\nIf it were so, it was a grievous fault,\nFTLN 1565\nAnd grievously hath Caesar answered it.\nFTLN 1566\nFTLN 1567 Here, under leave of Brutus and the rest 90\n(For Brutus is an honorable man;\nFTLN 1568",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "121 Julius Caesar ACT 3. SC. 2",
+      "121 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 65,
+    "clean_text": "123 Julius Caesar ACT 3. SC. 2\nSo are they all, all honorable men),\nFTLN 1569\nCome I to speak in Caesar’s funeral.\nFTLN 1570\nHe was my friend, faithful and just to me,\nFTLN 1571\nFTLN 1572 But Brutus says he was ambitious, 95\nAnd Brutus is an honorable man.\nFTLN 1573\nHe hath brought many captives home to Rome,\nFTLN 1574\nWhose ransoms did the general coffers fill.\nFTLN 1575\nDid this in Caesar seem ambitious?\nFTLN 1576\nFTLN 1577 When that the poor have cried, Caesar hath wept; 100\nAmbition should be made of sterner stuff.\nFTLN 1578\nYet Brutus says he was ambitious,\nFTLN 1579\nAnd Brutus is an honorable man.\nFTLN 1580\nYou all did see that on the Lupercal\nFTLN 1581\nFTLN 1582 I thrice presented him a kingly crown, 105\nWhich he did thrice refuse. Was this ambition?\nFTLN 1583\nYet Brutus says he was ambitious,\nFTLN 1584\nAnd sure he is an honorable man.\nFTLN 1585\nI speak not to disprove what Brutus spoke,\nFTLN 1586\nFTLN 1587 But here I am to speak what I do know. 110\nYou all did love him once, not without cause.\nFTLN 1588\nWhat cause withholds you, then, to mourn for\nFTLN 1589\nhim?—\nFTLN 1590\nFTLN 1591 O judgment, thou art fled to brutish beasts,\nFTLN 1592 And men have lost their reason!—Bear with me; 115\nMy heart is in the coffin there with Caesar,\nFTLN 1593\nFTLN 1594 And I must pause till it come back to me. He weeps.\nFIRST PLEBEIAN\nMethinks there is much reason in his sayings.\nFTLN 1595\nSECOND PLEBEIAN\nIf thou consider rightly of the matter,\nFTLN 1596\nFTLN 1597 Caesar has had great wrong. 120\nFTLN 1598 THIRD PLEBEIAN Has he, masters?\nI fear there will a worse come in his place.\nFTLN 1599\nFOURTH PLEBEIAN\nMarked you his words? He would not take the\nFTLN 1600\ncrown;\nFTLN 1601\nFTLN 1602 Therefore ’tis certain he was not ambitious. 125",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "123 Julius Caesar ACT 3. SC. 2",
+      "123 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 66,
+    "clean_text": "125 Julius Caesar ACT 3. SC. 2\nFIRST PLEBEIAN\nIf it be found so, some will dear abide it.\nFTLN 1603\nSECOND PLEBEIAN\nPoor soul, his eyes are red as fire with weeping.\nFTLN 1604\nTHIRD PLEBEIAN\nThere’s not a nobler man in Rome than Antony.\nFTLN 1605\nFOURTH PLEBEIAN\nNow mark him. He begins again to speak.\nFTLN 1606\nANTONY\nFTLN 1607 But yesterday the word of Caesar might 130\nHave stood against the world. Now lies he there,\nFTLN 1608\nAnd none so poor to do him reverence.\nFTLN 1609\nO masters, if I were disposed to stir\nFTLN 1610\nYour hearts and minds to mutiny and rage,\nFTLN 1611\nFTLN 1612 I should do Brutus wrong and Cassius wrong, 135\nWho, you all know, are honorable men.\nFTLN 1613\nI will not do them wrong. I rather choose\nFTLN 1614\nTo wrong the dead, to wrong myself and you,\nFTLN 1615\nThan I will wrong such honorable men.\nFTLN 1616\nFTLN 1617 But here’s a parchment with the seal of Caesar. 140\nI found it in his closet. ’Tis his will.\nFTLN 1618\nLet but the commons hear this testament,\nFTLN 1619\nWhich, pardon me, I do not mean to read,\nFTLN 1620\nAnd they would go and kiss dead Caesar’s wounds\nFTLN 1621\nFTLN 1622 And dip their napkins in his sacred blood— 145\nYea, beg a hair of him for memory\nFTLN 1623\nAnd, dying, mention it within their wills,\nFTLN 1624\nBequeathing it as a rich legacy\nFTLN 1625\nUnto their issue.\nFTLN 1626\nFOURTH PLEBEIAN\nFTLN 1627 We’ll hear the will. Read it, Mark Antony. 150\nPLEBEIANS\nThe will, the will! We will hear Caesar’s will.\nFTLN 1628\nANTONY\nHave patience, gentle friends. I must not read it.\nFTLN 1629",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "125 Julius Caesar ACT 3. SC. 2",
+      "125 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 67,
+    "clean_text": "127 Julius Caesar ACT 3. SC. 2\nIt is not meet you know how Caesar loved you.\nFTLN 1630\nYou are not wood, you are not stones, but men.\nFTLN 1631\nFTLN 1632 And, being men, hearing the will of Caesar, 155\nIt will inflame you; it will make you mad.\nFTLN 1633\n’Tis good you know not that you are his heirs,\nFTLN 1634\nFor if you should, O, what would come of it?\nFTLN 1635\nFOURTH PLEBEIAN\nRead the will! We’ll hear it, Antony.\nFTLN 1636\nPLEBEIANS\nFTLN 1637 You shall read us the will, Caesar’s will. 160\nANTONY\nWill you be patient? Will you stay awhile?\nFTLN 1638\nI have o’ershot myself to tell you of it.\nFTLN 1639\nI fear I wrong the honorable men\nFTLN 1640\nWhose daggers have stabbed Caesar. I do fear it.\nFTLN 1641\nFTLN 1642 FOURTH PLEBEIAN They were traitors. Honorable men? 165\nFTLN 1643 PLEBEIANS The will! The testament!\nFTLN 1644 SECOND PLEBEIAN They were villains, murderers. The\nwill! Read the will.\nFTLN 1645\nANTONY\nYou will compel me, then, to read the will?\nFTLN 1646\nFTLN 1647 Then make a ring about the corpse of Caesar, 170\nAnd let me show you him that made the will.\nFTLN 1648\nShall I descend? And will you give me leave?\nFTLN 1649\nFTLN 1650 PLEBEIANS Come down.\nFTLN 1651 SECOND PLEBEIAN Descend.\nFTLN 1652 THIRD PLEBEIAN You shall have leave. 175\nAntony descends.\nFTLN 1653 FOURTH PLEBEIAN A ring; stand round.\nFIRST PLEBEIAN\nStand from the hearse. Stand from the body.\nFTLN 1654\nSECOND PLEBEIAN\nRoom for Antony, most noble Antony.\nFTLN 1655\nANTONY\nNay, press not so upon me. Stand far off.\nFTLN 1656",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "127 Julius Caesar ACT 3. SC. 2",
+      "127 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 68,
+    "clean_text": "129 Julius Caesar ACT 3. SC. 2\nFTLN 1657 PLEBEIANS Stand back! Room! Bear back! 180\nANTONY\nIf you have tears, prepare to shed them now.\nFTLN 1658\nYou all do know this mantle. I remember\nFTLN 1659\nThe first time ever Caesar put it on.\nFTLN 1660\n’Twas on a summer’s evening in his tent,\nFTLN 1661\nFTLN 1662 That day he overcame the Nervii. 185\nLook, in this place ran Cassius’ dagger through.\nFTLN 1663\nSee what a rent the envious Casca made.\nFTLN 1664\nThrough this the well-belovèd Brutus stabbed,\nFTLN 1665\nAnd, as he plucked his cursèd steel away,\nFTLN 1666\nFTLN 1667 Mark how the blood of Caesar followed it, 190\nAs rushing out of doors to be resolved\nFTLN 1668\nIf Brutus so unkindly knocked or no;\nFTLN 1669\nFor Brutus, as you know, was Caesar’s angel.\nFTLN 1670\nJudge, O you gods, how dearly Caesar loved him!\nFTLN 1671\nFTLN 1672 This was the most unkindest cut of all. 195\nFor when the noble Caesar saw him stab,\nFTLN 1673\nIngratitude, more strong than traitors’ arms,\nFTLN 1674\nQuite vanquished him. Then burst his mighty heart,\nFTLN 1675\nAnd, in his mantle muffling up his face,\nFTLN 1676\nFTLN 1677 Even at the base of Pompey’s statue 200\n(Which all the while ran blood) great Caesar fell.\nFTLN 1678\nO, what a fall was there, my countrymen!\nFTLN 1679\nThen I and you and all of us fell down,\nFTLN 1680\nWhilst bloody treason flourished over us.\nFTLN 1681\nFTLN 1682 O, now you weep, and I perceive you feel 205\nThe dint of pity. These are gracious drops.\nFTLN 1683\nKind souls, what, weep you when you but behold\nFTLN 1684\nOur Caesar’s vesture wounded? Look you here,\nFTLN 1685\nAntony lifts Caesar’s cloak.\nHere is himself, marred as you see with traitors.\nFTLN 1686\nFTLN 1687 FIRST PLEBEIAN O piteous spectacle! 210\nFTLN 1688 SECOND PLEBEIAN O noble Caesar!\nFTLN 1689 THIRD PLEBEIAN O woeful day!",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "129 Julius Caesar ACT 3. SC. 2",
+      "129 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 69,
+    "clean_text": "131 Julius Caesar ACT 3. SC. 2\nFTLN 1690 FOURTH PLEBEIAN O traitors, villains!\nFTLN 1691 FIRST PLEBEIAN O most bloody sight!\nFTLN 1692 SECOND PLEBEIAN We will be revenged. 215\nRevenge! About! Seek! Burn! Fire! Kill!\nFTLN 1693 PLEBEIANS\nSlay! Let not a traitor live!\nFTLN 1694\nFTLN 1695 ANTONY Stay, countrymen.\nFTLN 1696 FIRST PLEBEIAN Peace there! Hear the noble Antony.\nFTLN 1697 SECOND PLEBEIAN We’ll hear him, we’ll follow him, 220\nwe’ll die with him.\nFTLN 1698\nANTONY\nGood friends, sweet friends, let me not stir you up\nFTLN 1699\nTo such a sudden flood of mutiny.\nFTLN 1700\nThey that have done this deed are honorable.\nFTLN 1701\nFTLN 1702 What private griefs they have, alas, I know not, 225\nThat made them do it. They are wise and honorable\nFTLN 1703\nAnd will no doubt with reasons answer you.\nFTLN 1704\nI come not, friends, to steal away your hearts.\nFTLN 1705\nI am no orator, as Brutus is,\nFTLN 1706\nFTLN 1707 But, as you know me all, a plain blunt man 230\nThat love my friend, and that they know full well\nFTLN 1708\nThat gave me public leave to speak of him.\nFTLN 1709\nFTLN 1710 For I have neither wit, nor words, nor worth,\nAction, nor utterance, nor the power of speech\nFTLN 1711\nFTLN 1712 To stir men’s blood. I only speak right on. 235\nI tell you that which you yourselves do know,\nFTLN 1713\nShow you sweet Caesar’s wounds, poor poor dumb\nFTLN 1714\nmouths,\nFTLN 1715\nAnd bid them speak for me. But were I Brutus,\nFTLN 1716\nFTLN 1717 And Brutus Antony, there were an Antony 240\nWould ruffle up your spirits and put a tongue\nFTLN 1718\nIn every wound of Caesar that should move\nFTLN 1719\nThe stones of Rome to rise and mutiny.\nFTLN 1720\nPLEBEIANS\nWe’ll mutiny.\nFTLN 1721\nFTLN 1722 FIRST PLEBEIAN We’ll burn the house of Brutus. 245",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "131 Julius Caesar ACT 3. SC. 2",
+      "131 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 70,
+    "clean_text": "133 Julius Caesar ACT 3. SC. 2\nTHIRD PLEBEIAN\nAway then. Come, seek the conspirators.\nFTLN 1723\nANTONY\nYet hear me, countrymen; yet hear me speak.\nFTLN 1724\nPLEBEIANS\nPeace, ho! Hear Antony, most noble Antony!\nFTLN 1725\nANTONY\nWhy, friends, you go to do you know not what.\nFTLN 1726\nFTLN 1727 Wherein hath Caesar thus deserved your loves? 250\nAlas, you know not. I must tell you then.\nFTLN 1728\nYou have forgot the will I told you of.\nFTLN 1729\nPLEBEIANS\nMost true. The will! Let’s stay and hear the will.\nFTLN 1730\nANTONY\nHere is the will, and under Caesar’s seal:\nFTLN 1731\nFTLN 1732 To every Roman citizen he gives, 255\nTo every several man, seventy-five drachmas.\nFTLN 1733\nSECOND PLEBEIAN\nMost noble Caesar! We’ll revenge his death.\nFTLN 1734\nFTLN 1735 THIRD PLEBEIAN O royal Caesar!\nFTLN 1736 ANTONY Hear me with patience.\nFTLN 1737 PLEBEIANS Peace, ho! 260\nANTONY\nMoreover, he hath left you all his walks,\nFTLN 1738\nHis private arbors, and new-planted orchards,\nFTLN 1739\nOn this side Tiber. He hath left them you,\nFTLN 1740\nAnd to your heirs forever—common pleasures\nFTLN 1741\nFTLN 1742 To walk abroad and recreate yourselves. 265\nHere was a Caesar! When comes such another?\nFTLN 1743\nFIRST PLEBEIAN\nNever, never!—Come, away, away!\nFTLN 1744\nWe’ll burn his body in the holy place\nFTLN 1745\nAnd with the brands fire the traitors’ houses.\nFTLN 1746\nFTLN 1747 Take up the body. 270\nFTLN 1748 SECOND PLEBEIAN Go fetch fire.\nFTLN 1749 THIRD PLEBEIAN Pluck down benches.",
+    "act": "3",
+    "scene": "2",
+    "heading_lines_top": [
+      "133 Julius Caesar ACT 3. SC. 2",
+      "133 Julius Caesar ACT 3. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 71,
+    "clean_text": "135 Julius Caesar ACT 3. SC. 3\nFTLN 1750 FOURTH PLEBEIAN Pluck down forms, windows,\nanything.\nFTLN 1751\nPlebeians exit with Caesar’s body.\nANTONY\nFTLN 1752 Now let it work. Mischief, thou art afoot; 275\nTake thou what course thou wilt.\nFTLN 1753\nEnter Servant.\nHow now, fellow?\nFTLN 1754\nSERVANT\nSir, Octavius is already come to Rome.\nFTLN 1755\nFTLN 1756 ANTONY Where is he?\nSERVANT\nFTLN 1757 He and Lepidus are at Caesar’s house. 280\nANTONY\nAnd thither will I straight to visit him.\nFTLN 1758\nHe comes upon a wish. Fortune is merry\nFTLN 1759\nAnd in this mood will give us anything.\nFTLN 1760\nSERVANT\nI heard him say Brutus and Cassius\nFTLN 1761\nFTLN 1762 Are rid like madmen through the gates of Rome. 285\nANTONY\nBelike they had some notice of the people\nFTLN 1763\nHow I had moved them. Bring me to Octavius.\nFTLN 1764\nThey exit.\nScene 3\nEnter Cinna the poet and after him the Plebeians.\nCINNA\nI dreamt tonight that I did feast with Caesar,\nFTLN 1765\nAnd things unluckily charge my fantasy.\nFTLN 1766\nI have no will to wander forth of doors,\nFTLN 1767\nYet something leads me forth.\nFTLN 1768\nFTLN 1769 FIRST PLEBEIAN What is your name? 5",
+    "act": "3",
+    "scene": "3",
+    "heading_lines_top": [
+      "135 Julius Caesar ACT 3. SC. 3",
+      "135 Julius Caesar ACT 3. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 72,
+    "clean_text": "137 Julius Caesar ACT 3. SC. 3\nFTLN 1770 SECOND PLEBEIAN Whither are you going?\nFTLN 1771 THIRD PLEBEIAN Where do you dwell?\nFTLN 1772 FOURTH PLEBEIAN Are you a married man or a\nbachelor?\nFTLN 1773\nFTLN 1774 SECOND PLEBEIAN Answer every man directly. 10\nFTLN 1775 FIRST PLEBEIAN Ay, and briefly.\nFTLN 1776 FOURTH PLEBEIAN Ay, and wisely.\nFTLN 1777 THIRD PLEBEIAN Ay, and truly, you were best.\nFTLN 1778 CINNA What is my name? Whither am I going? Where\nFTLN 1779 do I dwell? Am I a married man or a bachelor? 15\nThen to answer every man directly and briefly,\nFTLN 1780\nwisely and truly: wisely I say, I am a bachelor.\nFTLN 1781\nFTLN 1782 SECOND PLEBEIAN That’s as much as to say they are\nfools that marry. You’ll bear me a bang for that, I\nFTLN 1783\nFTLN 1784 fear. Proceed directly. 20\nFTLN 1785 CINNA Directly, I am going to Caesar’s funeral.\nFTLN 1786 FIRST PLEBEIAN As a friend or an enemy?\nFTLN 1787 CINNA As a friend.\nFTLN 1788 SECOND PLEBEIAN That matter is answered directly.\nFTLN 1789 FOURTH PLEBEIAN For your dwelling—briefly. 25\nFTLN 1790 CINNA Briefly, I dwell by the Capitol.\nFTLN 1791 THIRD PLEBEIAN Your name, sir, truly.\nFTLN 1792 CINNA Truly, my name is Cinna.\nFTLN 1793 FIRST PLEBEIAN Tear him to pieces! He’s a conspirator.\nFTLN 1794 CINNA I am Cinna the poet, I am Cinna the poet! 30\nFTLN 1795 FOURTH PLEBEIAN Tear him for his bad verses, tear him\nfor his bad verses!\nFTLN 1796\nFTLN 1797 CINNA I am not Cinna the conspirator.\nFTLN 1798 FOURTH PLEBEIAN It is no matter. His name’s Cinna.\nFTLN 1799 Pluck but his name out of his heart, and turn him 35\ngoing.\nFTLN 1800\nFTLN 1801 THIRD PLEBEIAN Tear him, tear him! Come, brands, ho,\nfirebrands! To Brutus’, to Cassius’, burn all! Some\nFTLN 1802\nto Decius’ house, and some to Casca’s, some to\nFTLN 1803\nFTLN 1804 Ligarius’. Away, go! 40\nAll the Plebeians exit, carrying off Cinna.",
+    "act": "3",
+    "scene": "3",
+    "heading_lines_top": [
+      "137 Julius Caesar ACT 3. SC. 3",
+      "137 Julius Caesar ACT 3. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 73,
+    "clean_text": "ACT 4\nScene 1\nEnter Antony, Octavius, and Lepidus.\nANTONY\nThese many, then, shall die; their names are\nFTLN 1805\npricked.\nFTLN 1806\nOCTAVIUS\nYour brother too must die. Consent you, Lepidus?\nFTLN 1807\nLEPIDUS\nI do consent.\nFTLN 1808\nFTLN 1809 OCTAVIUS Prick him down, Antony. 5\nLEPIDUS\nUpon condition Publius shall not live,\nFTLN 1810\nWho is your sister’s son, Mark Antony.\nFTLN 1811\nANTONY\nHe shall not live; look, with a spot I damn him.\nFTLN 1812\nBut, Lepidus, go you to Caesar’s house;\nFTLN 1813\nFTLN 1814 Fetch the will hither, and we shall determine 10\nHow to cut off some charge in legacies.\nFTLN 1815\nFTLN 1816 LEPIDUS What, shall I find you here?\nFTLN 1817 OCTAVIUS Or here, or at the Capitol. Lepidus exits.\nANTONY\nThis is a slight, unmeritable man,\nFTLN 1818\nFTLN 1819 Meet to be sent on errands. Is it fit, 15\nThe threefold world divided, he should stand\nFTLN 1820\nOne of the three to share it?\nFTLN 1821\n141",
+    "act": "4",
+    "scene": "1",
+    "heading_lines_top": [
+      "ACT 4",
+      "Scene 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 74,
+    "clean_text": "143 Julius Caesar ACT 4. SC. 1\nFTLN 1822 OCTAVIUS So you thought him\nAnd took his voice who should be pricked to die\nFTLN 1823\nFTLN 1824 In our black sentence and proscription. 20\nANTONY\nOctavius, I have seen more days than you,\nFTLN 1825\nAnd, though we lay these honors on this man\nFTLN 1826\nTo ease ourselves of diverse sland’rous loads,\nFTLN 1827\nHe shall but bear them as the ass bears gold,\nFTLN 1828\nFTLN 1829 To groan and sweat under the business, 25\nEither led or driven, as we point the way;\nFTLN 1830\nAnd having brought our treasure where we will,\nFTLN 1831\nThen take we down his load and turn him off\nFTLN 1832\n(Like to the empty ass) to shake his ears\nFTLN 1833\nFTLN 1834 And graze in commons. 30\nFTLN 1835 OCTAVIUS You may do your will,\nBut he’s a tried and valiant soldier.\nFTLN 1836\nANTONY\nSo is my horse, Octavius, and for that\nFTLN 1837\nI do appoint him store of provender.\nFTLN 1838\nFTLN 1839 It is a creature that I teach to fight, 35\nTo wind, to stop, to run directly on,\nFTLN 1840\nHis corporal motion governed by my spirit;\nFTLN 1841\nAnd, in some taste, is Lepidus but so.\nFTLN 1842\nHe must be taught and trained and bid go forth—\nFTLN 1843\nFTLN 1844 A barren-spirited fellow, one that feeds 40\nOn objects, arts, and imitations\nFTLN 1845\nWhich, out of use and staled by other men,\nFTLN 1846\nBegin his fashion. Do not talk of him\nFTLN 1847\nBut as a property. And now, Octavius,\nFTLN 1848\nFTLN 1849 Listen great things. Brutus and Cassius 45\nAre levying powers. We must straight make head.\nFTLN 1850\nTherefore let our alliance be combined,\nFTLN 1851\nOur best friends made, our means stretched;\nFTLN 1852\nAnd let us presently go sit in council\nFTLN 1853\nFTLN 1854 How covert matters may be best disclosed 50\nAnd open perils surest answerèd.\nFTLN 1855",
+    "act": "4",
+    "scene": "1",
+    "heading_lines_top": [
+      "143 Julius Caesar ACT 4. SC. 1",
+      "143 Julius Caesar ACT 4. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 75,
+    "clean_text": "145 Julius Caesar ACT 4. SC. 2\nOCTAVIUS\nLet us do so, for we are at the stake\nFTLN 1856\nAnd bayed about with many enemies,\nFTLN 1857\nAnd some that smile have in their hearts, I fear,\nFTLN 1858\nFTLN 1859 Millions of mischiefs. 55\nThey exit.\nScene 2\nDrum. Enter Brutus, Lucilius, Lucius, and the Army.\nTitinius and Pindarus meet them.\nFTLN 1860 BRUTUS Stand ho!\nFTLN 1861 LUCILIUS Give the word, ho, and stand!\nBRUTUS\nWhat now, Lucilius, is Cassius near?\nFTLN 1862\nLUCILIUS\nHe is at hand, and Pindarus is come\nFTLN 1863\nFTLN 1864 To do you salutation from his master. 5\nBRUTUS\nHe greets me well.—Your master, Pindarus,\nFTLN 1865\nIn his own change or by ill officers,\nFTLN 1866\nHath given me some worthy cause to wish\nFTLN 1867\nThings done undone, but if he be at hand\nFTLN 1868\nFTLN 1869 I shall be satisfied. 10\nFTLN 1870 PINDARUS I do not doubt\nBut that my noble master will appear\nFTLN 1871\nSuch as he is, full of regard and honor.\nFTLN 1872\nBRUTUS\nFTLN 1873 He is not doubted. Brutus and Lucilius walk aside.\nFTLN 1874 A word, Lucilius, 15\nHow he received you. Let me be resolved.\nFTLN 1875\nLUCILIUS\nWith courtesy and with respect enough,\nFTLN 1876\nBut not with such familiar instances\nFTLN 1877\nNor with such free and friendly conference\nFTLN 1878\nFTLN 1879 As he hath used of old. 20",
+    "act": "4",
+    "scene": "2",
+    "heading_lines_top": [
+      "145 Julius Caesar ACT 4. SC. 2",
+      "145 Julius Caesar ACT 4. SC. 2",
+      "Scene 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 76,
+    "clean_text": "147 Julius Caesar ACT 4. SC. 2\nFTLN 1880 BRUTUS Thou hast described\nA hot friend cooling. Ever note, Lucilius,\nFTLN 1881\nWhen love begins to sicken and decay\nFTLN 1882\nIt useth an enforcèd ceremony.\nFTLN 1883\nFTLN 1884 There are no tricks in plain and simple faith; 25\nBut hollow men, like horses hot at hand,\nFTLN 1885\nMake gallant show and promise of their mettle,\nFTLN 1886\nLow march within.\nBut when they should endure the bloody spur,\nFTLN 1887\nThey fall their crests and, like deceitful jades,\nFTLN 1888\nFTLN 1889 Sink in the trial. Comes his army on? 30\nLUCILIUS\nThey mean this night in Sardis to be quartered.\nFTLN 1890\nThe greater part, the horse in general,\nFTLN 1891\nAre come with Cassius.\nFTLN 1892\nEnter Cassius and his powers.\nFTLN 1893 BRUTUS Hark, he is arrived.\nFTLN 1894 March gently on to meet him. 35\nFTLN 1895 CASSIUS Stand ho!\nFTLN 1896 BRUTUS Stand ho! Speak the word along.\nStand!\nFTLN 1897 FIRST SOLDIER\nStand!\nFTLN 1898 SECOND SOLDIER\nFTLN 1899 THIRD SOLDIER Stand! 40\nCASSIUS\nMost noble brother, you have done me wrong.\nFTLN 1900\nBRUTUS\nJudge me, you gods! Wrong I mine enemies?\nFTLN 1901\nAnd if not so, how should I wrong a brother?\nFTLN 1902\nCASSIUS\nBrutus, this sober form of yours hides wrongs,\nFTLN 1903\nFTLN 1904 And when you do them— 45\nFTLN 1905 BRUTUS Cassius, be content.\nSpeak your griefs softly. I do know you well.\nFTLN 1906\nBefore the eyes of both our armies here\nFTLN 1907\n(Which should perceive nothing but love from us),\nFTLN 1908",
+    "act": "4",
+    "scene": "2",
+    "heading_lines_top": [
+      "147 Julius Caesar ACT 4. SC. 2",
+      "147 Julius Caesar ACT 4. SC. 2"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 77,
+    "clean_text": "149 Julius Caesar ACT 4. SC. 3\nFTLN 1909 Let us not wrangle. Bid them move away. 50\nThen in my tent, Cassius, enlarge your griefs,\nFTLN 1910\nAnd I will give you audience.\nFTLN 1911\nFTLN 1912 CASSIUS Pindarus,\nBid our commanders lead their charges off\nFTLN 1913\nFTLN 1914 A little from this ground. 55\nBRUTUS\nFTLN 1915 Lucius, do you the like, and let no man\nCome to our tent till we have done our conference.\nFTLN 1916\nFTLN 1917 Let Lucilius and Titinius guard our door.\nAll but Brutus and Cassius exit.\nScene 3\nCASSIUS\nThat you have wronged me doth appear in this:\nFTLN 1918\nYou have condemned and noted Lucius Pella\nFTLN 1919\nFor taking bribes here of the Sardians,\nFTLN 1920\nWherein my letters, praying on his side\nFTLN 1921\nFTLN 1922 Because I knew the man, was slighted off. 5\nBRUTUS\nYou wronged yourself to write in such a case.\nFTLN 1923\nCASSIUS\nIn such a time as this it is not meet\nFTLN 1924\nThat every nice offense should bear his comment.\nFTLN 1925\nBRUTUS\nLet me tell you, Cassius, you yourself\nFTLN 1926\nFTLN 1927 Are much condemned to have an itching palm, 10\nTo sell and mart your offices for gold\nFTLN 1928\nTo undeservers.\nFTLN 1929\nFTLN 1930 CASSIUS I an itching palm?\nYou know that you are Brutus that speaks this,\nFTLN 1931\nFTLN 1932 Or, by the gods, this speech were else your last. 15\nBRUTUS\nThe name of Cassius honors this corruption,\nFTLN 1933\nAnd chastisement doth therefore hide his head.\nFTLN 1934",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "149 Julius Caesar ACT 4. SC. 3",
+      "149 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 78,
+    "clean_text": "151 Julius Caesar ACT 4. SC. 3\nFTLN 1935 CASSIUS Chastisement?\nBRUTUS\nRemember March; the ides of March remember.\nFTLN 1936\nFTLN 1937 Did not great Julius bleed for justice’ sake? 20\nWhat villain touched his body that did stab\nFTLN 1938\nAnd not for justice? What, shall one of us\nFTLN 1939\nThat struck the foremost man of all this world\nFTLN 1940\nBut for supporting robbers, shall we now\nFTLN 1941\nFTLN 1942 Contaminate our fingers with base bribes 25\nAnd sell the mighty space of our large honors\nFTLN 1943\nFor so much trash as may be graspèd thus?\nFTLN 1944\nI had rather be a dog and bay the moon\nFTLN 1945\nThan such a Roman.\nFTLN 1946\nFTLN 1947 CASSIUS Brutus, bait not me. 30\nI’ll not endure it. You forget yourself\nFTLN 1948\nTo hedge me in. I am a soldier, I,\nFTLN 1949\nOlder in practice, abler than yourself\nFTLN 1950\nTo make conditions.\nFTLN 1951\nFTLN 1952 BRUTUS Go to! You are not, Cassius. 35\nFTLN 1953 CASSIUS I am.\nFTLN 1954 BRUTUS I say you are not.\nCASSIUS\nUrge me no more. I shall forget myself.\nFTLN 1955\nHave mind upon your health. Tempt me no farther.\nFTLN 1956\nFTLN 1957 BRUTUS Away, slight man! 40\nCASSIUS\nIs ’t possible?\nFTLN 1958\nFTLN 1959 BRUTUS Hear me, for I will speak.\nMust I give way and room to your rash choler?\nFTLN 1960\nShall I be frighted when a madman stares?\nFTLN 1961\nCASSIUS\nFTLN 1962 O you gods, you gods, must I endure all this? 45\nBRUTUS\nAll this? Ay, more. Fret till your proud heart break.\nFTLN 1963\nGo show your slaves how choleric you are\nFTLN 1964\nAnd make your bondmen tremble. Must I budge?\nFTLN 1965",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "151 Julius Caesar ACT 4. SC. 3",
+      "151 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 79,
+    "clean_text": "153 Julius Caesar ACT 4. SC. 3\nMust I observe you? Must I stand and crouch\nFTLN 1966\nFTLN 1967 Under your testy humor? By the gods, 50\nYou shall digest the venom of your spleen\nFTLN 1968\nThough it do split you. For, from this day forth,\nFTLN 1969\nI’ll use you for my mirth, yea, for my laughter,\nFTLN 1970\nWhen you are waspish.\nFTLN 1971\nFTLN 1972 CASSIUS Is it come to this? 55\nBRUTUS\nYou say you are a better soldier.\nFTLN 1973\nLet it appear so, make your vaunting true,\nFTLN 1974\nAnd it shall please me well. For mine own part,\nFTLN 1975\nI shall be glad to learn of noble men.\nFTLN 1976\nCASSIUS\nFTLN 1977 You wrong me every way, you wrong me, Brutus. 60\nI said an elder soldier, not a better.\nFTLN 1978\nDid I say “better”?\nFTLN 1979\nFTLN 1980 BRUTUS If you did, I care not.\nCASSIUS\nWhen Caesar lived he durst not thus have moved\nFTLN 1981\nFTLN 1982 me. 65\nBRUTUS\nPeace, peace! You durst not so have tempted him.\nFTLN 1983\nFTLN 1984 CASSIUS I durst not?\nFTLN 1985 BRUTUS No.\nCASSIUS\nWhat? Durst not tempt him?\nFTLN 1986\nFTLN 1987 BRUTUS For your life you durst 70\nnot.\nFTLN 1988\nCASSIUS\nDo not presume too much upon my love.\nFTLN 1989\nI may do that I shall be sorry for.\nFTLN 1990\nBRUTUS\nYou have done that you should be sorry for.\nFTLN 1991\nFTLN 1992 There is no terror, Cassius, in your threats, 75\nFor I am armed so strong in honesty\nFTLN 1993\nThat they pass by me as the idle wind,\nFTLN 1994",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "153 Julius Caesar ACT 4. SC. 3",
+      "153 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 80,
+    "clean_text": "155 Julius Caesar ACT 4. SC. 3\nWhich I respect not. I did send to you\nFTLN 1995\nFor certain sums of gold, which you denied me,\nFTLN 1996\nFTLN 1997 For I can raise no money by vile means. 80\nBy heaven, I had rather coin my heart\nFTLN 1998\nAnd drop my blood for drachmas than to wring\nFTLN 1999\nFrom the hard hands of peasants their vile trash\nFTLN 2000\nBy any indirection. I did send\nFTLN 2001\nFTLN 2002 To you for gold to pay my legions, 85\nWhich you denied me. Was that done like Cassius?\nFTLN 2003\nShould I have answered Caius Cassius so?\nFTLN 2004\nWhen Marcus Brutus grows so covetous\nFTLN 2005\nTo lock such rascal counters from his friends,\nFTLN 2006\nFTLN 2007 Be ready, gods, with all your thunderbolts; 90\nDash him to pieces!\nFTLN 2008\nFTLN 2009 CASSIUS I denied you not.\nFTLN 2010 BRUTUS You did.\nCASSIUS\nI did not. He was but a fool that brought\nFTLN 2011\nFTLN 2012 My answer back. Brutus hath rived my heart. 95\nA friend should bear his friend’s infirmities,\nFTLN 2013\nBut Brutus makes mine greater than they are.\nFTLN 2014\nBRUTUS\nI do not, till you practice them on me.\nFTLN 2015\nCASSIUS\nYou love me not.\nFTLN 2016\nFTLN 2017 BRUTUS I do not like your faults. 100\nCASSIUS\nA friendly eye could never see such faults.\nFTLN 2018\nBRUTUS\nA flatterer’s would not, though they do appear\nFTLN 2019\nAs huge as high Olympus.\nFTLN 2020\nCASSIUS\nCome, Antony, and young Octavius, come!\nFTLN 2021\nFTLN 2022 Revenge yourselves alone on Cassius, 105\nFor Cassius is aweary of the world—\nFTLN 2023\nHated by one he loves, braved by his brother,\nFTLN 2024",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "155 Julius Caesar ACT 4. SC. 3",
+      "155 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 81,
+    "clean_text": "157 Julius Caesar ACT 4. SC. 3\nChecked like a bondman, all his faults observed,\nFTLN 2025\nSet in a notebook, learned and conned by rote\nFTLN 2026\nFTLN 2027 To cast into my teeth. O, I could weep 110\nMy spirit from mine eyes! There is my dagger,\nFTLN 2028\nOffering his dagger to Brutus.\nAnd here my naked breast; within, a heart\nFTLN 2029\nDearer than Pluto’s mine, richer than gold.\nFTLN 2030\nIf that thou be’st a Roman, take it forth.\nFTLN 2031\nFTLN 2032 I that denied thee gold will give my heart. 115\nStrike as thou didst at Caesar, for I know\nFTLN 2033\nWhen thou didst hate him worst, thou lovedst him\nFTLN 2034\nbetter\nFTLN 2035\nThan ever thou lovedst Cassius.\nFTLN 2036\nFTLN 2037 BRUTUS Sheathe your 120\ndagger.\nFTLN 2038\nBe angry when you will, it shall have scope.\nFTLN 2039\nDo what you will, dishonor shall be humor.\nFTLN 2040\nO Cassius, you are yokèd with a lamb\nFTLN 2041\nFTLN 2042 That carries anger as the flint bears fire, 125\nWho, much enforcèd, shows a hasty spark\nFTLN 2043\nAnd straight is cold again.\nFTLN 2044\nFTLN 2045 CASSIUS Hath Cassius lived\nTo be but mirth and laughter to his Brutus\nFTLN 2046\nFTLN 2047 When grief and blood ill-tempered vexeth him? 130\nBRUTUS\nWhen I spoke that, I was ill-tempered too.\nFTLN 2048\nCASSIUS\nDo you confess so much? Give me your hand.\nFTLN 2049\nBRUTUS\nFTLN 2050 And my heart too. They clasp hands.\nFTLN 2051 CASSIUS O Brutus!\nFTLN 2052 BRUTUS What’s the matter? 135\nCASSIUS\nHave not you love enough to bear with me\nFTLN 2053\nWhen that rash humor which my mother gave me\nFTLN 2054\nMakes me forgetful?\nFTLN 2055",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "157 Julius Caesar ACT 4. SC. 3",
+      "157 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 82,
+    "clean_text": "159 Julius Caesar ACT 4. SC. 3\nFTLN 2056 BRUTUS Yes, Cassius, and from\nFTLN 2057 henceforth 140\nWhen you are over-earnest with your Brutus,\nFTLN 2058\nHe’ll think your mother chides, and leave you so.\nFTLN 2059\nEnter a Poet followed by Lucilius, Titinius, and Lucius.\nPOET\nLet me go in to see the Generals.\nFTLN 2060\nThere is some grudge between ’em; ’tis not meet\nFTLN 2061\nFTLN 2062 They be alone. 145\nFTLN 2063 LUCILIUS You shall not come to them.\nFTLN 2064 POET Nothing but death shall stay me.\nFTLN 2065 CASSIUS How now, what’s the matter?\nPOET\nFor shame, you generals, what do you mean?\nFTLN 2066\nFTLN 2067 Love and be friends as two such men should be, 150\nFor I have seen more years, I’m sure, than ye.\nFTLN 2068\nCASSIUS\nHa, ha, how vilely doth this cynic rhyme!\nFTLN 2069\nBRUTUS\nGet you hence, sirrah! Saucy fellow, hence!\nFTLN 2070\nCASSIUS\nBear with him, Brutus. ’Tis his fashion.\nFTLN 2071\nBRUTUS\nFTLN 2072 I’ll know his humor when he knows his time. 155\nWhat should the wars do with these jigging fools?—\nFTLN 2073\nCompanion, hence!\nFTLN 2074\nFTLN 2075 CASSIUS Away, away, be gone! Poet exits.\nBRUTUS\nLucilius and Titinius, bid the commanders\nFTLN 2076\nFTLN 2077 Prepare to lodge their companies tonight. 160\nCASSIUS\nAnd come yourselves, and bring Messala with you\nFTLN 2078\nFTLN 2079 Immediately to us. Lucilius and Titinius exit.\nFTLN 2080 BRUTUS Lucius, a bowl of wine. Lucius exits.",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "159 Julius Caesar ACT 4. SC. 3",
+      "159 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 83,
+    "clean_text": "161 Julius Caesar ACT 4. SC. 3\nCASSIUS\nI did not think you could have been so angry.\nFTLN 2081\nBRUTUS\nFTLN 2082 O Cassius, I am sick of many griefs. 165\nCASSIUS\nOf your philosophy you make no use\nFTLN 2083\nIf you give place to accidental evils.\nFTLN 2084\nBRUTUS\nNo man bears sorrow better. Portia is dead.\nFTLN 2085\nFTLN 2086 CASSIUS Ha? Portia?\nFTLN 2087 BRUTUS She is dead. 170\nCASSIUS\nHow ’scaped I killing when I crossed you so?\nFTLN 2088\nO insupportable and touching loss!\nFTLN 2089\nUpon what sickness?\nFTLN 2090\nFTLN 2091 BRUTUS Impatient of my absence,\nFTLN 2092 And grief that young Octavius with Mark Antony 175\nHave made themselves so strong—for with her\nFTLN 2093\ndeath\nFTLN 2094\nThat tidings came—with this she fell distract\nFTLN 2095\nAnd, her attendants absent, swallowed fire.\nFTLN 2096\nFTLN 2097 CASSIUS And died so? 180\nFTLN 2098 BRUTUS Even so.\nFTLN 2099 CASSIUS O you immortal gods!\nEnter Lucius with wine and tapers.\nBRUTUS\nSpeak no more of her.—Give me a bowl of wine.—\nFTLN 2100\nFTLN 2101 In this I bury all unkindness, Cassius. He drinks.\nCASSIUS\nFTLN 2102 My heart is thirsty for that noble pledge.— 185\nFill, Lucius, till the wine o’erswell the cup;\nFTLN 2103\nFTLN 2104 I cannot drink too much of Brutus’ love. He drinks.\nLucius exits.\nEnter Titinius and Messala.",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "161 Julius Caesar ACT 4. SC. 3",
+      "161 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 84,
+    "clean_text": "163 Julius Caesar ACT 4. SC. 3\nBRUTUS\nCome in, Titinius. Welcome, good Messala.\nFTLN 2105\nNow sit we close about this taper here,\nFTLN 2106\nFTLN 2107 And call in question our necessities. They sit. 190\nCASSIUS\nPortia, art thou gone?\nFTLN 2108\nFTLN 2109 BRUTUS No more, I pray you.—\nMessala, I have here receivèd letters\nFTLN 2110\nThat young Octavius and Mark Antony\nFTLN 2111\nFTLN 2112 Come down upon us with a mighty power, 195\nBending their expedition toward Philippi.\nFTLN 2113\nMESSALA\nMyself have letters of the selfsame tenor.\nFTLN 2114\nFTLN 2115 BRUTUS With what addition?\nMESSALA\nThat by proscription and bills of outlawry,\nFTLN 2116\nFTLN 2117 Octavius, Antony, and Lepidus 200\nHave put to death an hundred senators.\nFTLN 2118\nBRUTUS\nTherein our letters do not well agree.\nFTLN 2119\nMine speak of seventy senators that died\nFTLN 2120\nBy their proscriptions, Cicero being one.\nFTLN 2121\nCASSIUS\nFTLN 2122 Cicero one? 205\nFTLN 2123 MESSALA Cicero is dead,\nAnd by that order of proscription.\nFTLN 2124\nHad you your letters from your wife, my lord?\nFTLN 2125\nFTLN 2126 BRUTUS No, Messala.\nMESSALA\nFTLN 2127 Nor nothing in your letters writ of her? 210\nFTLN 2128 BRUTUS Nothing, Messala.\nFTLN 2129 MESSALA That methinks is strange.\nBRUTUS\nWhy ask you? Hear you aught of her in yours?\nFTLN 2130\nFTLN 2131 MESSALA No, my lord.",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "163 Julius Caesar ACT 4. SC. 3",
+      "163 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 85,
+    "clean_text": "165 Julius Caesar ACT 4. SC. 3\nBRUTUS\nFTLN 2132 Now, as you are a Roman, tell me true. 215\nMESSALA\nThen like a Roman bear the truth I tell,\nFTLN 2133\nFor certain she is dead, and by strange manner.\nFTLN 2134\nBRUTUS\nWhy, farewell, Portia. We must die, Messala.\nFTLN 2135\nWith meditating that she must die once,\nFTLN 2136\nFTLN 2137 I have the patience to endure it now. 220\nMESSALA\nEven so great men great losses should endure.\nFTLN 2138\nCASSIUS\nI have as much of this in art as you,\nFTLN 2139\nBut yet my nature could not bear it so.\nFTLN 2140\nBRUTUS\nWell, to our work alive. What do you think\nFTLN 2141\nFTLN 2142 Of marching to Philippi presently? 225\nFTLN 2143 CASSIUS I do not think it good.\nFTLN 2144 BRUTUS Your reason?\nFTLN 2145 CASSIUS This it is:\n’Tis better that the enemy seek us;\nFTLN 2146\nFTLN 2147 So shall he waste his means, weary his soldiers, 230\nDoing himself offense, whilst we, lying still,\nFTLN 2148\nAre full of rest, defense, and nimbleness.\nFTLN 2149\nBRUTUS\nGood reasons must of force give place to better.\nFTLN 2150\nThe people ’twixt Philippi and this ground\nFTLN 2151\nFTLN 2152 Do stand but in a forced affection, 235\nFor they have grudged us contribution.\nFTLN 2153\nThe enemy, marching along by them,\nFTLN 2154\nBy them shall make a fuller number up,\nFTLN 2155\nCome on refreshed, new-added, and encouraged,\nFTLN 2156\nFTLN 2157 From which advantage shall we cut him off 240\nIf at Philippi we do face him there,\nFTLN 2158\nThese people at our back.\nFTLN 2159\nFTLN 2160 CASSIUS Hear me, good brother—",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "165 Julius Caesar ACT 4. SC. 3",
+      "165 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 86,
+    "clean_text": "167 Julius Caesar ACT 4. SC. 3\nBRUTUS\nUnder your pardon. You must note besides\nFTLN 2161\nFTLN 2162 That we have tried the utmost of our friends, 245\nOur legions are brim full, our cause is ripe.\nFTLN 2163\nThe enemy increaseth every day;\nFTLN 2164\nWe, at the height, are ready to decline.\nFTLN 2165\nThere is a tide in the affairs of men\nFTLN 2166\nFTLN 2167 Which, taken at the flood, leads on to fortune; 250\nOmitted, all the voyage of their life\nFTLN 2168\nIs bound in shallows and in miseries.\nFTLN 2169\nOn such a full sea are we now afloat,\nFTLN 2170\nAnd we must take the current when it serves\nFTLN 2171\nFTLN 2172 Or lose our ventures. 255\nFTLN 2173 CASSIUS Then, with your will, go on;\nWe’ll along ourselves and meet them at Philippi.\nFTLN 2174\nBRUTUS\nThe deep of night is crept upon our talk,\nFTLN 2175\nAnd nature must obey necessity,\nFTLN 2176\nFTLN 2177 Which we will niggard with a little rest. 260\nThere is no more to say.\nFTLN 2178\nFTLN 2179 CASSIUS No more. Good night.\nThey stand.\nEarly tomorrow will we rise and hence.\nFTLN 2180\nBRUTUS\nLucius.\nFTLN 2181\nEnter Lucius.\nFTLN 2182 My gown. Lucius exits. 265\nFarewell, good Messala.—\nFTLN 2183\nGood night, Titinius.—Noble, noble Cassius,\nFTLN 2184\nGood night and good repose.\nFTLN 2185\nFTLN 2186 CASSIUS O my dear brother,\nFTLN 2187 This was an ill beginning of the night. 270\nNever come such division ’tween our souls!\nFTLN 2188\nLet it not, Brutus.\nFTLN 2189\nEnter Lucius with the gown.",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "167 Julius Caesar ACT 4. SC. 3",
+      "167 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 87,
+    "clean_text": "169 Julius Caesar ACT 4. SC. 3\nFTLN 2190 BRUTUS Everything is well.\nFTLN 2191 CASSIUS Good night, my lord.\nFTLN 2192 BRUTUS Good night, good brother. 275\nTITINIUS/MESSALA\nGood night, Lord Brutus.\nFTLN 2193\nFTLN 2194 BRUTUS Farewell, everyone.\nAll but Brutus and Lucius exit.\nGive me the gown. Where is thy instrument?\nFTLN 2195\nLUCIUS\nHere in the tent.\nFTLN 2196\nFTLN 2197 BRUTUS What, thou speak’st drowsily? 280\nPoor knave, I blame thee not; thou art o’erwatched.\nFTLN 2198\nCall Claudius and some other of my men;\nFTLN 2199\nI’ll have them sleep on cushions in my tent.\nFTLN 2200\nFTLN 2201 LUCIUS Varro and Claudius.\nEnter Varro and Claudius.\nFTLN 2202 VARRO Calls my lord? 285\nBRUTUS\nI pray you, sirs, lie in my tent and sleep.\nFTLN 2203\nIt may be I shall raise you by and by\nFTLN 2204\nOn business to my brother Cassius.\nFTLN 2205\nVARRO\nSo please you, we will stand and watch your\nFTLN 2206\nFTLN 2207 pleasure. 290\nBRUTUS\nI will not have it so. Lie down, good sirs.\nFTLN 2208\nIt may be I shall otherwise bethink me.\nFTLN 2209\nThey lie down.\nLook, Lucius, here’s the book I sought for so.\nFTLN 2210\nI put it in the pocket of my gown.\nFTLN 2211\nLUCIUS\nFTLN 2212 I was sure your Lordship did not give it me. 295\nBRUTUS\nBear with me, good boy, I am much forgetful.\nFTLN 2213",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "169 Julius Caesar ACT 4. SC. 3",
+      "169 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 88,
+    "clean_text": "171 Julius Caesar ACT 4. SC. 3\nCanst thou hold up thy heavy eyes awhile\nFTLN 2214\nAnd touch thy instrument a strain or two?\nFTLN 2215\nLUCIUS\nAy, my lord, an ’t please you.\nFTLN 2216\nFTLN 2217 BRUTUS It does, my boy. 300\nI trouble thee too much, but thou art willing.\nFTLN 2218\nFTLN 2219 LUCIUS It is my duty, sir.\nBRUTUS\nI should not urge thy duty past thy might.\nFTLN 2220\nI know young bloods look for a time of rest.\nFTLN 2221\nFTLN 2222 LUCIUS I have slept, my lord, already. 305\nBRUTUS\nIt was well done, and thou shalt sleep again.\nFTLN 2223\nI will not hold thee long. If I do live,\nFTLN 2224\nI will be good to thee.\nFTLN 2225\nMusic and a song. Lucius then falls asleep.\nFTLN 2226 This is a sleepy tune. O murd’rous slumber,\nFTLN 2227 Layest thou thy leaden mace upon my boy, 310\nThat plays thee music?—Gentle knave, good night.\nFTLN 2228\nI will not do thee so much wrong to wake thee.\nFTLN 2229\nIf thou dost nod, thou break’st thy instrument.\nFTLN 2230\nI’ll take it from thee and, good boy, good night.\nFTLN 2231\nHe moves the instrument.\nFTLN 2232 Let me see, let me see; is not the leaf turned down 315\nWhere I left reading? Here it is, I think.\nFTLN 2233\nHow ill this taper burns.\nFTLN 2234\nEnter the Ghost of Caesar.\nHa, who comes here?—\nFTLN 2235\nI think it is the weakness of mine eyes\nFTLN 2236\nFTLN 2237 That shapes this monstrous apparition. 320\nIt comes upon me.—Art thou any thing?\nFTLN 2238\nArt thou some god, some angel, or some devil,\nFTLN 2239\nThat mak’st my blood cold and my hair to stare?\nFTLN 2240\nSpeak to me what thou art.\nFTLN 2241",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "171 Julius Caesar ACT 4. SC. 3",
+      "171 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 89,
+    "clean_text": "173 Julius Caesar ACT 4. SC. 3\nGHOST\nFTLN 2242 Thy evil spirit, Brutus. 325\nFTLN 2243 BRUTUS Why com’st thou?\nGHOST\nTo tell thee thou shalt see me at Philippi.\nFTLN 2244\nFTLN 2245 BRUTUS Well, then I shall see thee again?\nFTLN 2246 GHOST Ay, at Philippi.\nBRUTUS\nFTLN 2247 Why, I will see thee at Philippi, then. Ghost exits. 330\nNow I have taken heart, thou vanishest.\nFTLN 2248\nIll spirit, I would hold more talk with thee.—\nFTLN 2249\nBoy, Lucius!—Varro, Claudius, sirs, awake!\nFTLN 2250\nClaudius!\nFTLN 2251\nFTLN 2252 LUCIUS The strings, my lord, are false. 335\nBRUTUS\nHe thinks he still is at his instrument.\nFTLN 2253\nLucius, awake!\nFTLN 2254\nFTLN 2255 LUCIUS My lord?\nBRUTUS\nDidst thou dream, Lucius, that thou so criedst out?\nFTLN 2256\nLUCIUS\nFTLN 2257 My lord, I do not know that I did cry. 340\nBRUTUS\nYes, that thou didst. Didst thou see anything?\nFTLN 2258\nFTLN 2259 LUCIUS Nothing, my lord.\nBRUTUS\nSleep again, Lucius.—Sirrah Claudius!\nFTLN 2260\nFTLN 2261 To Varro. Fellow thou, awake! They rise up.\nFTLN 2262 VARRO My lord? 345\nFTLN 2263 CLAUDIUS My lord?\nBRUTUS\nWhy did you so cry out, sirs, in your sleep?\nFTLN 2264\nBOTH\nDid we, my lord?\nFTLN 2265\nFTLN 2266 BRUTUS Ay. Saw you anything?\nFTLN 2267 VARRO No, my lord, I saw nothing. 350",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "173 Julius Caesar ACT 4. SC. 3",
+      "173 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 90,
+    "clean_text": "175 Julius Caesar ACT 4. SC. 3\nFTLN 2268 CLAUDIUS Nor I, my lord.\nBRUTUS\nGo and commend me to my brother Cassius.\nFTLN 2269\nBid him set on his powers betimes before,\nFTLN 2270\nAnd we will follow.\nFTLN 2271\nFTLN 2272 BOTH It shall be done, my lord. 355\nThey exit.",
+    "act": "4",
+    "scene": "3",
+    "heading_lines_top": [
+      "175 Julius Caesar ACT 4. SC. 3",
+      "175 Julius Caesar ACT 4. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 91,
+    "clean_text": "ACT 5\nScene 1\nEnter Octavius, Antony, and their army.\nOCTAVIUS\nNow, Antony, our hopes are answerèd.\nFTLN 2273\nYou said the enemy would not come down\nFTLN 2274\nBut keep the hills and upper regions.\nFTLN 2275\nIt proves not so; their battles are at hand.\nFTLN 2276\nFTLN 2277 They mean to warn us at Philippi here, 5\nAnswering before we do demand of them.\nFTLN 2278\nANTONY\nTut, I am in their bosoms, and I know\nFTLN 2279\nWherefore they do it. They could be content\nFTLN 2280\nTo visit other places, and come down\nFTLN 2281\nFTLN 2282 With fearful bravery, thinking by this face 10\nTo fasten in our thoughts that they have courage.\nFTLN 2283\nBut ’tis not so.\nFTLN 2284\nEnter a Messenger.\nFTLN 2285 MESSENGER Prepare you, generals.\nThe enemy comes on in gallant show.\nFTLN 2286\nFTLN 2287 Their bloody sign of battle is hung out, 15\nAnd something to be done immediately.\nFTLN 2288\nANTONY\nOctavius, lead your battle softly on\nFTLN 2289\nUpon the left hand of the even field.\nFTLN 2290\n179",
+    "act": "5",
+    "scene": "1",
+    "heading_lines_top": [
+      "ACT 5",
+      "Scene 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 92,
+    "clean_text": "181 Julius Caesar ACT 5. SC. 1\nOCTAVIUS\nUpon the right hand, I; keep thou the left.\nFTLN 2291\nANTONY\nFTLN 2292 Why do you cross me in this exigent? 20\nOCTAVIUS\nI do not cross you, but I will do so. March.\nFTLN 2293\nDrum. Enter Brutus, Cassius, and their army including\nLucilius, Titinius, and Messala.\nFTLN 2294 BRUTUS They stand and would have parley.\nCASSIUS\nStand fast, Titinius. We must out and talk.\nFTLN 2295\nOCTAVIUS\nMark Antony, shall we give sign of battle?\nFTLN 2296\nANTONY\nFTLN 2297 No, Caesar, we will answer on their charge. 25\nMake forth. The Generals would have some words.\nFTLN 2298\nFTLN 2299 OCTAVIUS, to his Officers Stir not until the signal.\nThe Generals step forward.\nBRUTUS\nWords before blows; is it so, countrymen?\nFTLN 2300\nOCTAVIUS\nNot that we love words better, as you do.\nFTLN 2301\nBRUTUS\nFTLN 2302 Good words are better than bad strokes, Octavius. 30\nANTONY\nIn your bad strokes, Brutus, you give good words.\nFTLN 2303\nWitness the hole you made in Caesar’s heart,\nFTLN 2304\nCrying “Long live, hail, Caesar!”\nFTLN 2305\nFTLN 2306 CASSIUS Antony,\nFTLN 2307 The posture of your blows are yet unknown, 35\nBut, for your words, they rob the Hybla bees\nFTLN 2308\nAnd leave them honeyless.\nFTLN 2309\nFTLN 2310 ANTONY Not stingless too.\nFTLN 2311 BRUTUS O yes, and soundless too,",
+    "act": "5",
+    "scene": "1",
+    "heading_lines_top": [
+      "181 Julius Caesar ACT 5. SC. 1",
+      "181 Julius Caesar ACT 5. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 93,
+    "clean_text": "183 Julius Caesar ACT 5. SC. 1\nFTLN 2312 For you have stolen their buzzing, Antony, 40\nAnd very wisely threat before you sting.\nFTLN 2313\nANTONY\nVillains, you did not so when your vile daggers\nFTLN 2314\nHacked one another in the sides of Caesar.\nFTLN 2315\nFTLN 2316 You showed your teeth like apes and fawned like\nFTLN 2317 hounds 45\nAnd bowed like bondmen, kissing Caesar’s feet,\nFTLN 2318\nWhilst damnèd Casca, like a cur, behind\nFTLN 2319\nStruck Caesar on the neck. O you flatterers!\nFTLN 2320\nCASSIUS\nFlatterers?—Now, Brutus, thank yourself!\nFTLN 2321\nFTLN 2322 This tongue had not offended so today 50\nIf Cassius might have ruled.\nFTLN 2323\nOCTAVIUS\nCome, come, the cause. If arguing make us sweat,\nFTLN 2324\nThe proof of it will turn to redder drops.\nFTLN 2325\nLook, I draw a sword against conspirators;\nFTLN 2326\nHe draws.\nFTLN 2327 When think you that the sword goes up again? 55\nNever, till Caesar’s three and thirty wounds\nFTLN 2328\nBe well avenged, or till another Caesar\nFTLN 2329\nHave added slaughter to the sword of traitors.\nFTLN 2330\nBRUTUS\nCaesar, thou canst not die by traitors’ hands\nFTLN 2331\nFTLN 2332 Unless thou bring’st them with thee. 60\nFTLN 2333 OCTAVIUS So I hope.\nI was not born to die on Brutus’ sword.\nFTLN 2334\nBRUTUS\nO, if thou wert the noblest of thy strain,\nFTLN 2335\nYoung man, thou couldst not die more honorable.\nFTLN 2336\nCASSIUS\nFTLN 2337 A peevish schoolboy, worthless of such honor, 65\nJoined with a masker and a reveler!\nFTLN 2338\nANTONY\nOld Cassius still.\nFTLN 2339\nFTLN 2340 OCTAVIUS Come, Antony, away!—",
+    "act": "5",
+    "scene": "1",
+    "heading_lines_top": [
+      "183 Julius Caesar ACT 5. SC. 1",
+      "183 Julius Caesar ACT 5. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 94,
+    "clean_text": "185 Julius Caesar ACT 5. SC. 1\nDefiance, traitors, hurl we in your teeth.\nFTLN 2341\nFTLN 2342 If you dare fight today, come to the field; 70\nIf not, when you have stomachs.\nFTLN 2343\nOctavius, Antony, and their army exit.\nCASSIUS\nWhy now, blow wind, swell billow, and swim bark!\nFTLN 2344\nThe storm is up, and all is on the hazard.\nFTLN 2345\nBRUTUS\nHo, Lucilius, hark, a word with you.\nFTLN 2346\nLucilius and Messala stand forth.\nFTLN 2347 LUCILIUS My lord? 75\nBrutus and Lucilius step aside together.\nCASSIUS\nMessala.\nFTLN 2348\nFTLN 2349 MESSALA What says my general?\nFTLN 2350 CASSIUS Messala,\nThis is my birthday, as this very day\nFTLN 2351\nFTLN 2352 Was Cassius born. Give me thy hand, Messala. 80\nBe thou my witness that against my will\nFTLN 2353\n(As Pompey was) am I compelled to set\nFTLN 2354\nUpon one battle all our liberties.\nFTLN 2355\nYou know that I held Epicurus strong\nFTLN 2356\nFTLN 2357 And his opinion. Now I change my mind 85\nAnd partly credit things that do presage.\nFTLN 2358\nComing from Sardis, on our former ensign\nFTLN 2359\nTwo mighty eagles fell, and there they perched,\nFTLN 2360\nGorging and feeding from our soldiers’ hands,\nFTLN 2361\nFTLN 2362 Who to Philippi here consorted us. 90\nThis morning are they fled away and gone,\nFTLN 2363\nAnd in their steads do ravens, crows, and kites\nFTLN 2364\nFly o’er our heads and downward look on us\nFTLN 2365\nAs we were sickly prey. Their shadows seem\nFTLN 2366\nFTLN 2367 A canopy most fatal, under which 95\nOur army lies, ready to give up the ghost.\nFTLN 2368\nMESSALA\nBelieve not so.\nFTLN 2369",
+    "act": "5",
+    "scene": "1",
+    "heading_lines_top": [
+      "185 Julius Caesar ACT 5. SC. 1",
+      "185 Julius Caesar ACT 5. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 95,
+    "clean_text": "187 Julius Caesar ACT 5. SC. 1\nFTLN 2370 CASSIUS I but believe it partly,\nFor I am fresh of spirit and resolved\nFTLN 2371\nFTLN 2372 To meet all perils very constantly. 100\nBRUTUS\nFTLN 2373 Even so, Lucilius. Brutus returns to Cassius.\nFTLN 2374 CASSIUS Now, most noble Brutus,\nThe gods today stand friendly that we may,\nFTLN 2375\nLovers in peace, lead on our days to age.\nFTLN 2376\nFTLN 2377 But since the affairs of men rests still incertain, 105\nLet’s reason with the worst that may befall.\nFTLN 2378\nIf we do lose this battle, then is this\nFTLN 2379\nThe very last time we shall speak together.\nFTLN 2380\nWhat are you then determinèd to do?\nFTLN 2381\nBRUTUS\nFTLN 2382 Even by the rule of that philosophy 110\nBy which I did blame Cato for the death\nFTLN 2383\nWhich he did give himself (I know not how,\nFTLN 2384\nBut I do find it cowardly and vile,\nFTLN 2385\nFor fear of what might fall, so to prevent\nFTLN 2386\nFTLN 2387 The time of life), arming myself with patience 115\nTo stay the providence of some high powers\nFTLN 2388\nThat govern us below.\nFTLN 2389\nFTLN 2390 CASSIUS Then, if we lose this battle,\nYou are contented to be led in triumph\nFTLN 2391\nFTLN 2392 Thorough the streets of Rome? 120\nBRUTUS\nNo, Cassius, no. Think not, thou noble Roman,\nFTLN 2393\nThat ever Brutus will go bound to Rome.\nFTLN 2394\nHe bears too great a mind. But this same day\nFTLN 2395\nMust end that work the ides of March begun.\nFTLN 2396\nFTLN 2397 And whether we shall meet again, I know not. 125\nTherefore our everlasting farewell take.\nFTLN 2398\nForever and forever farewell, Cassius.\nFTLN 2399\nIf we do meet again, why we shall smile;\nFTLN 2400\nIf not, why then this parting was well made.\nFTLN 2401",
+    "act": "5",
+    "scene": "1",
+    "heading_lines_top": [
+      "187 Julius Caesar ACT 5. SC. 1",
+      "187 Julius Caesar ACT 5. SC. 1"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 96,
+    "clean_text": "189 Julius Caesar ACT 5. SC. 3\nCASSIUS\nFTLN 2402 Forever and forever farewell, Brutus. 130\nIf we do meet again, we’ll smile indeed;\nFTLN 2403\nIf not, ’tis true this parting was well made.\nFTLN 2404\nBRUTUS\nWhy then, lead on.—O, that a man might know\nFTLN 2405\nThe end of this day’s business ere it come!\nFTLN 2406\nFTLN 2407 But it sufficeth that the day will end, 135\nAnd then the end is known.—Come ho, away!\nFTLN 2408\nThey exit.\nScene 2\nAlarum. Enter Brutus and Messala.\nBRUTUS\nRide, ride, Messala, ride, and give these bills\nFTLN 2409\nUnto the legions on the other side!\nFTLN 2410\nHe hands Messala papers.\nLoud alarum.\nLet them set on at once, for I perceive\nFTLN 2411\nBut cold demeanor in Octavius’ wing,\nFTLN 2412\nFTLN 2413 And sudden push gives them the overthrow. 5\nRide, ride, Messala! Let them all come down.\nFTLN 2414\nThey exit.\nScene 3\nAlarums. Enter Cassius carrying a standard and\nTitinius.\nCASSIUS\nO, look, Titinius, look, the villains fly!\nFTLN 2415\nMyself have to mine own turned enemy.\nFTLN 2416\nThis ensign here of mine was turning back;\nFTLN 2417\nI slew the coward and did take it from him.\nFTLN 2418",
+    "act": "5",
+    "scene": "3",
+    "heading_lines_top": [
+      "189 Julius Caesar ACT 5. SC. 3",
+      "189 Julius Caesar ACT 5. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 97,
+    "clean_text": "191 Julius Caesar ACT 5. SC. 3\nTITINIUS\nFTLN 2419 O Cassius, Brutus gave the word too early, 5\nWho, having some advantage on Octavius,\nFTLN 2420\nTook it too eagerly. His soldiers fell to spoil,\nFTLN 2421\nWhilst we by Antony are all enclosed.\nFTLN 2422\nEnter Pindarus.\nPINDARUS\nFly further off, my lord, fly further off!\nFTLN 2423\nFTLN 2424 Mark Antony is in your tents, my lord. 10\nFly therefore, noble Cassius, fly far off.\nFTLN 2425\nCASSIUS\nThis hill is far enough.—Look, look, Titinius,\nFTLN 2426\nAre those my tents where I perceive the fire?\nFTLN 2427\nTITINIUS\nThey are, my lord.\nFTLN 2428\nFTLN 2429 CASSIUS Titinius, if thou lovest me, 15\nMount thou my horse and hide thy spurs in him\nFTLN 2430\nTill he have brought thee up to yonder troops\nFTLN 2431\nAnd here again, that I may rest assured\nFTLN 2432\nWhether yond troops are friend or enemy.\nFTLN 2433\nTITINIUS\nFTLN 2434 I will be here again even with a thought. He exits. 20\nCASSIUS\nGo, Pindarus, get higher on that hill.\nFTLN 2435\nMy sight was ever thick. Regard Titinius\nFTLN 2436\nAnd tell me what thou not’st about the field.\nFTLN 2437\nPindarus goes up.\nThis day I breathèd first. Time is come round,\nFTLN 2438\nFTLN 2439 And where I did begin, there shall I end; 25\nMy life is run his compass.—Sirrah, what news?\nFTLN 2440\nFTLN 2441\nPINDARUS, above. O my lord!\nFTLN 2442 CASSIUS What news?\nPINDARUS\nTitinius is enclosèd round about\nFTLN 2443",
+    "act": "5",
+    "scene": "3",
+    "heading_lines_top": [
+      "191 Julius Caesar ACT 5. SC. 3",
+      "191 Julius Caesar ACT 5. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 98,
+    "clean_text": "193 Julius Caesar ACT 5. SC. 3\nFTLN 2444 With horsemen that make to him on the spur, 30\nYet he spurs on. Now they are almost on him.\nFTLN 2445\nNow Titinius! Now some light. O, he lights too.\nFTLN 2446\nHe’s ta’en. Shout.\nFTLN 2447\nAnd hark, they shout for joy.\nFTLN 2448\nFTLN 2449 CASSIUS Come down, behold no more.— 35\nO, coward that I am to live so long\nFTLN 2450\nTo see my best friend ta’en before my face!\nFTLN 2451\nPindarus comes down.\nCome hither, sirrah.\nFTLN 2452\nIn Parthia did I take thee prisoner,\nFTLN 2453\nFTLN 2454 And then I swore thee, saving of thy life, 40\nThat whatsoever I did bid thee do\nFTLN 2455\nThou shouldst attempt it. Come now, keep thine\nFTLN 2456\noath.\nFTLN 2457\nNow be a freeman, and with this good sword,\nFTLN 2458\nFTLN 2459 That ran through Caesar’s bowels, search this 45\nbosom.\nFTLN 2460\nStand not to answer. Here, take thou the hilts,\nFTLN 2461\nAnd, when my face is covered, as ’tis now,\nFTLN 2462\nFTLN 2463 Guide thou the sword. Pindarus stabs him.\nFTLN 2464 Caesar, thou art revenged 50\nFTLN 2465 Even with the sword that killed thee. He dies.\nPINDARUS\nSo I am free, yet would not so have been,\nFTLN 2466\nDurst I have done my will.—O Cassius!—\nFTLN 2467\nFar from this country Pindarus shall run,\nFTLN 2468\nFTLN 2469 Where never Roman shall take note of him. 55\nHe exits.\nEnter Titinius and Messala.\nMESSALA\nIt is but change, Titinius, for Octavius\nFTLN 2470\nIs overthrown by noble Brutus’ power,\nFTLN 2471\nAs Cassius’ legions are by Antony.\nFTLN 2472",
+    "act": "5",
+    "scene": "3",
+    "heading_lines_top": [
+      "193 Julius Caesar ACT 5. SC. 3",
+      "193 Julius Caesar ACT 5. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 99,
+    "clean_text": "195 Julius Caesar ACT 5. SC. 3\nTITINIUS\nThese tidings will well comfort Cassius.\nFTLN 2473\nMESSALA\nFTLN 2474 Where did you leave him? 60\nFTLN 2475 TITINIUS All disconsolate,\nWith Pindarus his bondman, on this hill.\nFTLN 2476\nMESSALA\nIs not that he that lies upon the ground?\nFTLN 2477\nTITINIUS\nHe lies not like the living. O my heart!\nFTLN 2478\nMESSALA\nFTLN 2479 Is not that he? 65\nFTLN 2480 TITINIUS No, this was he, Messala,\nBut Cassius is no more. O setting sun,\nFTLN 2481\nAs in thy red rays thou dost sink to night,\nFTLN 2482\nSo in his red blood Cassius’ day is set.\nFTLN 2483\nFTLN 2484 The sun of Rome is set. Our day is gone; 70\nClouds, dews, and dangers come. Our deeds are\nFTLN 2485\ndone.\nFTLN 2486\nMistrust of my success hath done this deed.\nFTLN 2487\nMESSALA\nMistrust of good success hath done this deed.\nFTLN 2488\nFTLN 2489 O hateful error, melancholy’s child, 75\nWhy dost thou show to the apt thoughts of men\nFTLN 2490\nThe things that are not? O error, soon conceived,\nFTLN 2491\nThou never com’st unto a happy birth\nFTLN 2492\nBut kill’st the mother that engendered thee!\nFTLN 2493\nTITINIUS\nFTLN 2494 What, Pindarus! Where art thou, Pindarus? 80\nMESSALA\nSeek him, Titinius, whilst I go to meet\nFTLN 2495\nThe noble Brutus, thrusting this report\nFTLN 2496\nInto his ears. I may say “thrusting it,”\nFTLN 2497\nFor piercing steel and darts envenomèd\nFTLN 2498\nFTLN 2499 Shall be as welcome to the ears of Brutus 85\nAs tidings of this sight.\nFTLN 2500",
+    "act": "5",
+    "scene": "3",
+    "heading_lines_top": [
+      "195 Julius Caesar ACT 5. SC. 3",
+      "195 Julius Caesar ACT 5. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 100,
+    "clean_text": "197 Julius Caesar ACT 5. SC. 3\nFTLN 2501 TITINIUS Hie you, Messala,\nAnd I will seek for Pindarus the while.\nFTLN 2502\nMessala exits.\nWhy didst thou send me forth, brave Cassius?\nFTLN 2503\nFTLN 2504 Did I not meet thy friends, and did not they 90\nPut on my brows this wreath of victory\nFTLN 2505\nAnd bid me give it thee? Didst thou not hear their\nFTLN 2506\nshouts?\nFTLN 2507\nAlas, thou hast misconstrued everything.\nFTLN 2508\nFTLN 2509 But hold thee, take this garland on thy brow. 95\nLaying the garland on Cassius’ brow.\nThy Brutus bid me give it thee, and I\nFTLN 2510\nWill do his bidding.—Brutus, come apace,\nFTLN 2511\nAnd see how I regarded Caius Cassius.—\nFTLN 2512\nBy your leave, gods, this is a Roman’s part.\nFTLN 2513\nFTLN 2514 Come, Cassius’ sword, and find Titinius’ heart! 100\nHe dies on Cassius’ sword.\nAlarum. Enter Brutus, Messala, young Cato, Strato,\nVolumnius, and Lucilius, Labeo, and Flavius.\nBRUTUS\nWhere, where, Messala, doth his body lie?\nFTLN 2515\nMESSALA\nLo, yonder, and Titinius mourning it.\nFTLN 2516\nBRUTUS\nTitinius’ face is upward.\nFTLN 2517\nFTLN 2518 CATO He is slain.\nBRUTUS\nFTLN 2519 O Julius Caesar, thou art mighty yet; 105\nThy spirit walks abroad and turns our swords\nFTLN 2520\nIn our own proper entrails. Low alarums.\nFTLN 2521\nFTLN 2522 CATO Brave Titinius!—\nLook whe’er he have not crowned dead Cassius.\nFTLN 2523\nBRUTUS\nFTLN 2524 Are yet two Romans living such as these?— 110\nThe last of all the Romans, fare thee well.\nFTLN 2525",
+    "act": "5",
+    "scene": "3",
+    "heading_lines_top": [
+      "197 Julius Caesar ACT 5. SC. 3",
+      "197 Julius Caesar ACT 5. SC. 3"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 101,
+    "clean_text": "199 Julius Caesar ACT 5. SC. 4\nIt is impossible that ever Rome\nFTLN 2526\nShould breed thy fellow.—Friends, I owe more\nFTLN 2527\ntears\nFTLN 2528\nFTLN 2529 To this dead man than you shall see me pay.— 115\nI shall find time, Cassius; I shall find time.—\nFTLN 2530\nFTLN 2531 Come, therefore, and to Thasos send his body.\nHis funerals shall not be in our camp,\nFTLN 2532\nLest it discomfort us.—Lucilius, come.—\nFTLN 2533\nFTLN 2534 And come, young Cato. Let us to the field.— 120\nLabeo and Flavius, set our battles on.\nFTLN 2535\n’Tis three o’clock, and, Romans, yet ere night\nFTLN 2536\nWe shall try fortune in a second fight.\nFTLN 2537\nThey exit.\nScene 4\nAlarum. Enter Brutus, Messala, Cato, Lucilius, and\nFlavius.\nBRUTUS\nYet, countrymen, O, yet hold up your heads!\nFTLN 2538\nBrutus, Messala, and Flavius exit.\nCATO\nWhat bastard doth not? Who will go with me?\nFTLN 2539\nI will proclaim my name about the field.\nFTLN 2540\nI am the son of Marcus Cato, ho!\nFTLN 2541\nFTLN 2542 A foe to tyrants and my country’s friend. 5\nI am the son of Marcus Cato, ho!\nFTLN 2543\nEnter Soldiers and fight.\nLUCILIUS\nAnd I am Brutus, Marcus Brutus, I!\nFTLN 2544\nBrutus, my country’s friend! Know me for Brutus.\nFTLN 2545\nCato is killed.\nO young and noble Cato, art thou down?\nFTLN 2546",
+    "act": "5",
+    "scene": "4",
+    "heading_lines_top": [
+      "199 Julius Caesar ACT 5. SC. 4",
+      "199 Julius Caesar ACT 5. SC. 4"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 102,
+    "clean_text": "201 Julius Caesar ACT 5. SC. 4\nFTLN 2547 Why, now thou diest as bravely as Titinius 10\nAnd mayst be honored, being Cato’s son.\nFTLN 2548\n, seizing Lucilius\nFIRST SOLDIER\nYield, or thou diest.\nFTLN 2549\nFTLN 2550 LUCILIUS Only I yield to die.\nThere is so much that thou wilt kill me straight.\nFTLN 2551\nOffering money.\nFTLN 2552 Kill Brutus and be honored in his death. 15\nFIRST SOLDIER\nWe must not. A noble prisoner!\nFTLN 2553\nEnter Antony.\nSECOND SOLDIER\nRoom, ho! Tell Antony Brutus is ta’en.\nFTLN 2554\nFIRST SOLDIER\nFTLN 2555 I’ll tell the news. Here comes the General.—\nBrutus is ta’en, Brutus is ta’en, my lord.\nFTLN 2556\nFTLN 2557 ANTONY Where is he? 20\nLUCILIUS\nSafe, Antony, Brutus is safe enough.\nFTLN 2558\nI dare assure thee that no enemy\nFTLN 2559\nShall ever take alive the noble Brutus.\nFTLN 2560\nThe gods defend him from so great a shame!\nFTLN 2561\nFTLN 2562 When you do find him, or alive or dead, 25\nHe will be found like Brutus, like himself.\nFTLN 2563\nANTONY\nThis is not Brutus, friend, but I assure you,\nFTLN 2564\nA prize no less in worth. Keep this man safe.\nFTLN 2565\nGive him all kindness. I had rather have\nFTLN 2566\nFTLN 2567 Such men my friends than enemies. Go on, 30\nAnd see whe’er Brutus be alive or dead,\nFTLN 2568\nAnd bring us word unto Octavius’ tent\nFTLN 2569\nHow everything is chanced.\nFTLN 2570\nThey exit in different directions.",
+    "act": "5",
+    "scene": "4",
+    "heading_lines_top": [
+      "201 Julius Caesar ACT 5. SC. 4",
+      "201 Julius Caesar ACT 5. SC. 4"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 103,
+    "clean_text": "203 Julius Caesar ACT 5. SC. 5\nScene 5\nEnter Brutus, Dardanus, Clitus, Strato, and Volumnius.\nBRUTUS\nCome, poor remains of friends, rest on this rock.\nFTLN 2571\nHe sits down.\nCLITUS\nStatilius showed the torchlight, but, my lord,\nFTLN 2572\nHe came not back. He is or ta’en or slain.\nFTLN 2573\nBRUTUS\nSit thee down, Clitus. Slaying is the word;\nFTLN 2574\nFTLN 2575 It is a deed in fashion. Hark thee, Clitus. 5\nHe whispers to Clitus.\nCLITUS\nWhat, I, my lord? No, not for all the world.\nFTLN 2576\nBRUTUS\nPeace, then, no words.\nFTLN 2577\nFTLN 2578 CLITUS I’ll rather kill myself.\nBRUTUS\nFTLN 2579 Hark thee, Dardanus. He whispers to Dardanus.\nFTLN 2580 DARDANUS Shall I do such a deed? 10\nFTLN 2581 CLITUS O Dardanus!\nFTLN 2582 DARDANUS O Clitus!\nDardanus and Clitus step aside.\nCLITUS\nWhat ill request did Brutus make to thee?\nFTLN 2583\nDARDANUS\nTo kill him, Clitus. Look, he meditates.\nFTLN 2584\nCLITUS\nFTLN 2585 Now is that noble vessel full of grief, 15\nThat it runs over even at his eyes.\nFTLN 2586\nBRUTUS\nCome hither, good Volumnius. List a word.\nFTLN 2587\nVOLUMNIUS\nWhat says my lord?\nFTLN 2588\nFTLN 2589 BRUTUS Why this, Volumnius:",
+    "act": "5",
+    "scene": "5",
+    "heading_lines_top": [
+      "203 Julius Caesar ACT 5. SC. 5",
+      "203 Julius Caesar ACT 5. SC. 5",
+      "Scene 5"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 104,
+    "clean_text": "205 Julius Caesar ACT 5. SC. 5\nFTLN 2590 The ghost of Caesar hath appeared to me 20\nTwo several times by night—at Sardis once\nFTLN 2591\nAnd this last night here in Philippi fields.\nFTLN 2592\nI know my hour is come.\nFTLN 2593\nFTLN 2594 VOLUMNIUS Not so, my lord.\nBRUTUS\nFTLN 2595 Nay, I am sure it is, Volumnius. 25\nThou seest the world, Volumnius, how it goes.\nFTLN 2596\nOur enemies have beat us to the pit. Low alarums.\nFTLN 2597\nIt is more worthy to leap in ourselves\nFTLN 2598\nThan tarry till they push us. Good Volumnius,\nFTLN 2599\nFTLN 2600 Thou know’st that we two went to school together; 30\nEven for that our love of old, I prithee,\nFTLN 2601\nHold thou my sword hilts whilst I run on it.\nFTLN 2602\nVOLUMNIUS\nThat’s not an office for a friend, my lord.\nFTLN 2603\nAlarum continues.\nCLITUS\nFly, fly, my lord! There is no tarrying here.\nFTLN 2604\nBRUTUS\nFTLN 2605 Farewell to you—and you—and you, Volumnius.— 35\nStrato, thou hast been all this while asleep.\nFTLN 2606\nFarewell to thee, too, Strato.—Countrymen,\nFTLN 2607\nMy heart doth joy that yet in all my life\nFTLN 2608\nI found no man but he was true to me.\nFTLN 2609\nFTLN 2610 I shall have glory by this losing day 40\nMore than Octavius and Mark Antony\nFTLN 2611\nBy this vile conquest shall attain unto.\nFTLN 2612\nSo fare you well at once, for Brutus’ tongue\nFTLN 2613\nHath almost ended his life’s history.\nFTLN 2614\nFTLN 2615 Night hangs upon mine eyes; my bones would rest, 45\nThat have but labored to attain this hour.\nFTLN 2616\nAlarum. Cry within “Fly, fly, fly!”\nCLITUS\nFly, my lord, fly!\nFTLN 2617\nFTLN 2618 BRUTUS Hence. I will follow.\nAll exit but Brutus and Strato.",
+    "act": "5",
+    "scene": "5",
+    "heading_lines_top": [
+      "205 Julius Caesar ACT 5. SC. 5",
+      "205 Julius Caesar ACT 5. SC. 5"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 105,
+    "clean_text": "207 Julius Caesar ACT 5. SC. 5\nI prithee, Strato, stay thou by thy lord.\nFTLN 2619\nFTLN 2620 Thou art a fellow of a good respect; 50\nThy life hath had some smatch of honor in it.\nFTLN 2621\nHold, then, my sword, and turn away thy face\nFTLN 2622\nWhile I do run upon it. Wilt thou, Strato?\nFTLN 2623\nSTRATO\nGive me your hand first. Fare you well, my lord.\nFTLN 2624\nBRUTUS\nFTLN 2625 Farewell, good Strato. 55\nBrutus runs on his sword.\nCaesar, now be still.\nFTLN 2626\nFTLN 2627 I killed not thee with half so good a will. He dies.\nAlarum. Retreat. Enter Antony, Octavius, Messala,\nLucilius, and the army.\nFTLN 2628 OCTAVIUS What man is that?\nMESSALA\nMy master’s man.—Strato, where is thy master?\nFTLN 2629\nSTRATO\nFTLN 2630 Free from the bondage you are in, Messala. 60\nThe conquerors can but make a fire of him,\nFTLN 2631\nFor Brutus only overcame himself,\nFTLN 2632\nAnd no man else hath honor by his death.\nFTLN 2633\nLUCILIUS\nSo Brutus should be found.—I thank thee, Brutus,\nFTLN 2634\nFTLN 2635 That thou hast proved Lucilius’ saying true. 65\nOCTAVIUS\nAll that served Brutus, I will entertain them.—\nFTLN 2636\nFellow, wilt thou bestow thy time with me?\nFTLN 2637\nSTRATO\nAy, if Messala will prefer me to you.\nFTLN 2638\nOCTAVIUS\nDo so, good Messala.\nFTLN 2639\nFTLN 2640 MESSALA How died my master, Strato? 70\nSTRATO\nI held the sword, and he did run on it.\nFTLN 2641",
+    "act": "5",
+    "scene": "5",
+    "heading_lines_top": [
+      "207 Julius Caesar ACT 5. SC. 5",
+      "207 Julius Caesar ACT 5. SC. 5"
+    ],
+    "is_front_matter": false
+  },
+  {
+    "page_num": 106,
+    "clean_text": "209 Julius Caesar ACT 5. SC. 5\nMESSALA\nOctavius, then take him to follow thee,\nFTLN 2642\nThat did the latest service to my master.\nFTLN 2643\nANTONY\nThis was the noblest Roman of them all.\nFTLN 2644\nFTLN 2645 All the conspirators save only he 75\nDid that they did in envy of great Caesar.\nFTLN 2646\nHe only in a general honest thought\nFTLN 2647\nAnd common good to all made one of them.\nFTLN 2648\nHis life was gentle and the elements\nFTLN 2649\nFTLN 2650 So mixed in him that nature might stand up 80\nAnd say to all the world “This was a man.”\nFTLN 2651\nOCTAVIUS\nAccording to his virtue, let us use him\nFTLN 2652\nWith all respect and rites of burial.\nFTLN 2653\nWithin my tent his bones tonight shall lie,\nFTLN 2654\nFTLN 2655 Most like a soldier, ordered honorably. 85\nSo call the field to rest, and let’s away\nFTLN 2656\nTo part the glories of this happy day.\nFTLN 2657\nThey all exit.",
+    "act": "5",
+    "scene": "5",
+    "heading_lines_top": [
+      "209 Julius Caesar ACT 5. SC. 5",
+      "209 Julius Caesar ACT 5. SC. 5"
+    ],
+    "is_front_matter": false
+  }
+]
